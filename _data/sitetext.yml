@@ -1,6 +1,6 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: A proposal to NASA Earth Venture Mission - 3
+    text: Butterfly
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
