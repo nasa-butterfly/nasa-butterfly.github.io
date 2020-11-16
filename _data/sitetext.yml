@@ -85,9 +85,19 @@ team:
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/1.jpg
+      - name: "Chelle Gentemann"
+        role: "Principal Investigator"
+        image: assets/img/team/gentemann.jpg
+        social:
+          - url: https://twitter.com/chellegentemann
+            icon: fab fa-twitter
+          - url: https://github.com/cgentemann
+            icon: "fab fa-github"
+          - url: https://linkedin.com/cgentemann
+            icon: fab fa-linkedin-in
+      - name: "Carol Anne Clayson"
+        role: "Deputy Principal Investigator"
+        image: assets/img/team/clayson.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -95,9 +105,9 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: "Tony Lee"
+        role: "Project Scientist"
+        image: assets/img/team/lee.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -105,9 +115,9 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/3.jpg
+      - name: "Shannon Brown"
+        role: "Deputy Project Scientist"
+        image: assets/img/team/brown.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -115,10 +125,80 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-          
+      - name: "Kelly Lombardo"
+        role: "Co-Investigator - Lead Science Objective 1A"
+        image: assets/img/team/lee.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Rhys Parfitt"
+        role: "Co-Investigator - Deputy Lead Science Objective 1A"
+        image: assets/img/team/parfitt.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Hyodae Seo"
+        role: "Co-Investigator - Lead Science Objective 1B"
+        image: assets/img/team/lee.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Aneesh Subramanian"
+        role: "Co-Investigator - Deputy Lead Science Objective 1B"
+        image: assets/img/team/lee.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Sarah Gille"
+        role: "Co-Investigator - Lead Science Objective 2"
+        image: assets/img/team/lee.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Tom Farrar"
+        role: "Co-Investigator - Deputy Lead Science Objective 2"
+        image: assets/img/team/lee.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Mark Bourassa"
+        role: "Co-Investigator - Lead Cal/Val"
+        image: assets/img/team/lee.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+         
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "nasa-butterfly@faralloninstitute.org"
     section: contact
     
 footer:
@@ -130,7 +210,7 @@ footer:
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/nasa-butterfly/agency-jekyll-theme
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
