@@ -5,10 +5,10 @@ ph: (858) 822 4425 fax: (858) 534 9820
 email: sgille@ucsd.edu http://www-pord.ucsd.edu/~sgille
 
 ## Education:
-- 1997 - 1998 Postdoc Physical Oceanography, Univ. of East Anglia, Norwich, UK
-- 1995 - 1997 Postdoc Physical Oceanography, Scripps Inst. Oceanography
-- 1995 Ph.D. Physical Oceanography, M.I.T./WHOI Joint Program
-- 1988 B.S. Physics, Yale University
+- 1997 - 1998: Postdoc Physical Oceanography, Univ. of East Anglia, Norwich, UK
+- 1995 - 1997: Postdoc Physical Oceanography, Scripps Inst. Oceanography
+- 1995: Ph.D. Physical Oceanography, M.I.T./WHOI Joint Program
+- 1988: B.S. Physics, Yale University
 
 ## Experience:
 - 2008 - present: Professor, Scripps Institution of Oceanography, University of California San Diego.  Also Department Vice Chair from 2019 - present. (Until 2012, also in Department of Mechanical and Aerospace Engineering)
