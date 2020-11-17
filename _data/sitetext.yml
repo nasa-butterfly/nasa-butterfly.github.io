@@ -147,7 +147,7 @@ team:
             icon: fab fa-file
       - name: "Hyodae Seo"
         role: "Co-Investigator - Lead Science Objective 1B"
-        image: assets/img/team/seo.jpg
+        image: assets/img/team/seo.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
