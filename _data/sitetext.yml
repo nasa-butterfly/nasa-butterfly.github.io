@@ -93,43 +93,43 @@ team:
             icon: fab fa-twitter
           - url: https://github.com/cgentemann
             icon: "fab fa-github"
-          - url: https://github.com/https://github.com/nasa-butterfly/nasa-butterfly.github.io/tree/main/assets/science_team_resumes/gentemann.md
+          - url: https://github.com/nasa-butterfly/nasa-butterfly.github.io/blob/master/assets/science_team_resumes/gentemann.md
             icon: fas fa-file-alt
       - name: "Carol Anne Clayson"
         role: "Deputy Principal Investigator"
         image: assets/img/team/clayson.jpg
         social:
-          - url: https://github.com/https://github.com/nasa-butterfly/nasa-butterfly.github.io/tree/main/assets/science_team_resumes/clayson.md
+          - url: https://github.com/nasa-butterfly/nasa-butterfly.github.io/blob/master/assets/science_team_resumes/clayson.md
             icon: fas fa-file-alt
       - name: "Tony Lee"
         role: "Project Scientist"
         image: assets/img/team/lee.jpg
         social:
-          - url: https://github.com/https://github.com/nasa-butterfly/nasa-butterfly.github.io/tree/main/assets/science_team_resumes/lee.md
+          - url: https://github.com/nasa-butterfly/nasa-butterfly.github.io/blob/master/assets/science_team_resumes/lee.md
             icon: fas fa-file-alt
       - name: "Shannon Brown"
         role: "Deputy Project Scientist"
         image: assets/img/team/brown.jpg
         social:
-          - url: https://github.com/https://github.com/nasa-butterfly/nasa-butterfly.github.io/tree/main/assets/science_team_resumes/brown.md
+          - url: https://github.com/nasa-butterfly/nasa-butterfly.github.io/blob/master/assets/science_team_resumes/brown.md
             icon: fas fa-file-alt
       - name: "Kelly Lombardo"
         role: "Co-Investigator - Lead Science Objective 1A"
         image: assets/img/team/lombardo.jpg
         social:
-          - url: https://github.com/https://github.com/nasa-butterfly/nasa-butterfly.github.io/tree/main/assets/science_team_resumes/lombardo.md
+          - url: https://github.com/nasa-butterfly/nasa-butterfly.github.io/blob/master/assets/science_team_resumes/lombardo.md
             icon: fas fa-file-alt
       - name: "Rhys Parfitt"
         role: "Co-Investigator - Deputy Lead Science Objective 1A"
         image: assets/img/team/parfitt.jpg
         social:
-          - url: https://github.com/https://github.com/nasa-butterfly/nasa-butterfly.github.io/tree/main/assets/science_team_resumes/parfitt.md
+          - url: https://github.com/nasa-butterfly/nasa-butterfly.github.io/blob/master/assets/science_team_resumes/parfitt.md
             icon: fas fa-file-alt
       - name: "Hyodae Seo"
         role: "Co-Investigator - Lead Science Objective 1B"
         image: assets/img/team/seo.png
         social:
-          - url: https://github.com/https://github.com/nasa-butterfly/nasa-butterfly.github.io/tree/main/assets/science_team_resumes/seo.md
+          - url: https://github.com/nasa-butterfly/nasa-butterfly.github.io/blob/master/assets/science_team_resumes/seo.md
             icon: fas fa-file-alt
       - name: "Aneesh Subramanian"
         role: "Co-Investigator - Deputy Lead Science Objective 1B"
@@ -137,25 +137,25 @@ team:
         social:
           - url: https://twitter.com/aneeshcs
             icon: fab fa-twitter
-          - url: https://github.com/https://github.com/nasa-butterfly/nasa-butterfly.github.io/tree/main/assets/science_team_resumes/subramanian.md
+          - url: https://github.com/nasa-butterfly/nasa-butterfly.github.io/blob/master/assets/science_team_resumes/subramanian.md
             icon: fas fa-file-alt
       - name: "Sarah Gille"
         role: "Co-Investigator - Lead Science Objective 2"
         image: assets/img/team/gille.jpg
         social:
-          - url: https://github.com/https://github.com/nasa-butterfly/nasa-butterfly.github.io/tree/main/assets/science_team_resumes/fille.md
+          - url: https://github.com/nasa-butterfly/nasa-butterfly.github.io/blob/master/assets/science_team_resumes/gille.md
             icon: fas fa-file-alt
       - name: "Tom Farrar"
         role: "Co-Investigator - Deputy Lead Science Objective 2"
         image: assets/img/team/farrar.jpg
         social:
-          - url: https://github.com/https://github.com/nasa-butterfly/nasa-butterfly.github.io/tree/main/assets/science_team_resumes/farrar.md
+          - url: https://github.com/nasa-butterfly/nasa-butterfly.github.io/blob/master/assets/science_team_resumes/farrar.md
             icon: fas fa-file-alt
       - name: "Mark Bourassa"
         role: "Co-Investigator - Lead Cal/Val"
         image: assets/img/team/bourassa.jpg
         social:
-          - url: https://github.com/https://github.com/nasa-butterfly/nasa-butterfly.github.io/tree/main/assets/science_team_resumes/bourassa.md
+          - url: https://github.com/nasa-butterfly/nasa-butterfly.github.io/blob/master/assets/science_team_resumes/bourassa.md
             icon: fas fa-file-alt
          
 contact:
