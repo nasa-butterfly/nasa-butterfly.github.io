@@ -21,43 +21,42 @@ Exchanges of heat, moisture, and momentum between the ocean and the atmosphere. 
 - 1988: B.S. Physics and Astronomy, Brigham Young University
 
 ## Awards:
-- 2010 Florida State University Graduate Faculty Mentor Award
-- 2005 Florida State University Developing Scholar Award
-- 2000 Presidential Early Career Award for Scientists and Engineers (PECASE)
-- 2000 ONR Young Investigator Award
-- 1999 Purdue Teaching for Tomorrow Award
-- 1996 NSF CAREER Award
+- 2010: Florida State University Graduate Faculty Mentor Award
+- 2005: Florida State University Developing Scholar Award
+- 2000: Presidential Early Career Award for Scientists and Engineers (PECASE)
+- 2000: ONR Young Investigator Award
+- 1999: Purdue Teaching for Tomorrow Award
+- 1996: NSF CAREER Award
 
 ## Science Teams, Working Groups, Organizing Committees: 
-- Chair, US CLIVAR, 2020
-- US CLIVAR SSC Executive Committee, 2018 – 2020
-- TPOS2020 Backbone Task Team, 2018 – present
-- UCAR Members Nominating Committee, 2018 – present
-- AMS Nominating Committee, 2019 - present
-- AMS Council, 2015 – 2017
-- AMS Satellite Meteorology, Oceanography, and Climatology Committee, 2012 – 2018
-- UCAR Advocacy for the Science Community, 2016 - present
-- US CLIVAR Phenomena, Observation, and Synthesis Panel, 2014 – 2017
-- NASA PO.DAAC User Working Group, 2015 – present 
-- AMS Board of Meteorological and Oceanographic Education in Universities, 2000-2003
-- AMS Committee on Coastal Environments, 2009 – 2016
-- AMS Committee on Interaction of the Sea and Atmosphere, 2000 – 2005 
-- Member, NASA Sea Surface Temperature Science Team, 2009  - present
-- Member, NASA Ocean Salinity Science Team, 2014 – present
-- Member, GHRSST Science Team, 2013 - present
-- Co-Chair, NASA Decadal Review, Panel on Climate Change and Variability, 2016 - 2018
-- Panel on Water Cycle and Water, 2005 – 2007
-- Board on Atmospheric Sciences and Climate, 2005 – 2009
-- Committee for Study on TRMM, 2004 – 2006
-- Committee on Earth Studies, 2002 – 2005
-- Institute of Geophysical and Planetary Physics, Los Alamos National Laboratory, 2009 – 2017
-- Univ. of Colo. Aerospace Engineering Sciences’ External Advisory Board, 2005  - 2018
-- NOAA Cooperative Institute Reviews, 2012
-- NASA Science Review, 2005
-- Chair, WCRP Data and Advisory Council, Surface Flux Task Team, 2016 – present
-- Chair, WCRP GEWEX SeaFlux Project, 2005 - present
-- Chair, Global High Resolution Sea Surface Temperature (GHRSST) Diurnal Variability Working Group, 2014 – 2018
-
+- 2020: Chair, US CLIVAR
+- 2018 - 2020: US CLIVAR SSC Executive Committee
+- 2018 - present: TPOS2020 Backbone Task Team
+- 2018 - present: UCAR Members Nominating Committee
+- 2019 - present: AMS Nominating Committee
+- 2015 - 2017: AMS Council
+- 2012 - 2018: AMS Satellite Meteorology, Oceanography, and Climatology Committee
+- 2016 - present: UCAR Advocacy for the Science Community
+- 2014 - 2017: US CLIVAR Phenomena, Observation, and Synthesis Panel
+- 2015 - present: NASA PO.DAAC User Working Group
+- 2000 - 2003: AMS Board of Meteorological and Oceanographic Education in Universities
+- 2009 - 2016: AMS Committee on Coastal Environments
+- 2000 - 2005: AMS Committee on Interaction of the Sea and Atmosphere
+- 2009 - present: Member, NASA Sea Surface Temperature Science Team
+- 2014 - present: Member, NASA Ocean Salinity Science Team
+- 2013 - present: Member, GHRSST Science Team
+- 2016 - 2018: Co-Chair, NASA Decadal Review, Panel on Climate Change and Variability
+- 2005 - 2007: Panel on Water Cycle and Water
+- 2005 - 2009: Board on Atmospheric Sciences and Climate
+- 2004 - 2006: Committee for Study on TRMM
+- 2002 - 2005: Committee on Earth Studies
+- 2009 - 2017: Institute of Geophysical and Planetary Physics, Los Alamos National Laboratory
+- 2005 - 2018: Univ. of Colo. Aerospace Engineering Sciences’ External Advisory Board
+- 2012: NOAA Cooperative Institute Reviews
+- 2005: NASA Science Review
+- 2016 - present: Chair, WCRP Data and Advisory Council, Surface Flux Task Team
+- 2005 - present: Chair, WCRP GEWEX SeaFlux Project
+- 2014 - 2018: Chair, Global High Resolution Sea Surface Temperature (GHRSST) Diurnal Variability Working Group
 
 ## Other Professional Service/Activities:
 - Outreach: Presentation, WHOI Board of Trustees, 24 May 2012. WHOI Trustee Partner, 2012 - . Presentation, NYC fundraising trustee event, 28 January 2013.  Presentation, Massachusetts Marine Educators, 6 April 2013 at WHOI Redfield Auditorium. Congressional staff briefings at 50th Anniversary of Alvin celebrations, Washington, DC., 17 September 2014. Presentation on Non-Federal Funding to Marine Geosciences Leadership Seminar, 20 March 2015. Organized joint AMS-SWF Webinar on “Challenges in Sharing Weather Satellite Spectrum with Terrestrial Networks,” Washington, DC 27 March, 2015. 2015 Climate Science Day on Capitol Hill participant, 10-11 February 2015.  Keynote presentation MassMutual Women in Technology conference, Springfield, MA 24 April 2015. Presentation to Council on Foreign Relations, Washington, DC 29 October 2015. Currently working with Dobyns-Bennett High School, Kingsport, TN to develop AP Seminar course on Oceanography. Presentation for Lunch with a View Series, July, 2018. Presentation to Scituate STEAMcollab Symposium, Scituate, MA, 1 March 2018.
