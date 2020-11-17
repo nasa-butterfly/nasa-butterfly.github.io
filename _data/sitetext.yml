@@ -66,19 +66,30 @@ clients:
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/nasa-butterfly/nasa-butterfly.github.io
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/nasa-butterfly/nasa-butterfly.github.io
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/nasa-butterfly/nasa-butterfly.github.io
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/nasa-butterfly/nasa-butterfly.github.io
-        logo: assets/img/clients/creative-market.jpg
-    
+      - title: "Farallon Institute"
+        url: https://faralloninstitute.org
+        logo: assets/img/clients/FI.png
+      - title: "Jet Propulsion Laboratory"
+        url: https://www.jpl.nasa.gov/
+        logo: assets/img/clients/jpl.jpg
+      - title: "Woods Hole Oceanographic Institution"
+        url: http://whoi.edu/
+        logo: assets/img/clients/whoi.jpg
+      - title: "Ball Aerospace"
+        url: https://www.ball.com/aerospace
+        logo: assets/img/clients/ball.png
+      - title: "Florida State University"
+        url: https://www.fsu.edu/
+        logo: assets/img/clients/FSU.png
+      - title: "Penn State University"
+        url: https://www.psu.edu
+        logo: assets/img/clients/penn.png
+      - title: "Scripps Institute of Oceanography"
+        url: https://scripps.ucsd.edu/
+        logo: assets/img/clients/sio.png
+      - title: "University of Colorado"
+        url: https://www.colorado.edu/
+        logo: assets/img/clients/ucolorado.jpg      
 team:
     title: "OUR AMAZING TEAM"
     text: "Our amazing team!"
