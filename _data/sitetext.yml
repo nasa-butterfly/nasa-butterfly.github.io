@@ -61,8 +61,10 @@ about:
     text: "Our science team is open source, open data, and open science. We are cloud-based and looking for community solutions to advance air-sea interactions research. We want to work with *you*!"
     section: about
 
-partners:
-    section: partners
+clients:
+    title: "Partners" 
+    text: "Institutional Partners"
+    section: clients
     max-height: 100px
     horizontal-scrolling: "yes" #"yes/no"
     list:

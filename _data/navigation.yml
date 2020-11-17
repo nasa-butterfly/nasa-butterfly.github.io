@@ -1,9 +1,9 @@
 nav:
   - title: "Science"
-    section: science
+    section: services
 
   - title: "Mission Concept"
-    section: mission_concept
+    section: porfolio
     
   - title: "About"
     section: timeline
