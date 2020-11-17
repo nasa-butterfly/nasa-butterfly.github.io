@@ -16,9 +16,9 @@ Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud 
 - 2/1998 – 10/2015: Remote Sensing Systems, Scientist – 2012, -Senior Principal Scientist -2015.  
 
 ## Education:
-- 2003 - 2007 Ph.D. Meteorology and Physical Oceanography, University of Miami (Advisor: Peter Minnett)
-- 1995 - 1997 M.S. Physical Oceanography, Scripps Institution of Oceanography, UCSD
-- 1991 - 1995 B.S. Massachusetts Institute of Technology
+- 2003 - 2007: Ph.D. Meteorology and Physical Oceanography, University of Miami (Advisor: Peter Minnett)
+- 1995 - 1997: M.S. Physical Oceanography, Scripps Institution of Oceanography, UCSD
+- 1991 - 1995: B.S. Massachusetts Institute of Technology
 
 ## Science Teams, Working Groups, Organizing Committees:
 - National Academies of Sciences, Engineering, and Medicine
