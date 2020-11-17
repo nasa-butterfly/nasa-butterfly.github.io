@@ -25,16 +25,16 @@ These interests are pursued using in situ observations, satellite observations, 
 - 2000: B.A. Philosophy, University of Oklahoma
 
 ## Awards:
-- 2018 - Principal Investigator of the Sub-Mesoscale Ocean Dynamics Experiment (S-MODE), a $30M NASA Earth Venture Suborbital Mission with 21 co-investigators, remote sensing measurements from three aircraft, and three research cruises that will take place in 2020-2021. 
-- 2017 - American Meteorological Society Nicholas P. Fofonoff Award in recognition of research achievement in physical oceanography, for “insightful analysis of observations yielding a deeper understanding of tropical and upper ocean dynamics, and for generous collaboration and leadership in major field experiments” 
-- 2012 - Editors’ Citation for Excellence in Refereeing, Journal of Geophysical Research-Oceans 
-- 2006 - Outstanding Student Paper Award, AGU Ocean Sciences meeting 
-- 2000 - 2001 - MIT Presidential Fellowship 
-- 2000 - Most Outstanding Physics Student, University of Oklahoma 
-- 1999 - Phi Beta Kappa 
-- 1999 - Golden Key National Honor Society 
-- 1998 - Sigma Pi Sigma (physics honor society) 
-- 1994 - National Merit Scholar 
+- 2018: Principal Investigator of the Sub-Mesoscale Ocean Dynamics Experiment (S-MODE), a $30M NASA Earth Venture Suborbital Mission with 21 co-investigators, remote sensing measurements from three aircraft, and three research cruises that will take place in 2020-2021. 
+- 2017: American Meteorological Society Nicholas P. Fofonoff Award in recognition of research achievement in physical oceanography, for “insightful analysis of observations yielding a deeper understanding of tropical and upper ocean dynamics, and for generous collaboration and leadership in major field experiments” 
+- 2012: Editors’ Citation for Excellence in Refereeing, Journal of Geophysical Research-Oceans 
+- 2006: Outstanding Student Paper Award, AGU Ocean Sciences meeting 
+- 2000: 2001 - MIT Presidential Fellowship 
+- 2000: Most Outstanding Physics Student, University of Oklahoma 
+- 1999: Phi Beta Kappa 
+- 1999: Golden Key National Honor Society 
+- 1998: Sigma Pi Sigma (physics honor society) 
+- 1994: National Merit Scholar 
 
 ## Publications (*student or postdoc of Farrar; †other student or postdoc) 
 1. J.T. Farrar and R. A. Weller. Intraseasonal variability near 10◦N in the eastern tropical Pacific Ocean. J. Geophys. Res., 111(C05015):doi: 10.1029/2005JC002989, 2006. 
@@ -136,27 +136,33 @@ Farrar: September 15, 2020 4/15
 1. Farrar, J.T. The evolution of upper ocean thermal structure at 10◦N, 125◦W during 1997-1998. Master’s thesis, Massachusetts Institute of Technology, 2003. 
 
 ## Service:
-- Co-chair, TPOS-2020 (Tropical Pacific Observing System) Task Team on Planetary Boundary Layers, 2015-present 
-- Co-chair, SPURS-2 (Salinity Processes in the Upper-ocean Regional Study) Science Steering Committee, 2015-present 
-- Co-chair, US CLIVAR Process Study and Model Improvement Panel, 2013-2014 ○␣ Organizer, SWOT Science Campaign Workshop, October 2018. 
-- Organizer, Doppler Scatterometer Field Campaign Workshop, August 2017. 
-- Organizer, SPURS-2 (Salinity Processes in the Upper-ocean Regional Study) Planning Workshop, April 2014. 
-- Subject Matter Expert, NASA Surface Water Ocean Topography Algorithm Development Team, 2018- present 
-- Member of Organizing Committee for the US CLIVAR Workshop on Surface Currents in the Coupled Ocean-Atmosphere System, February 2020 
-- Member of International CLIVAR Atlantic Implementation Panel, 2011-2015 
-- Member of US CLIVAR Process Study and Model Improvement Panel, 2012-2016 ○␣ Member of TPOS-2020 (Tropical Pacific Observing System) Scientific Steering Committee, 2014-present - Member of NASA Surface Water Ocean Topography Algorithm Development Team steering committee, 2014-2016 
-- Member of Science Committee of the European Space Agency’s Ocean Salinity Science and Salinity Remote Sensing Workshop, 2014 
-- Member of ASIRI (Air-Sea Interaction Regional Initiative) Steering Committee, 2012-2017 ○␣ Member of NASA Ocean Surface Topography Science Team, 2012-present 
-- Member of NASA Ocean Vector Wind Science Team, 2010-2018 
-- Member of MISO-BoB (Monsoon Intraseasonal Oscillations in the Bay of Bengal) Steering Committee, 2016-present 
-- Member of SPURS (Salinity Processes in the Upper-ocean Regional Study) Science Steering Committee, 2011-2015 
-- Member of WHOI Search Committee for Physical Oceanography Department Chair, 2010 ○␣ Member of WHOI Search Committee for Vice President of Marine Operations, 2008-2009 ○␣ Member of WHOI Diversity Committee, 2008-2010 
-- Member of WHOI’s Gender Equity Program Advisory Committee, 2004-2006 
-- Secretary, WHOI Postdoctoral Association, elected representative of the physical oceanography department, 2007-2008 
-- President, Sigma Pi Sigma (physics honor society), U. Oklahoma Chapter, 1999-2000 
+- 2015 - present: Co-chair, TPOS-2020 (Tropical Pacific Observing System) Task Team on Planetary Boundary Layers
+- 2015 - present: Co-chair, SPURS-2 (Salinity Processes in the Upper-ocean Regional Study) Science Steering Committee
+- 2013 - 2014: Co-chair, US CLIVAR Process Study and Model Improvement Panel
+- 2018: Organizer, SWOT Science Campaign Workshop
+- 2017: Organizer, Doppler Scatterometer Field Campaign Workshop
+- 2014: Organizer, SPURS-2 (Salinity Processes in the Upper-ocean Regional Study) Planning Workshop
+- 2018 - present: Subject Matter Expert, NASA Surface Water Ocean Topography Algorithm Development Team
+- 2020: Member of Organizing Committee for the US CLIVAR Workshop on Surface Currents in the Coupled Ocean-Atmosphere System
+- 2011 - 2015: Member of International CLIVAR Atlantic Implementation Panel
+- 2012 - 2016: Member of US CLIVAR Process Study and Model Improvement Panel
+- 2014 - present: Member of TPOS-2020 (Tropical Pacific Observing System) Scientific Steering Committee
+- 2014 - 2016: Member of NASA Surface Water Ocean Topography Algorithm Development Team steering committee
+- 2014: Member of Science Committee of the European Space Agency’s Ocean Salinity Science and Salinity Remote Sensing Workshop
+- 2012 - 2017: Member of ASIRI (Air-Sea Interaction Regional Initiative) Steering Committee
+- 2012 - present: Member of NASA Ocean Surface Topography Science Team
+- 2010 - 2018: Member of NASA Ocean Vector Wind Science Team
+- 2016 - present: Member of MISO-BoB (Monsoon Intraseasonal Oscillations in the Bay of Bengal) Steering Committee
+- 2011 - 2015: Member of SPURS (Salinity Processes in the Upper-ocean Regional Study) Science Steering Committee
+- 2010: Member of WHOI Search Committee for Physical Oceanography Department Chair
+- 2008 - 2009: Member of WHOI Search Committee for Vice President of Marine Operations
+- 2008 - 2010: Member of WHOI Diversity Committee
+- 2004 - 2006: Member of WHOI’s Gender Equity Program Advisory Committee
+- 2007 - 2008: Secretary, WHOI Postdoctoral Association, elected representative of the physical oceanography department
+- 1999 - 2000: President, Sigma Pi Sigma (physics honor society), U. Oklahoma Chapter
 - Reviewer for Science, Geophysical Research Letters, Journal of Physical Oceanography, Journal of Geo physical Research, Ocean Science, Journal of Atmospheric and Oceanic Technology, Climate Dynamics, Journal of Climate, Dynamics of Atmospheres and Oceans, Monthly Weather Review, Deep Sea Research, Journal of Earth System Science, Weather and Forecasting, Oceanologia, Atmospheric Science Letters, Ocean Dynamics, Journal of Operational Oceanography, Remote Sensing of Environment, Oceanography, Scientific Reports, Journal of Atmospheric Sciences, Marine Technology Society Journal, Proceedings of the National Academy of Sciences, PLOS One, and Journal of Climate. 
 - Proposal reviewer for US National Science Foundation, UK Natural Environment Research Council, NASA 
-- Panel reviewer for National Science Foundation (2010) and National Oceanic and Atmospheric Administration (2010) 
+- 2010: Panel reviewer for National Science Foundation and National Oceanic and Atmospheric Administration
 
 ## Educational Activities: 
 - Thesis committee member for: Ping Zhai (MIT-WHOI, S.M. awarded 2011), Ping Zhai (MIT-WHOI, Ph.D. awarded 2014), Sudip Majumder (U. Mass., Ph.D. awarded 2014), Neeti Neeti (Clark Univ., Ph.D. awarded 2012), Sophia Merrifield (MIT-WHOI, Ph.D. awarded 2016), Julius Busecke (Columbia University; Ph.D. Awarded 2017), Gualtiero Spiro Jaeger (MIT-WHOI, Ph.D. awarded 2019), Samuel Levang (MIT-WHOI, Ph.D. awarded 2019), Julie Jakoboski (MIT-WHOI, Ph.D. awarded 2019). 
@@ -227,13 +233,13 @@ Farrar: September 15, 2020 4/15
 - March 2019: Cornell University, Atmospheric Sciences Seminar. Long-range Rossby wave radiation from an unstable ocean current. 
 
 ## Fieldwork Experience:
-- 2019 - MISO-BoB cruise, RV Sally Ride, Chennai, Indai to Chennai, India (Bay of Bengal). Led WHOI drogued surface buoy effort. Chief Scientist: Emily Shroyer. 
-- 2017 - IRENE cruise, BO SOCIB, Palma, Mallorca to Palma, Mallorca. Led WHOI drogued surface buoy effort and Underway CTD sampling. Chief Scientist: Simon Ruiz. 
-- 2016 - SPURS-2 deployment cruise in-port work; Honolulu. Worked with group members to assemble surface mooring buoy, prepare instruments and equipment, and load ship. 
-- 2012 - SPURS deployment cruise, RV Knorr; Woods Hole to Azores. Led WHOI mooring effort and Underway CTD sampling. Chief Scientist: Ray Schmitt. 
-- 2010 - Chief Scientist for King Abdullah University for Science and Technology mooring recovery cruise, SETE3 (tug) and SETE30 (barge); Durrat, Saudi Arabia to Durrat, Saudi Arabia (Red Sea). 2009: Chief Scientist for King Abdullah University for Science and Technology mooring recovery/redeployment cruise, SETE3 (tug) and SETE30 (barge); Durrat, Saudi Arabia to Durrat, Saudi Arabia (Red Sea). 2008: Chief Scientist for King Abdullah University for Science and Technology mooring deployment cruise, RV Oceanus; Jeddah, Saudi Arabia to Jeddah, Saudi Arabia. 
-- 2008 - Northern Tropical Atlantic Station mooring turnaround cruise, RV Oceanus; Woods Hole, MA to Barbados. Chief Scientist: Al Plueddemann. 
-- 2007 - CLIMODE and wave-measurement test mooring recovery cruise, RV Oceanus (Co-PI with Robert Weller). Participation in planning and execution of a dragging operation to retrieve remnants of a mooring that had previously failed in the Gulf Stream. Chief scientist: Robert Weller. 
-- 2007 - Chief Scientist for Wave-measurement Test Mooring deployment cruise, RV Oceanus; coastal waters south of Martha’s Vineyard, MA. 
-- 2003 - Chief Scientist for 3 of 5 cruise legs of Coupled Boundary Layers and Air-Sea Transfer Experiment, Low Winds, FV Nobska (PI, Robert Weller). 
-- 2001 - Salt Finger Tracer Release Experiment, RV Oceanus; Barbados to Barbados. SF6 tracer release and microstructure sampling, Chief Scientist: Raymond Schmitt. 
+- 2019: MISO-BoB cruise, RV Sally Ride, Chennai, Indai to Chennai, India (Bay of Bengal). Led WHOI drogued surface buoy effort. Chief Scientist: Emily Shroyer. 
+- 2017: IRENE cruise, BO SOCIB, Palma, Mallorca to Palma, Mallorca. Led WHOI drogued surface buoy effort and Underway CTD sampling. Chief Scientist: Simon Ruiz. 
+- 2016: SPURS-2 deployment cruise in-port work; Honolulu. Worked with group members to assemble surface mooring buoy, prepare instruments and equipment, and load ship. 
+- 2012: SPURS deployment cruise, RV Knorr; Woods Hole to Azores. Led WHOI mooring effort and Underway CTD sampling. Chief Scientist: Ray Schmitt. 
+- 2010: Chief Scientist for King Abdullah University for Science and Technology mooring recovery cruise, SETE3 (tug) and SETE30 (barge); Durrat, Saudi Arabia to Durrat, Saudi Arabia (Red Sea). 2009: Chief Scientist for King Abdullah University for Science and Technology mooring recovery/redeployment cruise, SETE3 (tug) and SETE30 (barge); Durrat, Saudi Arabia to Durrat, Saudi Arabia (Red Sea). 2008: Chief Scientist for King Abdullah University for Science and Technology mooring deployment cruise, RV Oceanus; Jeddah, Saudi Arabia to Jeddah, Saudi Arabia. 
+- 2008: Northern Tropical Atlantic Station mooring turnaround cruise, RV Oceanus; Woods Hole, MA to Barbados. Chief Scientist: Al Plueddemann. 
+- 2007: CLIMODE and wave-measurement test mooring recovery cruise, RV Oceanus (Co-PI with Robert Weller). Participation in planning and execution of a dragging operation to retrie: remnants of a mooring that had previously failed in the Gulf Stream. Chief scientist: Robert Weller. 
+- 2007: Chief Scientist for Wave-measurement Test Mooring deployment cruise, RV Oceanus; coastal waters south of Martha’s Vineyard, MA. 
+- 2003: Chief Scientist for 3 of 5 cruise legs of Coupled Boundary Layers and Air-Sea Transfer Experiment, Low Winds, FV Nobska (PI, Robert Weller). 
+- 2001: Salt Finger Tracer Release Experiment, RV Oceanus; Barbados to Barbados. SF6 tracer release and microstructure sampling, Chief Scientist: Raymond Schmitt. 
