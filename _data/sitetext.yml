@@ -6,11 +6,11 @@ header:
 
 services:
     title: "Science"
-    text: "Science"
+    text: "Science Goals and Objectives"
     section: services
     list:
       - title: "Science Goal"
-        desc: "How do small-scale ocean features affect large-scale weather and climate?"
+        desc: "To reveal how small-scale ocean features affect large-scale weather and climate."
         icon: fas fa-cloud-rain #find more at https://fontawesome.com/icons
       - title: "Science Objective 1"
         desc: "Determine whether small-scale spatial variations in air-sea fluxes near warm ocean currents affect large-scale storm evolution and prediction of long-term weather."
