@@ -19,10 +19,10 @@ These interests are pursued using in situ observations, satellite observations, 
 - 1998 - 2000: Student Laboratory Assistant Magneto-optical trapping laboratory (atomic-molecular physics), Physics Department, University of Oklahoma. 
 
 ## Education:
-- 2007 - Ph.D. Physical Oceanography, Massachusetts Institute of Technology-Woods Hole Oceanographic Institution
-- 2003 - S.M. Physical Oceanography, Massachusetts Institute of Technology
-- 2000 - B.S. Physics, University of Oklahoma
-- 2000 - B.A. Philosophy, University of Oklahoma
+- 2007: Ph.D. Physical Oceanography, Massachusetts Institute of Technology-Woods Hole Oceanographic Institution
+- 2003: S.M. Physical Oceanography, Massachusetts Institute of Technology
+- 2000: B.S. Physics, University of Oklahoma
+- 2000: B.A. Philosophy, University of Oklahoma
 
 ## Awards:
 - 2018 - Principal Investigator of the Sub-Mesoscale Ocean Dynamics Experiment (S-MODE), a $30M NASA Earth Venture Suborbital Mission with 21 co-investigators, remote sensing measurements from three aircraft, and three research cruises that will take place in 2020-2021. 
