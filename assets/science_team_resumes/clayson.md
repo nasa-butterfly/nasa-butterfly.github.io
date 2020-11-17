@@ -3,7 +3,7 @@
 ## Woods Hole Oceanographic Institution • Woods Hole, MA 02543
 ## Phone: (508) 289-3626  • Email: cclayson@whoi.edu  
 
-Research interests:
+## Research interests:
 Exchanges of heat, moisture, and momentum between the ocean and the atmosphere. Turbulent boundary layers. Air-sea interaction. Remote sensing of the ocean and the near-surface atmosphere. Ocean and atmosphere modeling. Water cycle variability. Role of small-scale variability on climate scales. 
 
 ## Experience:
@@ -16,9 +16,9 @@ Exchanges of heat, moisture, and momentum between the ocean and the atmosphere. 
 - 1988 - 1995: University of Colorado, Department of Aerospace Engineering Sciences Graduate Research Assistant
 		
 ## Education:
-- 1995 Ph.D. Aerospace Engineering Sciences, Program in Atmospheric and Oceanic Sciences, The University of Colorado
-- 1990 M.S. Aerospace Engineering Sciences, The University of Colorado
-- 1988 B.S. Physics and Astronomy, Brigham Young University
+- 1995: Ph.D. Aerospace Engineering Sciences, Program in Atmospheric and Oceanic Sciences, The University of Colorado
+- 1990: M.S. Aerospace Engineering Sciences, The University of Colorado
+- 1988: B.S. Physics and Astronomy, Brigham Young University
 
 ## Awards:
 - 2010 Florida State University Graduate Faculty Mentor Award
@@ -259,7 +259,7 @@ MIT/WHOI Joint Program:
 1. Ocean-climate connections. Presentation to the WHOI-NY Ocean Focus Series. New York City, NY.  29 January 2020.
 1. Oceans of change: Understanding the ocean-climate connection.  WHOI Evening of Science, Woods Hole, MA 5 August 2020.
 
-## Non-Refereed publications/Conference Proceedings: (bold indicates graduate student of Dr. Clayson)
+## Non-Refereed publications/Conference Proceedings (bold indicates graduate student of Dr. Clayson):
 1. Clayson, C. A., 1993: Impact of westerly wind bursts on surface fluxes as determined from satellite data.  20th Conference on Hurricanes and Tropical Meteorology, San Antonio, TX, Amer. Meteor. Soc.
 1. Curry, J. A., C. A. Clayson, W. B. Rossow, Y. Zhang, and P. J. Webster, 1993: Determination of the tropical sea surface energy balance from satellite. 20th Conference on Hurricanes and Tropical Meteorology, San Antonio, TX, Amer. Meteor. Soc., 591-594.
 1. Wick, G. A., C. A. Clayson, W. J. Emery, and J. A. Curry, 1994: The relationship between sea surface temperature, bulk temperature and surface heat fluxes in the tropical Pacific. Seventh Conference on Satellite Meteorology and Oceanography Monterey, CA, Amer. Meteor. Soc., 3-5.
@@ -358,7 +358,3 @@ MIT/WHOI Joint Program:
 1. Clayson, C.A., H. Liu and J. B. Edson, 2020: Air-sea fluxes and atmospheric boundary layer variability across ocean fronts. 2020 Ocean Sciences Meeting, San Diego, CA 18 February 2020.
 1. Zippel, J. T. Farrar, and C. A. Clayson, 2020: Turbulence measurements from the SPURS-2 mooring. 2020 Ocean Sciences Meeting, San Diego, CA 17 February 2020.
 1. Liu, H., C. A. Clayson, and J. B. Edson, 2020: The behavior of the atmospheric boundary layer near SST fronts in the vicinity of the Gulf Stream. Poster. 2020 Ocean Sciences Meeting, San Diego, CA 18 February 2020.
-
-
-
-
