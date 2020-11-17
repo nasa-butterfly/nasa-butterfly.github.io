@@ -1,9 +1,9 @@
 nav:
-  - title: "Services"
-    section: services
+  - title: "Science"
+    section: science
 
-  - title: "Portfolio"
-    section: portfolio
+  - title: "Mission_Concept"
+    section: mission_concept
     
   - title: "About"
     section: timeline
@@ -15,4 +15,4 @@ nav:
     section: contact
 
   - title: "Theme Source"
-    url: https://github.com/raviriley/agency-jekyll-theme/
+    url: https://github.com/nasa-butterfly/nasa-butterfly.github.io
