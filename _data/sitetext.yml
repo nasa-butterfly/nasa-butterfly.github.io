@@ -2,63 +2,63 @@ header:
     title: A proposal to NASA Earth Venture Mission - 3
     text: Butterfly
     button: Tell Me More
-    buttonlink: "#services" # "#{section}" or "URL/page link"
+    buttonlink: "#science" # "#{section}" or "URL/page link"
 
-services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+science:
+    title: "Science"
+    text: "Science"
+    section: science
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Science Goal"
+        desc: "How do small-scale ocean features affect large-scale weather and climate?"
+        icon: fas fa-cloud-rain #find more at https://fontawesome.com/icons
+      - title: "Science Objective 1"
+        desc: "Determine whether small-scale spatial variations in air-sea fluxes near warm ocean currents affect large-scale storm evolution and prediction of long-term weather."
+        icon: fas fa-wind      
+      - title: "Science Objective 2"
+        desc: "Determine whether small-scale variations in the air-sea boundary layers contribute significantly to the large-scale air-sea exchange of heat and water."
+        icon: fab fa-confluence
 
-portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+mission_concept:
+    title: "Mission Concept"
+    text: "Fully polarimetric passive microwave radiometer with hyperspectral channels"
+    section: mission_concept
     
 
 timeline:
     title: "About" 
-    text: "Lorem ipsum timeline"
+    text: "Butterfly timeline"
     section: timeline
     events:
       - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+        year: "2016"
+        desc: "Shannon emails Chelle, We haven't met... but want to meet at AGU and talk about science?"
+        image: assets/img/timeline/agu.png
         alt: 
         align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "Butterfly is born"
+        year: "2017"
+        desc: "A team is created, a lot of brainstorming online, what is interesting science with big societal impact?"
+        image: assets/img/timeline/brain.jpg
         alt: 
         align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
+      - title: "Earth Venture Instrument - 5 - internal JPL competition"
+        year: "2018"
+        desc: "We like your science, but, you are an EVM trying to fit into an EVI, patience young skywalker...."
+        image: assets/img/timeline/yoda.jpg
         alt: image alt text
         #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+      - title: "Earth Venture Mission - 3 - NASA competition"
+        year: "2020"
+        desc: "Drinking from a firehose. Electrical or chemical spacecraft propulsion? Rigid or deployable antenna? Science capabilities at spatial resolution of X versus Y..."
+        image: assets/img/timeline/firehose.jpg
         alt: 
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
 about:
     title: "About Us"
-    text: "our story"
+    text: "Our science team is open source, open data, and open science.  We want to work with *you*!"
     section: about
 
 clients:
@@ -67,22 +67,22 @@ clients:
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://github.com/nasa-butterfly/nasa-butterfly.github.io
         logo: assets/img/clients/envato.jpg
       - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://github.com/nasa-butterfly/nasa-butterfly.github.io
         logo: assets/img/clients/designmodo.jpg
       - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://github.com/nasa-butterfly/nasa-butterfly.github.io
         logo: assets/img/clients/themeforest.jpg
       - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://github.com/nasa-butterfly/nasa-butterfly.github.io
         logo: assets/img/clients/creative-market.jpg
     
 team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Our amazing team!"
+    subtext: Ocean, Space, Satellites, Weather, and everything in-between! 
     section: team
     people:
       - name: "Chelle Gentemann"
@@ -210,7 +210,7 @@ footer:
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/nasa-butterfly/agency-jekyll-theme
+      - url: https://github.com/nasa-butterfly/nasa-butterfly.github.io
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
