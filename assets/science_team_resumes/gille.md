@@ -19,11 +19,11 @@ email: sgille@ucsd.edu http://www-pord.ucsd.edu/~sgille
 - 1998 - 2000:	Assistant Professor, Earth System Science, University of California, Irvine
 
 ## Awards:
-- Sverdrup Gold Medal, American Meteorological Society, 2021
-- American Meteorological Society, Fellow, 2021
-- American Geophysical Union, Fellow, 2015
-- Zeldovich Award for COSPAR Scientific Commission A, conferred by the Committee on Space Research (COSPAR) and the Russian, Academy of Sciences for excellence and achievement by a young scientist, July 2000
-- Carl-Gustav Rossby Award for the best thesis of the year, Center for Meteorology and Physical Oceanography, MIT, 1995
+- 2021: Sverdrup Gold Medal, American Meteorological Society
+- 2021: American Meteorological Society, Fellow
+- 2015: American Geophysical Union, Fellow
+- 2000: Zeldovich Award for COSPAR Scientific Commission A, conferred by the Committee on Space Research (COSPAR) and the Russian, Academy of Sciences for excellence and achievement by a young scientist
+- 1995: Carl-Gustav Rossby Award for the best thesis of the year, Center for Meteorology and Physical Oceanography, MIT
 
 ## Publications (of ~125 total, see http://pordlabs.ucsd.edu/sgille/publications.html): 
 1. Wei, Y., S. T. Gille, M. R. Mazloff, V. Tamsitt, S. Swart, D. Chen, and L. Newman, 2020. Optimizing mooring placement to constrain Southern Ocean air-sea fluxes, J. Atmos. Ocean. Tech., 37, 1365-1385, doi:10.1175/JTECH-D-19-0203.1.
@@ -49,10 +49,10 @@ email: sgille@ucsd.edu http://www-pord.ucsd.edu/~sgille
 1. Gille, S. T., M. M. Carranza, R. Cambra, and R. Morrow, 2014. Wind-induced upwelling in the Kerguelen Plateau Region, Biogeosciences, 11, 6389-6400.
 
 ## Synergystic activities:
-- Ocean Observatories Initiative Facilities Board, National Science Foundation (advisory board for OOI), 2017-present
-- Observing Systems Council, Ocean Observing and Monitoring Division, National Oceanic and Atmospheric Administration, OAR, 2017-present
-- Earth Science and Applications from Space, Decadal Survey, Steering Committee member, National Academies of Science, 2016-2018
-- Polar Climate Predictability Initiative, Initiative 1:  co-coordinator (2013-present).  (Co-coordinated March 2015 workshop on “Large-scale climate variability in Antarctica and the Southern Ocean from decades to centuries, and links to extra-polar climate” and subsequent workshop reports and group paper.)
+- 2017 - present: Ocean Observatories Initiative Facilities Board, National Science Foundation (advisory board for OOI)
+- 2017 - present: Observing Systems Council, Ocean Observing and Monitoring Division, National Oceanic and Atmospheric Administration, OAR
+- 2016 - 2018: Earth Science and Applications from Space, Decadal Survey, Steering Committee member, National Academies of Science
+- 2013 - present: Polar Climate Predictability Initiative, Initiative 1:  co-coordinator.  (Co-coordinated March 2015 workshop on “Large-scale climate variability in Antarctica and the Southern Ocean from decades to centuries, and links to extra-polar climate” and subsequent workshop reports and group paper.)
 - Southern Ocean Observing System Working Group on Surface Fluxes.  Organized workshop in September 2015 with sponsorship from the WCRP, SOOS, the European Space Agency, and US CLIVAR.  Co-chair of SOOS working group established as outcome of workshop.  
 
 
