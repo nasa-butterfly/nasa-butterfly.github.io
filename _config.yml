@@ -14,8 +14,8 @@
 #theme: jekyll-agency
 remote_theme: nasa-butterfly/nasa-butterfly.github.io
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/nasa-butterfly/nasa-butterfly.github.io" # the subpath of your site, e.g. /blog
+url    : "https://nasa-butterfly.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : Butterfly
 email      : cgentemann@faralloninstitute.org #this is also the email contact forms will go to
