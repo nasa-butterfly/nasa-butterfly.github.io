@@ -19,10 +19,10 @@ services:
         desc: "Determine whether small-scale variations in the air-sea boundary layers contribute significantly to the large-scale air-sea exchange of heat and water."
         icon: fab fa-confluence
 
-porfolio:
+portfolio:
     title: "Mission Concept"
     text: "Fully polarimetric passive microwave radiometer with hyperspectral channels"
-    section: porfolio
+    section: portfolio
     
 
 timeline:
@@ -91,7 +91,7 @@ clients:
         logo: assets/img/clients/sio.png
       - title: "University of Colorado"
         url: https://www.colorado.edu/
-        logo: assets/img/clients/ucolorado.jpg      
+        logo: assets/img/clients/ucolorado.png     
 team:
     title: "OUR AMAZING TEAM"
     text: "Introducing...."
