@@ -61,8 +61,8 @@ about:
     text: "Our science team is open source, open data, and open science.  We want to work with *you*!"
     section: about
 
-clients:
-    section: clients
+partners:
+    section: partners
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
@@ -92,8 +92,8 @@ clients:
         logo: assets/img/clients/ucolorado.jpg      
 team:
     title: "OUR AMAZING TEAM"
-    text: "Our amazing team!"
-    subtext: Ocean, Space, Satellites, Weather, and everything in-between! 
+    text: "Introducing...."
+    subtext: Specialists in Oceanography, Space, Satellites, Weather, and everything in-between! 
     section: team
     people:
       - name: "Chelle Gentemann"
