@@ -4,10 +4,10 @@ header:
     button: Tell Me More
     buttonlink: "#science" # "#{section}" or "URL/page link"
 
-science:
+services:
     title: "Science"
     text: "Science"
-    section: science
+    section: services
     list:
       - title: "Science Goal"
         desc: "How do small-scale ocean features affect large-scale weather and climate?"
@@ -19,10 +19,10 @@ science:
         desc: "Determine whether small-scale variations in the air-sea boundary layers contribute significantly to the large-scale air-sea exchange of heat and water."
         icon: fab fa-confluence
 
-mission_concept:
+porfolio:
     title: "Mission Concept"
     text: "Fully polarimetric passive microwave radiometer with hyperspectral channels"
-    section: mission_concept
+    section: porfolio
     
 
 timeline:
@@ -32,13 +32,13 @@ timeline:
     events:
       - title: "Our Humble Beginnings"
         year: "2016"
-        desc: "Shannon emails Chelle, We haven't met... but want to meet at AGU and talk about science?"
+        desc: "Engineer emails scientist, We haven't met... but want to meet at AGU and talk about science?"
         image: assets/img/timeline/agu.png
         alt: 
         align: left
       - title: "Butterfly is born"
         year: "2017"
-        desc: "A team is created, a lot of brainstorming online, what is interesting science with big societal impact?"
+        desc: "A virtual team is created, a lot of brainstorming online, what is interesting science with big societal impact?"
         image: assets/img/timeline/brain.jpg
         alt: 
         align: right
@@ -50,7 +50,7 @@ timeline:
         #align: #default is left       
       - title: "Earth Venture Mission - 3 - NASA competition"
         year: "2020"
-        desc: "Drinking from a firehose. Electrical or chemical spacecraft propulsion? Rigid or deployable antenna? Science capabilities at spatial resolution of X versus Y..."
+        desc: "Drinking from a firehose. Electrical or chemical spacecraft propulsion? Rigid or deployable antenna? Science Tracability Matrix whaaaa??"
         image: assets/img/timeline/firehose.jpg
         alt: 
         align: right
@@ -58,7 +58,7 @@ timeline:
 
 about:
     title: "About Us"
-    text: "Our science team is open source, open data, and open science.  We want to work with *you*!"
+    text: "Our science team is open source, open data, and open science. We are cloud-based and looking for community solutions to advance air-sea interactions research. We want to work with *you*!"
     section: about
 
 partners:
