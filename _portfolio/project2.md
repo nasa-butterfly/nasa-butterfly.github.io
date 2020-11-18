@@ -19,4 +19,7 @@ All our published reserach will be open access.
 - Open source software
 All our software will have an open source license and be public on github. We believe this approach will advance algorithm development and science faster.
 
- 
+-{:.list-inline}
+- Date: June 2020
+- Client: None
+- Category: Open Science

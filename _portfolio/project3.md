@@ -13,3 +13,7 @@ caption:
 Butterfly will have global coverage.
 This figure is from the STREAM mission, we will update with Butterfly coverage soon! We are on it. 
 
+-{:.list-inline}
+- Date: June 2020
+- Client: Coverage
+- Category: Mission
