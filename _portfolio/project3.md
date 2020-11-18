@@ -11,5 +11,5 @@ caption:
 ---
 
 Butterfly will have global coverage.
-This figure is from the STREAM mission, we will update with Butterfly coverage soon! We are on it. Testing!
+This figure is from the STREAM mission, we will update with Butterfly coverage soon! We are on it. 
 
