@@ -24,8 +24,9 @@
 1. Cavanaugh, N. R., T. Allen, A. C. Subramanian, B. Mapes and A. J. Miller, 2013: The skill of tropical Linear Inverse Models in hindcasting the Madden-Julian Oscillation. Climate Dynamics, 44, 897-906.
 
 ## Academic Services: 
-- Member of the USCLIVAR Process Studies and Model Improvement Panel (2013-2016), Co-Chair of the Phenomena, Observations and Synthesis Panel (2019 – present) 
-- Chair of Scientific Organizing Committee for the US CLIVAR Workshop “Translating Process Understanding to Improve Climate Models” (2015)
-- Associate Editor, Atmospheric Science Letters (Royal Meteorological Soc.), 2015-present
-- Student member of SIO faculty search committee - 2007, 2011
+- 2013 - 2016: Member of the USCLIVAR Process Studies and Model Improvement Panel
+- 2019 - present: Co-Chair of the Phenomena, Observations and Synthesis Panel
+- 2015: Chair of Scientific Organizing Committee for the US CLIVAR Workshop “Translating Process Understanding to Improve Climate Models”
+- 2015 - present: Associate Editor, Atmospheric Science Letters (Royal Meteorological Soc.)
+- 2007, 2011: Student member of SIO faculty search committee
 
