@@ -85,23 +85,23 @@ Submitted
 1. Seo, H., M. Jochum, R. Murtugudde and A. J. Miller, 2006: Effect of Ocean Mesoscale Variability on the Mean State of Tropical Atlantic Climate. Geophys. Res. Lett., 33, L09606.  
 
 ## Awards:
-- Office of Naval Research (ONR) Young Investigator Award (2015)
-- NOAA Climate and Global Change Postdoctoral Fellowship (2007-2009)
-- Physical Oceanography Dissertation Symposium V, Honolulu (2008)
-- NCAR Advanced Study Program (ASP) Graduate Student Visiting Fellowship (2006)
-- Scripps Institution of Oceanography Frieman Director's Prize for Excellence in Graduate Student Research (2006)
-- Outstanding Student Paper Award, Ocean Sciences Meeting, Honolulu (2006)
+- 2015: Office of Naval Research (ONR) Young Investigator Award
+- 2007 - 2009: NOAA Climate and Global Change Postdoctoral Fellowship
+- 2008: Physical Oceanography Dissertation Symposium V, Honolulu
+- 2006: NCAR Advanced Study Program (ASP) Graduate Student Visiting Fellowship
+- 2006: Scripps Institution of Oceanography Frieman Director's Prize for Excellence in Graduate Student Research
+- 2006: Outstanding Student Paper Award, Ocean Sciences Meeting, Honolulu
 
 ## MIT/WHOI Joing Program Teaching:
 - 12.808 (Introduction to Physical Oceanography) Fall, 2016, 2017, 2018, 2019
 - 12.860 (Climate Variability and Diagnostics) Fall, 2017, 2019
 
 ## Community Activities: 
-- Co-Chair: US CLIVAR Working Group on “Mesoscale and frontal-scale ocean-atmosphere interactions and influence on large-scale climate”. 2019-Present
-- Associate Editor: Journal of Climate, 2019- Present
-- Member: AMS STAC committee on Air-Sea Interaction, 2019- Present
-- Member: US CLIVAR Process Study and Model Improvement Panel: 2016-2019
-- Associate Editor: Atmospheric Science Letters, 2015-2018
-- Member: AMS STAC committee on Coastal Environment, 2011-2017
+- 2019 - present: Co-Chair, US CLIVAR Working Group on “Mesoscale and frontal-scale ocean-atmosphere interactions and influence on large-scale climate”
+- 2019 - present: Associate Editor, Journal of Climate
+- 2019 - present: Member, AMS STAC committee on Air-Sea Interaction
+- 2016 - 2019: Member, US CLIVAR Process Study and Model Improvement Panel
+- 2015 - 2018: Associate Editor, Atmospheric Science Letters
+- 2011 - 2017: Member, AMS STAC committee on Coastal Environment
 
 
