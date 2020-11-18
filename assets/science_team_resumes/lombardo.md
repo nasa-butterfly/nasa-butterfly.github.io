@@ -20,11 +20,9 @@ University Park, PA  16802
 - 2001: B.S., Atmospheric Science, University at Albany, SUNY
 
 ## Awards:
-- Outstanding Early Career Award, American Meteorological Society Committee on Mesoscale Processes, 2020
-- National Science Foundation Faculty Early Career Development Program (CAREER) Award, 2018
-The National Science Foundation’s most prestigious award for early-career faculty who have the potential to serve as academic role models in research and education.
-- Office of Naval Research Young Investigator Program (YIP) Award, 2017
-For outstanding faculty members of institutions of higher education to support their research and to encourage their teaching and research careers.
+- 2020: Outstanding Early Career Award, American Meteorological Society Committee on Mesoscale Processes
+- 2018: National Science Foundation Faculty Early Career Development Program (CAREER) Award-- The National Science Foundation’s most prestigious award for early-career faculty who have the potential to serve as academic role models in research and education.
+- 2017: Office of Naval Research Young Investigator Program (YIP) Award-- For outstanding faculty members of institutions of higher education to support their research and to encourage their teaching and research careers.
 
 ## Funded Proposals:
 - Experiment of Sea Breeze Convection, Aerosols, Precipitation, and Environment (ESCAPE). Co- Investigator. National Science Foundation; $360,713; 1/20-12/23. 
@@ -78,22 +76,22 @@ For outstanding faculty members of institutions of higher education to support t
 
 ## Professional Service:
 NCAR
-- Invited Member of the Computational and Information Systems Laboratory (CISL) High Performance Computing (HPC) Allocation Panel (CHAP), National Center for Atmospheric Research (NCAR): Term 4/18 – present
-- Reviewer for Community Earth System Model (CESM) large allocation request, Atmospheric Model Working Group: 10/18, 10/19, 10/20
+- 2018 - present: Invited Member of the Computational and Information Systems Laboratory (CISL) High Performance Computing (HPC) Allocation Panel (CHAP), National Center for Atmospheric Research (NCAR)
+- 2018 - 2020: Reviewer for Community Earth System Model (CESM) large allocation request, Atmospheric Model Working Group
 UCAR
-- Elected Member of the University Corporation for Atmospheric Research (UCAR) Membership Committee: Term 10/19 – present
-- Elected Member of the President’s Advisory Committee on University Relations (PACUR), University Corporation for Atmospheric Research (UCAR): Term 10/17 – 7/19
-- University Corporation for Atmospheric Research (UCAR) Member Representative, 2018
+- 2019 - present: Elected Member of the University Corporation for Atmospheric Research (UCAR) Membership Committee
+- 2017 - 2019: Elected Member of the President’s Advisory Committee on University Relations (PACUR), University Corporation for Atmospheric Research (UCAR)
+- 2018: University Corporation for Atmospheric Research (UCAR) Member Representative
 STAC
-- Member of the Scientific and Technological Activities Commission (STAC), American Meteorological Society (AMS) Committee on Severe Local Storms, Term 1/19 – present
+- 2019 - present: Member of the Scientific and Technological Activities Commission (STAC), American Meteorological Society (AMS) Committee on Severe Local Storms
 - Special Symposium Sub-Committee for the 2020 AMS Annual Meeting
 - Conference Sub-Committee for the 2020 AMS Annual Meeting
 AMS
-- Member of American Meteorological Society Planning Commission Task Force on Leadership Development, 11/19 – present
+- 2019 - present: Member of American Meteorological Society Planning Commission Task Force on Leadership Development
 
 ## Editorship:
-•	Associate Editor, Weather and Forecasting, 1/16 – present
-•	Guest Editor, Special Issue, Atmosphere: Thunderstorm Morphological Evolution and Forecasts of Thunderstorm System Rainfall, 8/19 – present
+- 2016 - present: Associate Editor, Weather and Forecasting
+- 2019 - present: Guest Editor, Special Issue, Atmosphere: Thunderstorm Morphological Evolution and Forecasts of Thunderstorm System Rainfall
 
 ## Invited Panelist:
 - “Negotiation: Maximizing Your Worth.” 12 January 2020, Eighth Early Career Professional Conference, One-hundredth American Meteorological Society Annual Meeting, Boston, MA 
@@ -131,19 +129,19 @@ Conference Presentation Judge
 
 ## University Service:
 PSU
-- College of Earth and Mineral Sciences, ALLWE Implementation Committee Meeting 1/20 – present
-- College of Earth and Mineral Sciences, Strategic Planning Committee Member, Driving Digital Innovation thematic group, 8/19 – 3/20
-- Computer Committee, 12/19 – present
-- Graduate Academic Program Committee, 9/19 – present
+- 2020 - present: College of Earth and Mineral Sciences, ALLWE Implementation Committee Meeting
+- 2019 - 2020: College of Earth and Mineral Sciences, Strategic Planning Committee Member, Driving Digital Innovation thematic group
+- 2019 - present: Computer Committee
+- 2019 - present: Graduate Academic Program Committee
 UConn
-- Admissions Committee, 3/15 – 8/16
-- Atmospheric Sciences Group, Executive Member, 1/14 – 7/19
-- Awards Committee, 3/15 – 7/19
-- Contributed to Departmental Graduate Exam, 1/17 – 7/19
-- Faculty Search Committee for department tenure-track hire, 10/18 – 7/19
-- SET+ Committee to formulate a new plan for teaching evaluations, 1/19– 7/19
-- Space and Equipment Committee, 1/16 – 8/16
-- Undergraduate Programs Committee, 8/14 – 7/19
+- 2015 - 2016: Admissions Committee
+- 2014 - 2019: Atmospheric Sciences Group, Executive Member
+- 2015 - 2019: Awards Committee
+- 2017 - 2019: Contributed to Departmental Graduate Exam
+- 2018 - 2019: Faculty Search Committee for department tenure-track hire
+- 2019: SET+ Committee to formulate a new plan for teaching evaluations
+- 2016: Space and Equipment Committee
+- 2014 - 2019: Undergraduate Programs Committee
 
 ## Diversity Training:
 - Bystander Intervention Training, 26 September 2019, College of Earth and Mineral Sciences, The Pennsylvania State University
