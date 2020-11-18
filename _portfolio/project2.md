@@ -2,17 +2,21 @@
 title: Open Science
 subtitle: accelerate science
 image: assets/img/portfolio/open.jpg
-alt: Keep Exploring
+alt: Keep Exploring!
 
 caption:
   title: Open Science
   subtitle: Open code, Open data, Open science
   thumbnail: assets/img/portfolio/open.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
-{:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+Butterfly is a mission that focused on accelerating science for big societal impact. The fastest way to do that is by designing a project to be organized around open science.
 
+- Open data
+Butterfly data will be completely public and open.
+- Open access
+All our published reserach will be open access.
+- Open source software
+All our software will have an open source license and be public on github. We believe this approach will advance algorithm development and science faster.
+
+ 
