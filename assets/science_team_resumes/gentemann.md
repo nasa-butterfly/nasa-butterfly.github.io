@@ -51,7 +51,7 @@ Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud 
 - American Meteorological Society 2005 13th Conference on Satellite Meteorology and Oceanography, Norfolk, VA.  Student poster competition: 3rd prize.
 
 ## Publications (54 published, 8 in process):
-1. Stevens, B., et al. “EUREC4A”, in final prep.
+1. Stevens, B., et al. “EUREC4A”, submitted AGU Advances.
 1. Chiodi, A. M., C. Zhang, E. D. Cokelet, Q. Yang, C. W. Mordy, C. Gentemann, J. Cross, N. Lawrence-Slavas, C. Meinig, M. Steele, D. E. Harrison, P. Stabeno, H. Tabisola, D. Zhang, E. Burger, and K. O’Brien, Exploring the Alaskan Arctic Seasonal Ice Zone with Saildrones, Frontiers in Marine Science, in final prep..
 1. Gentemann, C.L., C. Holdgraf, J. Colliander, R. Abernathey, D. Crichton, “A new era of open, cloudy, science,” in final prep, proposal accepted by BAMS.
 1. Zhang., C., A. F. Levine, M. Wang, C. L. Gentemann, C. W. Mordy, E. D. Cokelet, P. A. Browne, Q. Yang, N. Lawrence-Slavas, C. Meinig, G. Smith, A. Chiodi, D. Zhang, P. Stabeno, W. Wang, H. Ren, K. A. Peterson, S. N. Figueroa, M. Steele, N. P. Barton, ”Evaluation of Operational Forecasts at Alaskan Arctic Sea Surface Using in situ Observations from Saildrones,” submitted MWR.
