@@ -1,13 +1,13 @@
 ---
 title: Open Science
 subtitle: accelerate science
-image: assets/img/portfolio/open.jpg
+image: assets/img/portfolio/open2.jpg
 alt: Keep Exploring
 
 caption:
   title: Open Science
   subtitle: Open code, Open data, Open science
-  thumbnail: assets/img/portfolio/open2.jpg
+  thumbnail: assets/img/portfolio/open.jpg
 ---
 The Butterfly mission is open by design from inception.  The fastest way to accelerate science for big societal impact. 
 - Open data
