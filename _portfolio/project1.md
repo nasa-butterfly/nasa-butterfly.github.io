@@ -9,7 +9,7 @@ caption:
   subtitle: Illustration
   thumbnail: assets/img/portfolio/swath.jpg
 ---
-Leveraging recent advances in sensor technology, we describe a satellite mission concept, FluxSat (AKA BUTTERFLY), that aims to simultaneously measure all variables necessary for accurate estimation of ocean–atmosphere turbulent heat and moisture fluxes and capture the effect of oceanic mesoscale forcing. Sensor design is expected to reduce observational errors of the latent and sensible heat fluxes by almost 50%. FluxSat will improve the accuracy of the fluxes at spatial scales critical to understanding the coupled ocean–atmosphere boundary layer system, providing measurements needed to improve weather forecasts and climate model simulations.
+Leveraging recent advances in sensor technology, we describe a satellite mission concept, FluxSat (AKA BUTTERFLY), that aims to simultaneously measure all variables necessary for accurate estimation of ocean–atmosphere turbulent heat and moisture fluxes and capture the effect of oceanic mesoscale forcing. 
 
 {:.list-inline}
 - Date: Jun 2020
