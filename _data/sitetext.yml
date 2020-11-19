@@ -32,17 +32,17 @@ timeline:
     events:
       - title: "Our Humble Beginnings"
         year: "2016"
-        desc: "Engineer emails scientist, We haven't met... but want to meet at AGU and talk about science?"
+        desc: "Engineer cold emails scientist...want to meet at AGU and talk about science?"
         image: assets/img/timeline/agu.png
         alt: 
         align: left
       - title: "Butterfly is born"
         year: "2017"
-        desc: "A virtual team is created, a lot of brainstorming online, what is interesting science with big societal impact?"
+        desc: "A virtual team is created, a lot of online brainstorming...what is interesting science with big societal impact?"
         image: assets/img/timeline/brain.jpg
         alt: 
         align: right
-      - title: "Earth Venture Instrument - 5 - internal JPL competition"
+      - title: "Earth Venture Instrument - EVI5 - internal JPL competition"
         year: "2018"
         desc: "We like your science, but, you are an EVM trying to fit into an EVI, patience young skywalker...."
         image: assets/img/timeline/yoda.jpg
@@ -191,3 +191,4 @@ footer:
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
+
