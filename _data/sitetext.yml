@@ -1,6 +1,6 @@
 header:
-    title: "."
-    text: "."
+    title: " . "
+    text: " . "
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
