@@ -144,6 +144,8 @@ Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov
 - 2020 AWS Public Sector Summit, The Cube, [“Cloud enabled science”](https://video.cube365.net/c/927999) invited interview. 
 - 2020 Coiled Blog invited interview, [“Dask in Action with Massive Satellite Datasets”](https://coiled.io/blog/dask-in-action-gentemann/). 
 - 2020 Coiled Blog invited interview, [“Accelerating Science with Dask”](https://coiled.io/blog/accelerating-science-dask-gentemann/). 
+- 2020 Symposium on Earth Science and Applications from
+Space with Special Guest Michael Freilich [recording, at 8:10:30](https://livestream.com/nasem/earthsciencefromspace/videos/201004615)
 - SFSU 2018, [“The changing landscape of science”](https://www2.slideshare.net/ChelleGentemann/the-changing-landscape-of-science?qid=c07854f8-1037-4120-a4bc-9b392132bd23&v=&b=&from_search=4)
 - IGARSS 2015, “RFI in Microwave Remote Sensing”
 - AGU 2011 Fall Meeting, “AQUA AMSR-E Sea Surface Temperature”
