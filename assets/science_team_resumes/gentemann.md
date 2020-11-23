@@ -50,6 +50,64 @@ Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud 
 - IGARSS 2006 IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, Denver, CO.  Student paper competition finalist.
 - American Meteorological Society 2005 13th Conference on Satellite Meteorology and Oceanography, Norfolk, VA.  Student poster competition: 3rd prize.
 
+## Testimony:
+- House Subcommittee on Space and Aeronautics, “Discovery on the Frontiers of Space: Exploring NASA’s Science Mission”.  11 June 2019. [Video](https://science.house.gov/hearings/discovery-on-the-frontiers-of-space-exploring-nasas-science-mission)
+
+## Images:
+- Cover [image](https://journals.ametsoc.org/bams/issue/101/8) August 2020 BAMS
+- NRDC fact sheet October 2020, [image of Blob](https://www.nrdc.org/sites/default/files/hot-water-climate-change-fisheries-fs.pdf)
+- Cover [image](https://agupubs.onlinelibrary.wiley.com/toc/19448007/2017/44/1) Jan 2017 GRL
+- Cover [image](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5416607) 2010 IEEE Transactions on Geoscience and Remote Sensing
+- Earle, S. and L. Glover (2008), Oceans: An illustrated atlas, National Geographic, 320p.
+- Cover image 2001 IEEE Transactions on Geoscience and Remote Sensing
+- King, M.D., C.L. Parkinson, K.C. Partington, R.G. Williams (2007), Our changing planet, the view from space, Cambridge University Press, 400p.
+
+## Organization Committees and Hackathons:
+- 2020 AGU Ocean Sciences, “Pangeo Tutorial” [website](https://tinyurl.com/pangeo-osm20)
+- 2020 OceanHackWeek, [website](https://oceanhackweek.github.io/)
+- 2020 Symposium on Earth Science and Applications from
+Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov/sites/default/files/eo_pdfs/March%20April%202020%20Earth%20Observer%20Color%20508.pdf)
+- 2019 PICES “Ecosystem tool” [website](https://github.com/python4oceanography/PICES-tools)
+- 2019 OceanObs Session ["Open Source Software Revolution"](http://www.oceanobs19.net/living-action-plan/open-source-software/) 
+- 2019 OceanObs Python Tutorial, “Python for Oceanography” [website](https://github.com/python4oceanography/ocean_python_tutorial)
+- 2009 10TH International GHRSST Science Team Meeting [website](https://www.ghrsst.org/meetings/10th-international-ghrsst-science-team-meeting-ghrsst-x/)
+
+## Partial list of invited talks/panels:
+- 2020 AGU Fall meeting invited talk: Session: Atmospheric and Oceanic Processes Governing the Trade-wind Regions, “Emerging technologies for air-sea interaction research: saildrones during EUREC4A/ATOMIC”.
+- 2020 ESIP Summer Meeting, plenary speaker, [“Empowering Transformational Science”](https://www.youtube.com/watch?v=HAh7Xy9ReJo&ab_channel=ESIP).  
+- 2020 The Consortium for Ocean Leadership’s Workshop to Support Implementation of NOAA’s UxS Strategy, invited speaker and panelist on [“Building a community of practice”](https://oceanleadership.org/unmanned-systems-workshop/) panel.  [slides[(https://www2.slideshare.net/ChelleGentemann/building-a-community-of-practise?qid=9d28f1cf-adde-4c6a-92c8-af65da7efd1f&v=&b=&from_search=1) 
+- 2020 NASA Designated Observables Special Topic: Open Science and Data Systems, invited speaker and panelist, [“Towards open science: accelerating and expanding NASA’s scientific impact”](https://www2.slideshare.net/ChelleGentemann/open-science-239057717?qid=8c85b964-08a8-4152-b0eb-1237657666f9&v=&b=&from_search=2). 
+- 2020 COVID-19: Identifying Unique Opportunities for Earth System Science” Keck Institute for Space Studies virtual workshop, invited speaker and participant. “Cloud enabled science”.
+- 2020 AWS Public Sector Summit, The Cube, [“Cloud enabled science”](https://video.cube365.net/c/927999) invited interview. 
+- 2020 Coiled Blog invited interview, [“Dask in Action with Massive Satellite Datasets”](https://coiled.io/blog/dask-in-action-gentemann/). 
+- 2020 Coiled Blog invited interview, [“Accelerating Science with Dask”](https://coiled.io/blog/accelerating-science-dask-gentemann/). 
+- 2020 Symposium on Earth Science and Applications from
+Space with Special Guest Michael Freilich [recording, at 8:10:30](https://livestream.com/nasem/earthsciencefromspace/videos/201004615)
+- 2018 AGU Fall Meeting Townhall ["TH13C: Best Practices for a Future Open Code Policy for NASA Space Science"](https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/56246)
+- 2018 AGU Fall Meeting Townhall ["TH45A: Data Science and a New Scientific Frontier in Space Science"](https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/55933)
+- 2018 SFSU, [“The changing landscape of science”](https://www2.slideshare.net/ChelleGentemann/the-changing-landscape-of-science?qid=c07854f8-1037-4120-a4bc-9b392132bd23&v=&b=&from_search=4)
+- 2015 IGARSS, “RFI in Microwave Remote Sensing”
+- 2011 AGU Fall Meeting, “AQUA AMSR-E Sea Surface Temperature”
+- 2010 Oceans from Space, "A review of Passive Microwave Retrievals from Space"
+- 2008 Yale Department of Geology & Geophysics Colloquium, "Satellite sea surface temperatures"
+- 2006 AGU Joint Assembly, “Optimally interpolated infrared and microwave sea surface temperatures: The Multi-sensor Improved SST (MISST) Project”
+- 2006 IGARSS IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, “Multi-satellite, multi-sensor data fusion: global daily 10 km SSTs from MODIS, AMSR-E, and TMI”  
+- 2006 IGARSS IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, “In situ observations of diurnal warming in the skin layer” 
+- 2004 AMS 14th Conference on Satellite Meteorology, “Multi-sensor Improved Sea Surface Temperatures (MISST) for GODAE”
+- 2004 AGU Ocean Sciences, “Diurnal warming in satellite sea-surface temperatures”
+- 2003 JCOMM Workshop on Advances in Marine Climatology, “Diurnal Warming and Climate SST records”
+- 2003 CEOS Meeting, Ocean Sciences, “Accurate microwave SST retrieval and microwave/infrared blending”
+- 2002 GCOS Workshop on Advances in the Use of Historical Marine Climate Data, “Advances in Microwave Sea Surface Temperature” and “Towards Improved Validation of Satellite Sea Surface Skin Temperature Measurements for Climate Research”
+- 2001 GODAE Science Team Meeting, “Microwave SST retrievals from TRMM”
+- 2001 IGARSS, “Satellite Microwave SST: Accuracy, Comparisons to AVHRR and Reynolds SST, and Measurement of Diurnal Thermocline Variability”
+
+## Memberships:
+- American Geophysical Union (AGU)
+- American Meteorological Society (AMS)
+- Institute of Electrical and Electronics Engineers (IEEE)
+- IEEE Geoscience and Remote Sensing Society
+- The Oceanography Society (TOS)
+
 ## Publications (54 published, 8 in process):
 1. Stevens, B., et al. “EUREC4A”, submitted AGU Advances.
 1. Chiodi, A. M., C. Zhang, E. D. Cokelet, Q. Yang, C. W. Mordy, C. Gentemann, J. Cross, N. Lawrence-Slavas, C. Meinig, M. Steele, D. E. Harrison, P. Stabeno, H. Tabisola, D. Zhang, E. Burger, and K. O’Brien, Exploring the Alaskan Arctic Seasonal Ice Zone with Saildrones, Frontiers in Marine Science, in final prep..
@@ -114,63 +172,6 @@ Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud 
 1. Wentz, F. J., P. D. Ashcroft and C. L. Gentemann (2001), Post-launch calibration of the TMI microwave radiometer, IEEE Transactions on Geoscience and Remote Sensing, 39(2), 415-422.
 1. Wentz, F. J., C. L. Gentemann, D. K. Smith and D. B. Chelton (2000), Satellite measurements of sea surface temperature through clouds, Science, 288(5467), 847-850.
 
-## Testimony:
-- House Subcommittee on Space and Aeronautics, “Discovery on the Frontiers of Space: Exploring NASA’s Science Mission”.  11 June 2019. [Video](https://science.house.gov/hearings/discovery-on-the-frontiers-of-space-exploring-nasas-science-mission)
-
-## Images:
-- Cover [image](https://journals.ametsoc.org/bams/issue/101/8) August 2020 BAMS
-- NRDC fact sheet October 2020, [image of Blob](https://www.nrdc.org/sites/default/files/hot-water-climate-change-fisheries-fs.pdf)
-- Cover [image](https://agupubs.onlinelibrary.wiley.com/toc/19448007/2017/44/1) Jan 2017 GRL
-- Cover [image](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5416607) 2010 IEEE Transactions on Geoscience and Remote Sensing
-- Earle, S. and L. Glover (2008), Oceans: An illustrated atlas, National Geographic, 320p.
-- Cover image 2001 IEEE Transactions on Geoscience and Remote Sensing
-- King, M.D., C.L. Parkinson, K.C. Partington, R.G. Williams (2007), Our changing planet, the view from space, Cambridge University Press, 400p.
-
-## Organization Committees and Hackathons:
-- 2020 AGU Ocean Sciences, “Pangeo Tutorial” [website](https://tinyurl.com/pangeo-osm20)
-- 2020 OceanHackWeek, [website](https://oceanhackweek.github.io/)
-- 2020 Symposium on Earth Science and Applications from
-Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov/sites/default/files/eo_pdfs/March%20April%202020%20Earth%20Observer%20Color%20508.pdf)
-- 2019 PICES “Ecosystem tool” [website](https://github.com/python4oceanography/PICES-tools)
-- 2019 OceanObs Session ["Open Source Software Revolution"](http://www.oceanobs19.net/living-action-plan/open-source-software/) 
-- 2019 OceanObs Python Tutorial, “Python for Oceanography” [website](https://github.com/python4oceanography/ocean_python_tutorial)
-- 2009 10TH International GHRSST Science Team Meeting [website](https://www.ghrsst.org/meetings/10th-international-ghrsst-science-team-meeting-ghrsst-x/)
-
-## Partial list of invited talks/panels:
-- 2020 AGU Fall meeting invited talk: Session: Atmospheric and Oceanic Processes Governing the Trade-wind Regions, “Emerging technologies for air-sea interaction research: saildrones during EUREC4A/ATOMIC”.
-- 2020 ESIP Summer Meeting, plenary speaker, [“Empowering Transformational Science”](https://www.youtube.com/watch?v=HAh7Xy9ReJo&ab_channel=ESIP).  
-- 2020 The Consortium for Ocean Leadership’s Workshop to Support Implementation of NOAA’s UxS Strategy, invited speaker and panelist on [“Building a community of practice”](https://oceanleadership.org/unmanned-systems-workshop/) panel.  [slides[(https://www2.slideshare.net/ChelleGentemann/building-a-community-of-practise?qid=9d28f1cf-adde-4c6a-92c8-af65da7efd1f&v=&b=&from_search=1) 
-- 2020 NASA Designated Observables Special Topic: Open Science and Data Systems, invited speaker and panelist, [“Towards open science: accelerating and expanding NASA’s scientific impact”](https://www2.slideshare.net/ChelleGentemann/open-science-239057717?qid=8c85b964-08a8-4152-b0eb-1237657666f9&v=&b=&from_search=2). 
-- 2020 COVID-19: Identifying Unique Opportunities for Earth System Science” Keck Institute for Space Studies virtual workshop, invited speaker and participant. “Cloud enabled science”.
-- 2020 AWS Public Sector Summit, The Cube, [“Cloud enabled science”](https://video.cube365.net/c/927999) invited interview. 
-- 2020 Coiled Blog invited interview, [“Dask in Action with Massive Satellite Datasets”](https://coiled.io/blog/dask-in-action-gentemann/). 
-- 2020 Coiled Blog invited interview, [“Accelerating Science with Dask”](https://coiled.io/blog/accelerating-science-dask-gentemann/). 
-- 2020 Symposium on Earth Science and Applications from
-Space with Special Guest Michael Freilich [recording, at 8:10:30](https://livestream.com/nasem/earthsciencefromspace/videos/201004615)
-- AGU Fall Meeting 2018 Townhall ["TH13C: Best Practices for a Future Open Code Policy for NASA Space Science"](https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/56246)
-- AGU Fall Meeting 2018 Townhall ["TH45A: Data Science and a New Scientific Frontier in Space Science"](https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/55933)
-- SFSU 2018, [“The changing landscape of science”](https://www2.slideshare.net/ChelleGentemann/the-changing-landscape-of-science?qid=c07854f8-1037-4120-a4bc-9b392132bd23&v=&b=&from_search=4)
-- IGARSS 2015, “RFI in Microwave Remote Sensing”
-- AGU 2011 Fall Meeting, “AQUA AMSR-E Sea Surface Temperature”
-Oceans from Space 2010, "A review of Passive Microwave Retrievals from Space"
-- Yale 2008 Department of Geology & Geophysics Colloquium, "Satellite sea surface temperatures"
-- AGU 2006 Joint Assembly, “Optimally interpolated infrared and microwave sea surface temperatures: The Multi-sensor Improved SST (MISST) Project”
-- IGARSS 2006 IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, “Multi-satellite, multi-sensor data fusion: global daily 10 km SSTs from MODIS, AMSR-E, and TMI”  
-- IGARSS 2006 IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, “In situ observations of diurnal warming in the skin layer” 
-- AMS 14th Conference on Satellite Meteorology, “Multi-sensor Improved Sea Surface Temperatures (MISST) for GODAE”
-AGU Ocean Sciences, 2004, “Diurnal warming in satellite sea-surface temperatures”
-- JCOMM Workshop on Advances in Marine Climatology, 2003, “Diurnal Warming and Climate SST records”
-CEOS Meeting, Ocean Sciences, 2003, “Accurate microwave SST retrieval and microwave/infrared blending”
-- GCOS Workshop on Advances in the Use of Historical Marine Climate Data, 2002, “Advances in Microwave Sea Surface Temperature” and “Towards Improved Validation of Satellite Sea Surface Skin Temperature Measurements for Climate Research”
-- GODAE Science Team Meeting, 2001, “Microwave SST retrievals from TRMM”
-- IGARSS, 2001, “Satellite Microwave SST: Accuracy, Comparisons to AVHRR and Reynolds SST, and Measurement of Diurnal Thermocline Variability”
-
-## Memberships:
-- American Geophysical Union (AGU)
-- American Meteorological Society (AMS)
-- Institute of Electrical and Electronics Engineers (IEEE)
-- IEEE Geoscience and Remote Sensing Society
-- The Oceanography Society (TOS)
 
 ## Research Projects: (listed by year started)
 - 2020: IMPACT: Enabling scientific computing on the Cloud.  Role: PI.
