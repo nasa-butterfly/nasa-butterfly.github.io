@@ -132,7 +132,8 @@ Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud 
 - 2020 Symposium on Earth Science and Applications from
 Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov/sites/default/files/eo_pdfs/March%20April%202020%20Earth%20Observer%20Color%20508.pdf)
 - 2019 PICES “Ecosystem tool” [website](https://github.com/python4oceanography/PICES-tools)
-- 2019 OceanObs, “Python for Oceanography” [website](https://github.com/python4oceanography/ocean_python_tutorial)
+- 2019 OceanObs Session ["Open Source Software Revolution"](http://www.oceanobs19.net/living-action-plan/open-source-software/) 
+- 2019 OceanObs Python Tutorial, “Python for Oceanography” [website](https://github.com/python4oceanography/ocean_python_tutorial)
 - 2009 10TH International GHRSST Science Team Meeting [website](https://www.ghrsst.org/meetings/10th-international-ghrsst-science-team-meeting-ghrsst-x/)
 
 ## Partial list of invited talks/panels:
