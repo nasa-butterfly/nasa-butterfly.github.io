@@ -1,7 +1,7 @@
 # RHYS PARFITT 
 ## Department of Earth, Ocean and Atmospheric Science 
 ## Florida State University 
-Tallahassee, FL, USA 
+## Tallahassee, FL, USA 
 ## rparfitt@fsu.edu 
 
 ## Research Interests:
