@@ -2,7 +2,7 @@
 ## Department of Earth, Ocean and Atmospheric Science 
 ## Florida State University 
 Tallahassee, FL, USA 
-rparfitt@fsu.edu 
+## rparfitt@fsu.edu 
 
 ## Research Interests:
 
@@ -12,6 +12,7 @@ rparfitt@fsu.edu
 - 2018: Postdoctoral Investigator, Department of Physical Oceanography, Woods Hole Oceanographic Institution 
 - 2016 - 2018: Postdoctoral Scholar, Department of Physical Oceanography, Woods Hole Oceanographic Institution 
 - 2014 - 2016: Research Associate, Space and Atmospheric Physics Department, Imperial College London 
+
 Other Positions: 
 - 2020 - present: Member, CLIVAR Climate Dynamics Panel 
 - 2018 - present: Associate Editor, Atmospheric Science Letters 
