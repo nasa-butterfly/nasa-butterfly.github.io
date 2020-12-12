@@ -108,10 +108,11 @@ Space with Special Guest Michael Freilich [recording, at 8:10:30](https://livest
 - IEEE Geoscience and Remote Sensing Society
 - The Oceanography Society (TOS)
 
-## Publications (54 published, 8 in process):
+## Publications (54 published, 9 in process):
+1. "ATOMIC: Salty Seas from Satellites and Saildrones", A. Daley, S. Sandiford. K. Hall, C.Gentemann, in prep.
 1. Stevens, B., et al. “EUREC4A”, submitted AGU Advances.
-1. Chiodi, A. M., C. Zhang, E. D. Cokelet, Q. Yang, C. W. Mordy, C. Gentemann, J. Cross, N. Lawrence-Slavas, C. Meinig, M. Steele, D. E. Harrison, P. Stabeno, H. Tabisola, D. Zhang, E. Burger, and K. O’Brien, Exploring the Alaskan Arctic Seasonal Ice Zone with Saildrones, Frontiers in Marine Science, in final prep..
-1. Gentemann, C.L., C. Holdgraf, R. Abernathey, D. Crichton, J. Colliander, E. J. Kearns, Y. Panda, R. P. Signell “Science Storms the Cloud” in final prep, proposal accepted by BAMS.
+1. Chiodi, A. M., C. Zhang, E. D. Cokelet, Q. Yang, C. W. Mordy, C. Gentemann, J. Cross, N. Lawrence-Slavas, C. Meinig, M. Steele, D. E. Harrison, P. Stabeno, H. Tabisola, D. Zhang, E. Burger, and K. O’Brien, Exploring the Alaskan Arctic Seasonal Ice Zone with Saildrones, submitted Frontiers in Marine Science.
+1. Gentemann, C.L., C. Holdgraf, R. Abernathey, D. Crichton, J. Colliander, E. J. Kearns, Y. Panda, R. P. Signell “Science Storms the Cloud�,� submitted AGU Advances.
 1. Zhang., C., A. F. Levine, M. Wang, C. L. Gentemann, C. W. Mordy, E. D. Cokelet, P. A. Browne, Q. Yang, N. Lawrence-Slavas, C. Meinig, G. Smith, A. Chiodi, D. Zhang, P. Stabeno, W. Wang, H. Ren, K. A. Peterson, S. N. Figueroa, M. Steele, N. P. Barton, ”Evaluation of Operational Forecasts at Alaskan Arctic Sea Surface Using in situ Observations from Saildrones,” submitted MWR.
 1. Vazquez-Cuervo, J., C.L. Gentemann, et al. “Validation of Sea Surface Salinity in the Bering Straits using Saildrone, SMAP, and Models”, in prep.
 1. Ashlock, L., M. García-Reyes, S. Batten, C. Gentemann, W. Sydeman, “Temperature driven patterns of copepod presence and abundance in the Northeast Pacific,” submitted.
