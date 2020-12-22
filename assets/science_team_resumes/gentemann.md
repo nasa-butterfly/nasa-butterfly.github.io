@@ -1,4 +1,4 @@
-![image](./../assets/img/team/cgentemann.jpg)
+![image](./../img/team/cgentemann.jpg)
 # Dr. Chelle L. Gentemann (she/her)
 [<img src="./../images/gmail.png" width="5%" height="5%">](mailto:cgentemann@faralloninstitute.org)
 [<img src="./../images/twitter.png" width="10%" height="10%">](https://twitter.com/chellegentemann)
@@ -85,7 +85,7 @@ Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov
 Space with Special Guest Michael Freilich [recording, at 8:10:30](https://livestream.com/nasem/earthsciencefromspace/videos/201004615)
 - 2018 AGU Fall Meeting Townhall ["TH13C: Best Practices for a Future Open Code Policy for NASA Space Science"](https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/56246)
 - 2018 AGU Fall Meeting Townhall ["TH45A: Data Science and a New Scientific Frontier in Space Science"](https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/55933)
-- 2018 SFSU, ["The changing landscape of science"ù](https://www2.slideshare.net/ChelleGentemann/the-changing-landscape-of-science?qid=c07854f8-1037-4120-a4bc-9b392132bd23&v=&b=&from_search=4)
+- 2018 SFSU, ["The changing landscape of science"](https://www2.slideshare.net/ChelleGentemann/the-changing-landscape-of-science?qid=c07854f8-1037-4120-a4bc-9b392132bd23&v=&b=&from_search=4)
 - 2015 IGARSS, "RFI in Microwave Remote Sensing"ù
 - 2011 AGU Fall Meeting, "AQUA AMSR-E Sea Surface Temperature"ù
 - 2010 Oceans from Space, "A review of Passive Microwave Retrievals from Space"
