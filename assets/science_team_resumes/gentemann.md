@@ -1,4 +1,4 @@
-![image](./../img/team/cgentemann.jpg)
+![image](./../img/team/gentemann.jpg)
 # Dr. Chelle L. Gentemann (she/her)
 [<img src="./../images/gmail.png" width="5%" height="5%">](mailto:cgentemann@faralloninstitute.org)
 [<img src="./../images/twitter.png" width="10%" height="10%">](https://twitter.com/chellegentemann)
@@ -42,8 +42,8 @@ Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud 
 - NASA Satellite Ocean Atlas Team (1998-2001)
 
 ## Awards:
-- American Geophysical Union 2013 [Charles S. Falkenberg Award](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2014EO020009).  The award is for a "scientist under 45 years of age who has contributed to the quality of life, economic opportunities, and stewardship of the planet through the use of Earth science information and to the public awareness of the importance of understanding our planet."
-- National Oceanographic Partnership Program [2008 Excellence in Partnering Award](https://www.nopp.org/portfolio/excellence-in-partnering/misst/).  C.Gentemann was the PI on this project.  The award is "presented annually to research teams that best demonstrate the partnerships objectives of NOPP, recognizing the project's commitment to partnering, the success of the partnership effort, and the impact of the partnership on oceanography."
+- American Geophysical Union 2013 [Charles S. Falkenberg Award](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2014EO020009).  The award is for a "scientist under 45 years of age who has contributed to the quality of life, economic opportunities, and stewardship of the planet through the use of Earth science information and to the public awareness of the importance of understanding our planet".
+- National Oceanographic Partnership Program [2008 Excellence in Partnering Award](https://www.nopp.org/portfolio/excellence-in-partnering/misst/).  C.Gentemann was the PI on this project.  The award is "presented annually to research teams that best demonstrate the partnerships objectives of NOPP, recognizing the project's commitment to partnering, the success of the partnership effort, and the impact of the partnership on oceanography".
 - NASA Group Achievement Award 2001 to the Satellite Ocean Atlas Team, for outstanding achievement in utilization of multiple observations from space for the study of the global oceans.  C. Gentemann was a member of the team.
 - AGU 2007 Joint Assembly, Acapulco, Mexico.  Outstanding student presentation award.
 - AGU 2006 Joint Assembly, Baltimore, MD.  Outstanding student paper award.
@@ -51,7 +51,7 @@ Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud 
 - American Meteorological Society 2005 13th Conference on Satellite Meteorology and Oceanography, Norfolk, VA.  Student poster competition: 3rd prize.
 
 ## Testimony:
-- House Subcommittee on Space and Aeronautics, "Discovery on the Frontiers of Space: Exploring NASA's Science Mission". 11 June 2019. [Video](https://science.house.gov/hearings/discovery-on-the-frontiers-of-space-exploring-nasas-science-mission)
+- House Subcommittee on Space and Aeronautics, "Discovery on the Frontiers of Space: Exploring NASA's Science Mission." 11 June 2019. [Video](https://science.house.gov/hearings/discovery-on-the-frontiers-of-space-exploring-nasas-science-mission)
 
 ## Images:
 - Cover [image](https://journals.ametsoc.org/bams/issue/101/8) August 2020 BAMS
@@ -63,19 +63,19 @@ Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud 
 - King, M.D., C.L. Parkinson, K.C. Partington, R.G. Williams (2007), Our changing planet, the view from space, Cambridge University Press, 400p.
 
 ## Organization Committees and Hackathons:
-- 2020 AGU Ocean Sciences, "Pangeo Tutorial" [website](https://tinyurl.com/pangeo-osm20)
+- 2020 AGU Ocean Sciences, Pangeo Tutorial [website](https://tinyurl.com/pangeo-osm20)
 - 2020 OceanHackWeek, [website](https://oceanhackweek.github.io/)
 - 2020 Symposium on Earth Science and Applications from
 Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov/sites/default/files/eo_pdfs/March%20April%202020%20Earth%20Observer%20Color%20508.pdf)
-- 2019 PICES "Ecosystem tool" [website](https://github.com/python4oceanography/PICES-tools)
+- 2019 PICES Ecosystem tool [website](https://github.com/python4oceanography/PICES-tools)
 - 2019 OceanObs Session ["Open Source Software Revolution"](http://www.oceanobs19.net/living-action-plan/open-source-software/) 
-- 2019 OceanObs Python Tutorial, "Python for Oceanography"[website](https://github.com/python4oceanography/ocean_python_tutorial)
+- 2019 OceanObs Python Tutorial, Python for Oceanography [website](https://github.com/python4oceanography/ocean_python_tutorial)
 - 2009 10TH International GHRSST Science Team Meeting [website](https://www.ghrsst.org/meetings/10th-international-ghrsst-science-team-meeting-ghrsst-x/)
 
 ## Partial list of invited talks/panels:
-- 2020 AGU Fall meeting invited talk: Session: Atmospheric and Oceanic Processes Governing the Trade-wind Regions, "Emerging technologies for air-sea interaction research: saildrones during EUREC4A/ATOMIC".
-- 2020 ESIP Summer Meeting, plenary speaker, ["Empowering Transformational Science"](https://www.youtube.com/watch?v=HAh7Xy9ReJo&ab_channel=ESIP).  
-- 2020 The Consortium for Ocean Leadership's Workshop to Support Implementation of NOAA's UxS Strategy, invited speaker and panelist on ["Building a community of practice"](https://oceanleadership.org/unmanned-systems-workshop/) panel.  [slides[(https://www2.slideshare.net/ChelleGentemann/building-a-community-of-practise?qid=9d28f1cf-adde-4c6a-92c8-af65da7efd1f&v=&b=&from_search=1)
+- 2020 AGU Fall meeting invited talk: Session: Atmospheric and Oceanic Processes Governing the Trade-wind Regions, "Emerging technologies for air-sea interaction research: saildrones during EUREC4A/ATOMIC."
+- 2020 ESIP Summer Meeting, plenary speaker, ["Empowering Transformational Science"](https://www.youtube.com/watch?v=HAh7Xy9ReJo&ab_channel=ESIP) 
+- 2020 The Consortium for Ocean Leadership's Workshop to Support Implementation of NOAA's UxS Strategy, invited speaker and panelist on ["Building a community of practice"](https://oceanleadership.org/unmanned-systems-workshop/) panel. [slides[(https://www2.slideshare.net/ChelleGentemann/building-a-community-of-practise?qid=9d28f1cf-adde-4c6a-92c8-af65da7efd1f&v=&b=&from_search=1)
 - 2020 NASA Designated Observables Special Topic: Open Science and Data Systems, invited speaker and panelist, ["Towards open science: accelerating and expanding NASA's scientific impact"](https://www2.slideshare.net/ChelleGentemann/open-science-239057717?qid=8c85b964-08a8-4152-b0eb-1237657666f9&v=&b=&from_search=2).
 - 2020 COVID-19: Identifying Unique Opportunities for Earth System Science"Keck Institute for Space Studies virtual workshop, invited speaker and participant. "Cloud enabled science".
 - 2020 AWS Public Sector Summit, The Cube, ["Cloud enabled science"](https://video.cube365.net/c/927999) invited interview.
@@ -166,7 +166,7 @@ Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov
 1. Stammer, D., F. J. Wentz and C. L. Gentemann (2003), Validation of microwave sea surface temperature measurements for climate purposes, Journal of Climate, 16(1), 73-87.
 1. Donlon, C. J., P. J. Minnett, C. L. Gentemann, T. J. Nightingale, I. J. Barton, B. Ward and M. J. Murray (2002), Towards improved validation of satellite sea surface skin temperature measurements for climate research, Journal of Climate, 15(4), 353-369.
 1. Chelton, D. B., S. K. Esbensen, M. G. Schlax, N. Thum, M. H. Freilich, F. J. Wentz, C. L. Gentemann, M. J. McPhaden and P. S. Schopf (2001), Observations of coupling between surface wind stress and sea surface temperature in the eastern tropical Pacific, Journal of Climate, 14(7), 1479-1498.
-1. Halpern, D., V. Zlotnicki, P. M. Woicheshyn, O. B. Brown, G. C. Feldman, M. H. Freilich, F. J. Wentz, and C. Gentemann. 2000. "An atlas of monthly mean distributions of SSMI surface wind speed, AVHRR sea surface temperature, TMI sea surface temperature, AMI surface wind velocity, SeaWIFS chlorophyll-a, and TOPEX/POSEIDON sea surface topography during 1998". Jet Propulsion Laboratory Publication 00-08, 102 p. National Aeronautics and Space Administration, Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive, Pasadena, CA 91109.
+1. Halpern, D., V. Zlotnicki, P. M. Woicheshyn, O. B. Brown, G. C. Feldman, M. H. Freilich, F. J. Wentz, and C. Gentemann. 2000. "An atlas of monthly mean distributions of SSMI surface wind speed, AVHRR sea surface temperature, TMI sea surface temperature, AMI surface wind velocity, SeaWIFS chlorophyll-a, and TOPEX/POSEIDON sea surface topography during 1998." Jet Propulsion Laboratory Publication 00-08, 102 p. National Aeronautics and Space Administration, Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive, Pasadena, CA 91109.
 1. Chelton, D. B., F. J. Wentz, C. L. Gentemann, R. A. D. Szoeke and M. G. Schlax (2000), Satellite microwave SST observations of transequatorial tropical instability waves, Geophysical Research Letters, 27(9), 1239-1242.
 1. Donlon, C. J., C. L. Gentemann and F. J. Wentz (2001), Measuring surface temperature with microwave sensors, Backscatter, 12, 37-39.
 1. Wentz, F. J., P. D. Ashcroft and C. L. Gentemann (2001), Post-launch calibration of the TMI microwave radiometer, IEEE Transactions on Geoscience and Remote Sensing, 39(2), 415-422.
