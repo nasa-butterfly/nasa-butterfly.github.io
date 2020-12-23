@@ -73,7 +73,7 @@ Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov
 - 2009 10TH International GHRSST Science Team Meeting [website](https://www.ghrsst.org/meetings/10th-international-ghrsst-science-team-meeting-ghrsst-x/)
 
 ## Partial list of invited talks/panels:
-- 2020 AGU Fall meeting invited talk: Session:¬†Atmospheric and Oceanic Processes Governing the Trade-wind Regions, "Emerging technologies for air-sea interaction research: saildrones during EUREC4A/ATOMIC".
+- 2020 AGU Fall meeting invited talk: Session:†Atmospheric and Oceanic Processes Governing the Trade-wind Regions, "Emerging technologies for air-sea interaction research: saildrones during EUREC4A/ATOMIC".
 - 2020 ESIP Summer Meeting, plenary speaker, ["Empowering Transformational Science"](https://www.youtube.com/watch?v=HAh7Xy9ReJo&ab_channel=ESIP) 
 - 2020 The Consortium for Ocean Leadership's Workshop to Support Implementation of NOAA's UxS Strategy, invited speaker and panelist on ["Building a community of practice"](https://oceanleadership.org/unmanned-systems-workshop/) panel. [slides[(https://www2.slideshare.net/ChelleGentemann/building-a-community-of-practise?qid=9d28f1cf-adde-4c6a-92c8-af65da7efd1f&v=&b=&from_search=1)
 - 2020 NASA Designated Observables Special Topic: Open Science and Data Systems, invited speaker and panelist, ["Towards open science: accelerating and expanding NASA's scientific impact"](https://www2.slideshare.net/ChelleGentemann/open-science-239057717?qid=8c85b964-08a8-4152-b0eb-1237657666f9&v=&b=&from_search=2).
@@ -138,7 +138,7 @@ Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov
 1. National Academies of Sciences, Engineering, and Medicine. 2015. Continuity of NASA Earth Observations from Space: A Value Framework. Washington, DC: The National Academies Press. https://doi.org/10.17226/21789. 
 1. Gentemann, C.L. and K.A. Hilburn, "In situ validation of sea surface temperatures from the GCOM-W1 AMSR2 RSS calibrated brightness temperatures", (2015) J. Geophys. Res. Oceans, 120, 3567-3585, doi: 10.1002/2014JC010574.
 1. Walker, N. D., R. R. Leben, C. T. Pilley, M. Shannon, D. C. Herndon, I.-F. Pun, I.-I. Lin, and C. L. Gentemann (2014), Slow translation speed causes rapid collapse of northeast Pacific Hurricane Kenneth over cold core eddy, Geophys. Res. Lett., 41, 7595-7601, doi:10.1002/2014GL061584
-1. Gentemann, C. L.,"Three way validation of MODIS and AMSR-E sea surface temperatures"ù, (2014), J. Geophys. Res. Oceans, 119, 2583-2598, doi:10.1002/2013JC009716. 
+1. Gentemann, C. L.,"Three way validation of MODIS and AMSR-E sea surface temperatures", (2014), J. Geophys. Res. Oceans, 119, 2583-2598, doi:10.1002/2013JC009716. 
 1. Woods, S., P.J. Minnett, C.L. Gentemann, D. Bogucki, "Influence of the oceanic cool skin layer on global air-sea CO2 flux estimates", (2014), Rem. Sens. of Enviro. 145, 15-24.
 1. Becker, E.A., D.G. Foley, K.A. Forney, J. Barlow, J.V. Redfern, C.L. Gentemann, "Forecasting cetacean abundance patterns to enhance management decisions" (2012), Endangered Species Research, 16, 97-112, doi: 10.3354/esr00390.
 1. Monier, A., R. M. Welsh, C. L. Gentemann, G. Weinstock, E. Sodergren, E. V. Armbrust, J. A. Eisen and A. Z. Worden, "Phytoplankton phosphate uptake and cross domain commonalities in viral-host gene exchanges" (2012), Environmental Microbiology, 14, 162-176, doi: 10.1111/j.1462-2920.2011.02576.x.
@@ -156,7 +156,7 @@ Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov
 1. Gentemann, C.L. and P.J. Minnett (2008), "Radiometric measurements of ocean surface thermal variability", J. Geophs. Res., 113, C08017, doi:10.1029/2007JC004540.
 1. Gentemann, C.L. (2007), "Diurnal warming at the ocean surface", Meteorology and Physical Oceanography, Miami, FL, University of Miami, Doctor of Philosophy: 163 pp.
 1. Donlon, C. J., et al. (2007), The Global Ocean Data Assimilation Experiment (GODAE) High Resolution Sea Surface Temperature Pilot Project (GHRSST-PP), Bulletin of the American Meteorological Society, 88(8), 1197-1213.
-1. Horvath, √Å. and C. L. Gentemann (2007), Cloud-fraction-dependent bias in satellite liquid water path retrievals of shallow, non-precipitating marine clouds, Geophysical Research Letters, 34, doi:10.1029/2007GL030625.
+1. Horvath, A. and C. L. Gentemann (2007), Cloud-fraction-dependent bias in satellite liquid water path retrievals of shallow, non-precipitating marine clouds, Geophysical Research Letters, 34, doi:10.1029/2007GL030625.
 1. Dong, S., S. T. Gille, J. Sprintall and C. L. Gentemann (2006), Validation of the Advanced Microwave Scanning Radiometer for the Earth Observing System (AMSR-E) sea surface temperature in the Southern Ocean, Journal of Geophysical Research, 111, doi:10.1029/2005JC002934.
 1. Reynolds, R.W., H.M. Zhang, T.M. Smith, C.L. Gentemann, F.J. Wentz, "Impacts of in situ and additional satellite data on the accuracy of a sea-surface temperature analysis for climate", (2005), Intern. J. of Climatology, 25(7), 857-864.
 1. Gentemann, C.L, F.J. Wentz, C.M. Mears, and D.K. Smith (2004), "In-situ validation of TRMM microwave sea surface temperatures", J. Geophs. Res., 109, C04021.
