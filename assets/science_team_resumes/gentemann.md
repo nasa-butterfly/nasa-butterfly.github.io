@@ -8,13 +8,12 @@
 [<img src="./../img/twitter.png" width="2%" height="2%">](https://twitter.com/chellegentemann)
 [<img src="./../img/github.png" width="2%" height="2%">](https://github.com/cgentemann)
 ## Senior Scientist, [Farallon Institute](https://faralloninstitute.org)
-## Senior Scientist, [Earth & Space Research](https://esr.org) 
 
 Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud computing, open source software development, air-sea interactions, and upper ocean physical processes.  For over 20 years she has worked on the calibration, radiative transfer modelling, algorithm development, validation, and operational near-real-time distribution of multiple satellite passive microwave sensors data. She also led 3 in situ field campaigns, 4 large academic, governmental, commercial partnerships, and has served on and chaired international and national science teams, working groups, and committees.    
 
 ## Experience:
 - 2/2020 - present: Farallon Institute, Senior Scientist.  
-- 3/2016 - present: Earth & Space Research, Senior Scientist.  
+- 3/2016 - present: Earth & Space Research, Senior Scientist-2020, Affiliat-present.  
 - 2017 - present: University of Washington, Applied Physics Laboratory, Affiliate
 - 2017 - 2018: NASA Jet Propulsion Laboratory, Visiting Scholar
 - 2/1998 - 10/2015: Remote Sensing Systems, Scientist - 2012, -Senior Principal Scientist -2015.  
