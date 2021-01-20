@@ -1,8 +1,8 @@
 ![image](./../img/team/gentemann.jpg)
 # Dr. Chelle L. Gentemann (she/her)
-[<img src="./../images/gmail.png" width="5%" height="5%">](mailto:cgentemann@faralloninstitute.org)
-[<img src="./../images/twitter.png" width="10%" height="10%">](https://twitter.com/chellegentemann)
-[<img src="./../images/github.png" width="5%" height="5%">](https://github.com/cgentemann)
+[<img src="./../img/gmail.png" width="5%" height="5%">](mailto:cgentemann@faralloninstitute.org)
+[<img src="./../img/twitter.png" width="10%" height="10%">](https://twitter.com/chellegentemann)
+[<img src="./../img/github.png" width="5%" height="5%">](https://github.com/cgentemann)
 ## Senior Scientist, [Farallon Institute](https://faralloninstitute.org)
 ## Senior Scientist, [Earth & Space Research](https://esr.org) 
 
