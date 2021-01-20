@@ -1,5 +1,9 @@
 ![image](./../img/team/gentemann.jpg)
 # Dr. Chelle L. Gentemann (she/her)
+
+<i class="fab fa-github"></i>
+<i class="fab fa-twitter"></i>
+
 [<img src="./../img/gmail.png" width="5%" height="5%">](mailto:cgentemann@faralloninstitute.org)
 [<img src="./../img/twitter.png" width="10%" height="10%">](https://twitter.com/chellegentemann)
 [<img src="./../img/github.png" width="5%" height="5%">](https://github.com/cgentemann)
