@@ -6,7 +6,7 @@
 
 [<img src="./../img/gmail.png" width="5%" height="5%">](mailto:cgentemann@faralloninstitute.org)
 [<img src="./../img/twitter.png" width="10%" height="10%">](https://twitter.com/chellegentemann)
-[<img src="./../img/github.png" width="5%" height="5%">](https://github.com/cgentemann)
+[<img src="./../img/github.png" width="2%" height="2%">](https://github.com/cgentemann)
 ## Senior Scientist, [Farallon Institute](https://faralloninstitute.org)
 ## Senior Scientist, [Earth & Space Research](https://esr.org) 
 
