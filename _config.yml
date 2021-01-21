@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "https://nasa-butterfly.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 
-title      : "Butterfly"
+title      : Butterfly
 email      : cgentemann@faralloninstitute.org #this is also the email contact forms will go to
 description: "NASA Earth Venture Mission - 3 Proposal"
 author     : Chelle Gentemann
