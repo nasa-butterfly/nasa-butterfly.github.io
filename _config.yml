@@ -21,9 +21,9 @@ title      : "Butterfly"
 email      : cgentemann@faralloninstitute.org #this is also the email contact forms will go to
 description: "NASA Earth Venture Mission - 3 Proposal"
 author     : Chelle Gentemann
-logo:     #optional, defaults to site title
-  path: ./assets/img/butterfly_logo.png
-  height: 60 #height in px, defaults to 52px
+  logo:     #optional, defaults to site title
+   path: ./assets/img/butterfly_logo.png
+   height: 60 #height in px, defaults to 52px
 
 analytics:
   google: #Google Analytics tracking code here
