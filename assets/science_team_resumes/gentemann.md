@@ -110,7 +110,7 @@ Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov
 - IEEE Geoscience and Remote Sensing Society
 - The Oceanography Society (TOS)
 
-## Publications (54 published, 9 in process):
+## Publications (55 published, 8 in process):
 1. "ATOMIC: Salty Seas from Satellites and Saildrones", A. Daley, S. Sandiford. K. Hall, C.Gentemann, in prep.
 1. Stevens, B., et al. "EUREC4A", submitted AGU Advances.
 1. Chiodi, A. M., C. Zhang, E. D. Cokelet, Q. Yang, C. W. Mordy, C. Gentemann, J. Cross, N. Lawrence-Slavas, C. Meinig, M. Steele, D. E. Harrison, P. Stabeno, H. Tabisola, D. Zhang, E. Burger, and K. O'Brien, Exploring the Alaskan Arctic Seasonal Ice Zone with Saildrones, submitted Frontiers in Marine Science.
@@ -118,9 +118,8 @@ Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov
 1. Zhang., C., A. F. Levine, M. Wang, C. L. Gentemann, C. W. Mordy, E. D. Cokelet, P. A. Browne, Q. Yang, N. Lawrence-Slavas, C. Meinig, G. Smith, A. Chiodi, D. Zhang, P. Stabeno, W. Wang, H. Ren, K. A. Peterson, S. N. Figueroa, M. Steele, N. P. Barton, "Evaluation of Operational Forecasts at Alaskan Arctic Sea Surface Using in situ Observations from Saildrones", submitted MWR.
 1. Vazquez-Cuervo, J., C.L. Gentemann, et al. "Validation of Sea Surface Salinity in the Bering Straits using Saildrone, SMAP, and Models," submitted Remote Sensing.
 1. Ashlock, L., M. GarcÃ­a-Reyes, S. Batten, C. Gentemann, W. Sydeman, "Temperature driven patterns of copepod presence and abundance in the Northeast Pacific", submitted.
-1. Hoover, B., M. GarcÃ­a-Reyes, S. Batten, C. L. Gentemann, W. Sydeman, "Spatio-Temporal Persistence of Zooplankton Communities in Gulf of Alaska", in press PLOS.
 1. Abernathey, R.P., T. Augspurger, A. Banihirwe, C.C. Blackmon-Luca, T.J. Crone, C.L. Gentemann, J. J. Hamman, N. Henderson, C. Lepore, T. A. McCaie, N.H. Robinson, R.P. Signell, "Cloud-Native Repositories for Big Scientific Data", in press IEEE.
-1. Gentemann, C.L.; et al. FluxSat: Measuring the Ocean-Atmosphere Turbulent Exchange of Heat and Moisture from Space. Remote Sensing 2020, 12, 1796, [doi:10.3390/rs12111796](https://www.mdpi.com/2072-4292/12/11/1796).
+1. Hoover BA, García-Reyes M, Batten SD, Gentemann CL, Sydeman WJ (2021) [Spatio-temporal persistence of zooplankton communities in the Gulf of Alaska]((https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244960)). PLoS ONE 16(1): e0244960. https://doi.org/10.1371/journal.pone.02449601. Gentemann, C.L.; et al. FluxSat: Measuring the Ocean-Atmosphere Turbulent Exchange of Heat and Moisture from Space. Remote Sensing 2020, 12, 1796, [doi:10.3390/rs12111796](https://www.mdpi.com/2072-4292/12/11/1796).
 1. Gentemann, C.L., et al., ["Saildrone: adaptively sampling the marine environment"](https://doi.org/10.1175/BAMS-D-19-0015.1), 2020, Bull. Amer. Meteor. Soc., 101, E744-E762, https://doi.org/10.1175/BAMS-D-19-0015.1.
 1. Alerskans, E., J. L. HÃ¸yer, C. L. Gentemann, et al. (2020), Construction of a climate data record of sea surface temperature from passive microwave measurements, Remote Sensing of Environment, 236, 111485, doi:https://doi.org/10.1016/j.rse.2019.111485. 
 1. Scott, J. P., S. Crooke, I. Cetini?, C. E. Del Castillo, and C. L. Gentemann (2020), "Correcting non-photochemical quenching of Saildrone chlorophyll-a fluorescence for evaluation of satellite ocean color retrievals," Opt. Express 28(3), 4274-4285, https://doi.org/10.1364/OE.382029.
