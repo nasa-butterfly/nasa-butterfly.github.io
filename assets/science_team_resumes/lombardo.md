@@ -4,6 +4,12 @@
 ## The Pennsylvania State University 			
 University Park, PA  16802				
 
+## Role in Investigation
+Co-Investigator: Responsible for the success of S01A. Numerical modeling of atmospheric mid-latitude cyclones using retrieved observations. Analysis of observation-based fluxes near cyclones. Dr. Lombardo will mentor 1 graduate student and 1 postdoc (targeting women and URMs), engage her science communication course students and public participants in the project, inspire new students through social media.
+
+## Experience Related to the Investigation
+Dr. Lombardo is currently an Associate Professor at The Pennsylvania State University, leading research on coastal meteorology, atmosphere-ocean interactions, high-performance computing. She is an expert in the use of mesoscale and cloud-resolving numerical models in conjunction with observations to advance our understanding of storm-scale processes in a marine environment. Dr. Lombardo is leading/has participated in 2 large field campaigns, with foci on sea breeze convection. She currently serves on the National Center for Atmospheric Research (NCAR) Computational and Information Systems Laboratory (CISL) High Performance Computing (HPC) Allocation Panel (CHAP). She leads numerous efforts to improve science education and communication, leadership and professional development, diversity and inclusion, and served on the University Corporation for Atmospheric Research (UCAR) President’s Advisory Committee on University Relations (PACUR). 
+
 ## Experience:
 - 2019 - present: Associate Professor, The Pennsylvania State University
 - 2019: Associate Professor, University of Connecticut	
@@ -32,6 +38,9 @@ University Park, PA  16802
 - 2017 Young Investigator Program (YIP) Award Recipient, Office of Naval Research. Advancements in the Prediction of Littoral Quasi-linear Mesoscale Convective Systems. Principal Investigator. Office of Naval Research; $473,433; 6/17-5/21. 
 - Modification of Mesoscale Convective Systems Traversing the Maritime Continent. Principal Investigator. Office of Naval Research; $189,998; 6/16-5/21.
 - Toward a Further Understanding and Improved Forecasting of Coastal Quasi-linear Convective Systems. Principal Investigator. National Science Foundation; $291,988; 7/15-6/20.
+
+## Mentoring Experience:
+Advisor for 10 graduate students, 4 undergraduate students, 2 postdocs, 1 Noyce Teaching Scholar. Host for UCAR Next Generation Fellows. Invited speaker at Conference Student Events. 
 
 ## Publications:
 2020

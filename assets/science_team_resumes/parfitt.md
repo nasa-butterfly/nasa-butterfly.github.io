@@ -4,7 +4,11 @@
 ## Tallahassee, FL, USA 
 ## rparfitt@fsu.edu 
 
-## Research Interests:
+## Role in Investigation:
+Co-Investigator: SO1A Deputy Lead. Responsible for the observational analysis of small-scale Butterfly fluxes and flux gradients, including their relationship with storm variability. Comparison of Butterfly flux variability with WRF model fluxes to determine sources of model bias. Development of relevant atmospheric (to isolate storm-region) and oceanic (to isolate modes of sea-surface temperature) diagnostic masks for application in both observational and modelling analyses. Serving as advisor to graduate students and early career scientists, to provide both scientific and career mentorship. Promoting accessibility in STEM through dissemination of Butterfly results at outreach events. 
+
+## Experience Related to the Investigation:
+Dr. Parfitt is currently an assistant professor of meteorology and oceanography at FSU, whose research lab focuses on marine meteorology and mid-latitude climate variability. He has published at length, with both domestic and international collaborators, on the interaction between the mid-latitude ocean and the atmosphere on all timescales. His primary focus has been on the role of small-scale turbulent heat fluxes in the development of extreme weather, providing extensive experience with the simulation and analysis of turbulent heat fluxes and their gradients in both high-resolution models and observational datasets. For the past five years, he has also led and contributed to the development of multiple diagnostic techniques now commonly used in the objective analysis of: storm variability (e.g. cold sector, atmospheric frontal masks), ocean variability (e.g. Gulf Stream SST gradient index), as well as their air-sea interaction (e.g. “thermal damping and strengthening” through frontal-scale turbulent heat flux gradients). Dr. Parfitt currently sits on the editorial board of Atmospheric Science Letters and is a member of the CLIVAR Climate Dynamics Panel. 
 
 ## Experience: 
 - 2018 - present: Assistant Professor, Department of Earth, Ocean and Atmospheric Science, Florida State University 
@@ -21,6 +25,9 @@ Other Positions:
 ## Education: 
 - 2010 - 2014: PhD, Atmospheric and Oceanic Physics, Imperial College London 
 - 2006 - 2010: M Phys, University of Oxford 
+
+## Mentoring Experience:
+In the past three years, Dr. Parfitt has been the primary advisor to five graduate students, two undergraduate students and one postdoctoral scientist, and has served on the committee of four graduate students. Previously, he worked closely with K-12 awareness programs at Woods Hole Oceanographic Institution, and served as the postgraduate and undergraduate representative at Imperial College London and University of Oxford, where he was actively involved in outreach to underrepresented groups in STEM. 
 
 ## Publications: 
 1. 2020 R.Parfitt and Y.Kwon, “The modulation of Gulf Stream influence on the troposphere by the eddy-driven jet”, Journal of Climate, 33(10), 4109-4120. 

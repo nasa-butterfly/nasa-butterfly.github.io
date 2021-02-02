@@ -7,6 +7,12 @@ FAX: (850) 644-4841; (850) 644-5092
 e-mail: mbourassa@fsu.edu 
 http://coaps.fsu.edu/~bourassa/ 
 
+## Role in Investigation:
+Co-Investigator: Responsible for Calibration/Validation of the Butterfly Mission. Responsible for quality assessment of in situ comparison data. Aid in modeling studies to understand key processes needed to make model fluxes and flux-related variables consistent with Butterfly observations. Graduate students and our postdoc will be mentored on processes related to air-sea interaction and related modification of the atmosphere. They will participate in workshops and national meetings, local and project outreach, and be placed in an environment rich with researchers that they can interact with.
+
+## Experience Related to the Investigation:
+Dr. Bourassa has wide experience with satellite data, in situ data, and air-sea fluxes. He served as a team member for NASA Atmospheric and Physical Oceanography science teams, contributed to the development of mission concepts, and served on the NASA Senior Review. He has decades of experience with marine meteorology observations from Research Vessels and merchant ships, including quality assessment of the data, calculation of surface fluxes, and conversion to satellite observations. Recently, this experience is used to model and evaluate physical processes in coupled ocean/atmosphere models and improve fluxes in the models. He has been a national and international leader in related activities for over a decade, including co-leading an ocean and atmospheric US CLIVAR working group on air-sea fluxes, co-chairing the Ocean Observations Panel for Climate (which included ocean surface fluxes) and co-chairing a Joint Commission on Marine Meteorology cross-cutting Task Team on Satellite Data Requirements. He was also a member of the Weather and Air Quality panel on the National Academies Decadal Survey on Earth Satellites. 
+
 ## Experience: 
 - 2015 − present: Associate Director, COAPS, College of A&S, Florida State University.
 - 2013 − present: Professor, Department of Earth, Ocean, and Atmospheric Sciences and Center for Ocean−Atmospheric Prediction Studies, College of Arts and Sciences, Florida State University.  
@@ -65,6 +71,8 @@ http://coaps.fsu.edu/~bourassa/
 - MET5930 Masters Seminar
 - MET6930 Ph.D. Seminar
 
+## Mentoring Experience:
+Dr. Bourassa has chaired or co-chaired committees for 14 Ph.D., 31 M.S., and 11 undergraduate honors students in Meteorology, Oceanography and Geophysical Fluid Dynamics, and has mentored three postdocs. 
 
 ## Publications: 
 1. Barker, C. H., V. H. Kourafalou, CJ Beegle-Krause, Y. S. Androulidakis, M. Bouadel, M. Bourassa, S. G. Buschang, E. P. Chassignet, K.-F. Dagestad, D. G. Danmeier, A. L.  Dissanayake, J. A. Galt, G. Jacobs, G. Marcotte, T. Özgökmen, N. Pinardi, R. Schiller, S. A.  Socolofsky, D. Thrift-Viveros, B. Zelenke, A. Zhang, Y. Zheng, 2020: Progress in  Operational Modeling in Support of Oil Spill Response. Journal of Marine Science and  Engineering, 8(9), 668. 

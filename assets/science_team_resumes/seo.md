@@ -8,6 +8,12 @@ Web: http://hseo.whoi.edu
 ## Research Interests:
 Seo is the developer of the Scripps Coupled Ocean-Atmosphere Regional (SCOAR) model and an expert in air-sea interaction, upper ocean processes, and climate variability and modeling. His ongoing research includes understanding the physics of coupled air-sea interactions mediated by the fronts and mesoscale eddies near the oceanic boundary current systems and evaluating their impacts on weather and climate, including extratropical storm track, Madden-Julian Oscillation, and South Asian Monsoons. He is currently leading the US CLIVAR Working Group on this topic.
 
+## Role in Investigation:
+Principal Investigator. Responsible for high-resolution, basin-scale atmospheric model simulations forced with the Butterfly data to investigate the extratropical cyclones-ocean interaction over the warm ocean currents and their impacts on far-field weather patterns and their predictability. Seo will supervise a postdoctoral researcher from this project as well as continue to sponsor and mentor undergraduate interns via various REU programs, especially minority students, for use and interpretation of satellite datasets and numerical model outputs.
+
+## Experience Related to the Investigation:
+Dr. Seo has extensive experience in high-resolution ocean, atmosphere, and coupled climate modeling. He is the developer of the Scripps Coupled Ocean-Atmosphere Regional (SCOAR) modeling system, one of the first coupled regional atmosphere-ocean models applied to air-sea interaction and climate-scale studies. Seo is currently a Co-Chair of the US CLIVAR Working Group on "Mesoscale and frontal-scale ocean-atmosphere interactions and influence on large-scale climate", leading community efforts to better understand the role of oceans in weather and climate.
+
 ## Education:    
 - 2007: Ph.D., Oceanography, Scripps Institution of Oceanography, UC San Diego
 - 2002:	B.S., Meteorology, Yonsei University, Seoul, South Korea 
@@ -20,6 +26,9 @@ Seo is the developer of the Scripps Coupled Ocean-Atmosphere Regional (SCOAR) mo
 - 2007 – 2008: NOAA Climate and Global Change Postdoctoral Fellow, UCLA and Univ. Hawaii
 - 2007: Visiting Scientist, International Pacific Research Center, Univ. Hawaii, Manoa
 - 2002 – 2007: Graduate Research Assistant, Scripps Institution of Oceanography, UCSD
+
+## Mentoring Experience:
+Dr. Seo has mentored a total of 11 undergraduate students through WHOI REU and UCAR SOARS programs, 8 of which are currently enrolled in doctoral programs in the US and 3 of which were from underrepresented groups in the STEM fields.
 
 ## Publications:
 Submitted
@@ -49,7 +58,7 @@ Submitted
 1. Seo, H., Y.-O. Kwon, T. M. Joyce, and C. C. Ummenhofer, 2017: On the predominant nonlinear response of the extratropical atmosphere to meridional shift of the Gulf Stream. J. Climate, 30, 9679-9702.
 1. Morrow, R., L.-L. Fu, T. Farrar, H. Seo, P.-Y. Le Traon, 2017: Ocean eddies and mesoscale variability. Satellite Altimetry Over Oceans and Land Surfaces, In D. Stammer and A. Cazenave, editors, Satellite Altimetry Over Ocean and Land Surfaces. CRC Press, Taylor and Francis Group, Satellite Altimetry Over Oceans and Land Surfaces. 
 1. Centurioni, L. R., and Co-authors, 2017: Northern Arabian Sea Circulation-Autonomous Research (NASCar): A Research Initiative Based on Autonomous Sensors. Oceanography, 30, 74-87.  
-1. Ummenhofer, C. C., H. Seo, Y-O. Kwon, R. Parfitt, S. Brands, and T. M. Joyce, 2017: Emerging European winter precipitation pattern  linked to atmospheric circulation changes over the North Atlantic region in recent decades. Geophys. Res. Lett., 44, 8557–8566.  
+1. Ummenhofer, C. C., H. Seo, Y-O. Kwon, R. Parfitt, S. Brands, and T. M. Joyce, 2017: Emerging European winter precipitation pattern linked to atmospheric circulation changes over the North Atlantic region in recent decades. Geophys. Res. Lett., 44, 8557–8566.  
 1. Seo, H., 2017: Distinct influence of air-sea interactions mediated by mesoscale sea surface temperature and surface current in the Arabian Sea. J. Climate, 30, 8061-8079. 
 1. Miller, A. J., M. Collins, S. Gualdi, T. G. Jensen, V. Misra, L. P. Pezzi, D. W. Pierce, D. Putrasahan, H. Seo, and Y.-H. Tseng, 2017: Coupled Ocean-Atmosphere-Hydrology Modeling and Predictions, J. Mar. Res., 75, 361-402. 
 1. Parfitt, R., A. Czaja, and H. Seo, 2017: A simple diagnostic for the detection of atmospheric fronts, Geophys. Res. Lett., 44, 4351–4358.  

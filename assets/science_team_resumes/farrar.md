@@ -8,6 +8,12 @@ Mail Stop #29, Clark 212A, Woods Hole, MA 02534 USA
 Atmosphere-ocean exchange of heat and freshwater; dynamics and thermodynamics of the upper ocean; tropical dynamics and equatorial waves; oceanic internal waves and eddies; satellite oceanography; ocean observing and instrumentation. 
 These interests are pursued using in situ observations, satellite observations, and numerical models to test hypotheses and test or formulate simplified physical models to help us understand ocean dynamics, air-sea interaction, and the earth system. 
 
+## Role in Investigation:
+Co-Investigator; SO2 Deputy Lead. Analysis of Butterfly observations to examine effects of oceanic mesoscale (~50-500-km) variations of SST, wind, air temperature, and humidity on global and regional air-sea fluxes. 
+
+## Experience Related to the Investigation:
+Specialist in upper-ocean physics, air-sea fluxes, and air-sea interaction, and co-author of more than 75 peer-reviewed journal publications on these topics. Principal investigator on numerous projects to make in situ measurements of air-sea fluxes from oceanographic buoys.  Principal Investigator of the Sub-Mesoscale Ocean Dynamics Experiment (S-MODE), a NASA Earth Venture Suborbital Mission that focuses in part on air-sea interaction at 10-100-km scales.
+
 ## Experience:
 - 2016 - present: Associate Scientist with tenure Woods Hole Oceanographic Institution, Physical Oceanography Department. 
 - 2012 - 2016: Associate Scientist without tenure Woods Hole Oceanographic Institution, Physical Oceanography Department. 
@@ -35,6 +41,9 @@ These interests are pursued using in situ observations, satellite observations, 
 - 1999: Golden Key National Honor Society 
 - 1998: Sigma Pi Sigma (physics honor society) 
 - 1994: National Merit Scholar 
+
+## Mentoring Experience:
+Dr. Farrar has advised 6 postdocs, 1 PhD student, and 5 guest students.
 
 ## Publications (*student or postdoc of Farrar; †other student or postdoc) 
 1. J.T. Farrar and R. A. Weller. Intraseasonal variability near 10◦N in the eastern tropical Pacific Ocean. J. Geophys. Res., 111(C05015):doi: 10.1029/2005JC002989, 2006. 

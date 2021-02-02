@@ -7,7 +7,11 @@
 
 ## Shannon.T.Brown@jpl.nasa.gov
 
-## Research Interests:
+## Role in Investigation:
+Deputy Project Scientist:  Responsibility for mission science requirements, mission science trades, and instrument level 0 to level 1B processing algorithms.  Interfaces with the JPL Inst. Scientist, also serving as mentor for Inst Scientist.
+
+## Experience Related to the Investigation:
+Dr. Shannon Brown is the Technical Group Supervisor, Microwave Instrument Science Group at JPL.  He is an expert on satellite microwave radiometer design, calibration and retrieval product development and validation.  He has experience with all phases of the flight project life cycle from formulation, technology development, preliminary and critical design, and implementation-testing through on-orbit operations.  He has led small and large teams, ranging from small research studies, to instrument and technology developments to large working groups on international science teams. He was instrument scientist for the Juno New Frontiers mission to Jupiter and the Jason Advanced Microwave Radiometer, and instrument manager for High Altitude MMIC Scanning Radiometer (HAMSR).  He also developed the real-time ground data processing system for UAV-HAMSR including the Level 2 retrieval algorithm software and visualization suite.  He has conceived of and successfully proposed several microwave radiometer instrument concepts, including the Compact Ocean Wind Vector Radiometer for the US Air Force and the high-frequency water vapor radiometer being considered for SWOT or Jason-CS.  He has developed several geophysical retrieval algorithms, including a physically based algorithm to remotely sense the vertical precipitation profile.He led the post-launch calibration effort for the NASA Jason-1 and -2 microwave radiometers and validation of the wet tropospheric path delay retrieval.  He is familiar with the state-of-the-art in on-orbit calibration and cross-calibration techniques for microwave radiometers and has developed an on-Earth hot calibration brightness temperature reference model for regions of the Amazon Rainforest that was adopted by the NASA GPM mission as a calibration standard model. 
 
 ## Experience: 
 - 2018 – present: Technical Group Supervisor, Microwave Instrument Science Group
@@ -17,24 +21,8 @@
 - 2006 – present: Juno Microwave Radiometer Instrument Scientist
 - 2005 – present: Advanced Microwave Radiometer Science Lead
 - 2005 – present: Technologist, Jet Propulsion Laboratory, Pasadena, CA 
-- 2001 – 2005: Ph.D. Candidate in Geoscience and Remote Sensing.  Department of Atmospheric, Oceanic and Space Sciences and Department of Electrical Engineering and Computer Science. University of Michigan, Ann Arbor, MI
+- 2001 – 2005: Ph.D. Candidate in Geoscience and Remote Sensing.  Department of Atmospheric, Oceanic and Space Sciences and Department of Electrical Engineering and Computer Science. University of Michigan, Ann Arbor, MI  
     
-## Details of relevant experience:
-Dr. Shannon Brown has experience with satellite microwave radiometer design, calibration and retrieval product development and validation.  He has experience with all phases of the flight project life cycle from formulation, technology development, preliminary and critical design, implementation/testing through on-orbit operations.  He has led small and large teams, ranging from small research studies, to instrument and technology developments to large working groups on international science teams.  He has experience working with NASA and non-NASA sponsors and program managers and fostering partnerships with University collaborators.      
-
-He has developed several geophysical retrieval algorithms, including a physically based algorithm to remotely sense the vertical precipitation profile and the underlying surface wind speed from an airborne radar and radiometer, an emissivity based algorithm to retrieve the surface wind vector over the ocean, a novel algorithm to retrieve path delay in coastal regions and the atmospheric temperature and water vapor profiling algorithms for HAMSR.    
-
-He led the post-launch calibration effort for the NASA Jason-1 and -2 microwave radiometers and validation of the wet tropospheric path delay retrieval.  He is familiar with the state-of-the-art in on-orbit calibration and cross-calibration techniques for microwave radiometers and has developed an on-Earth hot calibration brightness temperature reference model for regions of the Amazon Rainforest that was adopted by the NASA GPM mission as a calibration standard model.
-
-He is a member of the Ocean Surface Topography Science Team, the Ocean Salinity Science Team, Ocean Vector Winds Science Team and the Soil Moisture and Salinity Science Team and leads the international working groups for instrument processing and calibration for these teams.  
-
-As instrument scientist for the Juno New Frontiers mission to Jupiter and the Jason Advanced Microwave Radiometer, he was responsible for the derivation of the instrument performance requirements and both pre-launch and post-launch calibration and performance verification.  
-
-As the instrument manager for HAMSR, he led the team that upgraded the HAMSR IIP instrument to the current operational version that flies on the Global Hawk.  He also developed the real-time ground data processing system for UAV-HAMSR including the Level 2 retrieval algorithm software and visualization suite.  He currently manages the team during deployments, including GRIP (2010) and HS3 (2011-2015).     
-
-He has conceived of and successfully proposed several microwave radiometer instrument concepts, including the Compact Ocean Wind Vector Radiometer for the US Air Force and the high-frequency water vapor radiometer being considered for SWOT or Jason-CS.  
-
-He has been the principal investigator or lead JPL co-Investigator for several research and technology development projects for NASA, JPL and the DoD.  These include the development of a C- and X-band broadband RFI mitigating radiometer, a tri-frequency 90-183 GHz feedhorn, high frequency internally calibrated radiometers, a hybrid deployable 2m class antenna, a on-board RFI processing backend, correlation radiometer receivers and small satellite radiometer systems.      
 
 ## Education:
 - 2005: Ph.D., Geoscience and Remote Sensing, Department of Atmospheric, Oceanic & Space Sciences, University of Michigan
@@ -66,6 +54,9 @@ He has been the principal investigator or lead JPL co-Investigator for several r
 - 2009: NASA Group Achievement Award for OSTM AMR Development
 - 2007:	NASA Group Achievement Award for NAMMA  
 - 2004:	NASA Group Achievement Award for Lightweight Rainfall Radiometer
+
+## Mentoring Experience:
+Dr. Brown has mentored three post-doctoral scholars at who are now full-time researchers at JPL. He has also mentored two under-graduate summer interns. As supervisor, is responsible for supporting group member’s career development.   
 
 ## Publications:
 1. Gentemann, Chelle L., Carol Anne Clayson, Shannon Brown, Tong Lee, Rhys Parfitt, J. Thomas Farrar, Mark Bourassa et al. "FluxSat: Measuring the Ocean–Atmosphere Turbulent Exchange of Heat and Moisture from Space." Remote Sensing 12, no. 11 (2020): 1796.

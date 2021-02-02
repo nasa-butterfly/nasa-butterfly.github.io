@@ -4,6 +4,12 @@ La Jolla CA 92093-0230
 ph: (858) 822 4425 fax: (858) 534 9820
 email: sgille@ucsd.edu http://www-pord.ucsd.edu/~sgille
 
+## Role in Investigation:
+Co-Investigator:  SO2 Lead.  Coordinate Butterfly observational analyses to assess global impacts, with a focus on high-latitude and Southern Ocean processes.  Provide guidance and mentoring for early-career scientists in Butterfly.  
+
+## Experience Related to the Investigation:
+Professor Gille is a full professor and department vice chair at Scripps Institution of Oceanography, University of California San Diego.  Her research in physical oceanography focuses on the Southern Ocean, air-sea exchange, and upper ocean response to the atmosphere.  She brings to this project three decades of experience in remote sensing of the upper ocean, as a member of the NASA Ocean Surface Topography Science Team, the Sea Surface Temperature Science Team, and the Ocean Vector Winds Science Team.  As a member of the Surface Water and Ocean Topography (SWOT) Science Team, she has served on the Algorithm Development Team and as a Subject Matter Expert for Low-Resolution Ocean Data products.  
+
 ## Education:
 - 1997 - 1998: Postdoc Physical Oceanography, Univ. of East Anglia, Norwich, UK
 - 1995 - 1997: Postdoc Physical Oceanography, Scripps Inst. Oceanography
@@ -24,6 +30,9 @@ email: sgille@ucsd.edu http://www-pord.ucsd.edu/~sgille
 - 2015: American Geophysical Union, Fellow
 - 2000: Zeldovich Award for COSPAR Scientific Commission A, conferred by the Committee on Space Research (COSPAR) and the Russian, Academy of Sciences for excellence and achievement by a young scientist
 - 1995: Carl-Gustav Rossby Award for the best thesis of the year, Center for Meteorology and Physical Oceanography, MIT
+
+## Mentoring Experience:
+During her career, Professor Gille has mentored 14 postdocs, 15 PhD students, 2 MS students, and more than 30 undergraduates.
 
 ## Publications (of ~125 total, see http://pordlabs.ucsd.edu/sgille/publications.html): 
 1. Wei, Y., S. T. Gille, M. R. Mazloff, V. Tamsitt, S. Swart, D. Chen, and L. Newman, 2020. Optimizing mooring placement to constrain Southern Ocean air-sea fluxes, J. Atmos. Ocean. Tech., 37, 1365-1385, doi:10.1175/JTECH-D-19-0203.1.
