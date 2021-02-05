@@ -1,9 +1,18 @@
 # TONG (TONY) LEE
-MS 300-323, Jet Propulsion Laboratory                  Phone: (818) 354-1401 E-mail: Tong.Lee@jpl.nasa.gov
-4800 Oak Grove Drive, Pasadena, CA 91109         ORCID: 0000-0001-9817-2908
+## Jet Propulsion Laboratory                  
+4800 Oak Grove Drive, Pasadena, CA 91109         
+Phone: (818) 354-1401 E-mail: Tong.Lee@jpl.nasa.gov
+ORCID: 0000-0001-9817-2908
+github.com/jpllee
 
 ## Research Interests: 
 Tong Lee is a physical oceanographer by training whose research focuses on the applications of multi-variate satellite observations to study physical processes of the ocean, air-sea interactions on climate and weather time scales, and ocean-water cycle linkages. His broad expertise also includes ocean modeling and climate model analysis as well as ocean and coupled data assimilation. He has extensive knowledge of ocean remote sensing principles and integrated observing system. He has served in numerous committees and panels for international and domestic research programs, taking various leadership roles (including US CLIVAR and International CLIVAR under WCRP, GOOS, GCOS, OceanObs’19, and COSPAR programs) to foster collaborative community research and observing system design and developments. He served as the Project Scientist of NASA’s Aquarius Mission (2013-2017) and a principal writer for the Sensor Review Proposal for Aquarius’ extended mission. He has 130 peer-reviewed publications with a Web-of-Science H-Index of 37, Google Scholar H-Index of 47, i10-Index of 115.
+
+## Role in Investigation:
+Co-Investigator: Project Scientist; support PI by maintaining cognizance of all aspects of the mission in interactions with Project Manager and project team, including science operations, data acquisition, and analysis and validation; manage mission science activities and report to JPL management; coordinate with operational partners to improve prediction systems using Butterfly data; participate in science research using Butterfly data; promote community utilities of Butterfly data through outreach including workshop organizations and meeting presentations; conduct mentoring efforts to train next-gen researchers for satellite mission development and Earth science applications, especially in the context of air-sea interaction and linkages to weather and climate. 
+
+## Experience Related to the Investigation:
+Principal Scientist at JPL. Past/current leads for many research projects on ocean linkages with climate and water cycle using satellite data together with ocean/coupled models and data assimilation, including 3 current, multi-institutional projects. Extensive experience with remote sensing and mission science (for the latter, through his past role as Aquarius Mission Project Scientist). Past/current leadership roles in several domestic/international programs with air-sea interaction focus (e.g., US and International Climate Variability and Predictability programs). NASA Ocean Salinity Science Team Lead. PI (since 2013) of NASA’s Ocean Vector Wind Science Team on 3 projects on air-sea interaction.
 
 ## Experience:
 Jet Propulsion Laboratory
@@ -40,6 +49,9 @@ Jet Propulsion Laboratory
 - 2007 - 2009: Member, US CLIVAR Phenomena, Observations, and Synthesis Panel
 - 2007 - 2010: Executive Committee member and task team leader, US Atlantic Meridional Overturning Circulation (AMOC) Program
 - 2003 - 2008: Steering Team member, Global Ocean Data Assimilation Experiment
+
+## Mentoring Experience:
+Dr. Lee has mentored 3 university Ph.D students, 10 postdocs and 8 early-career researchers (beyond postdoc level) at JPL, and a group of early-career female researchers for the non-profit organization MPOWIR (https://mpowir.org/). 
 
 ## Publications (out of a total of 130, Web-of-Science H-Index of 37, Google Scholar H-Index of 47, i10-Index of 115):
 1. Dzwonkowski, B., J. Coogan, S. Fournier, G. Lockridge, K. Park, and T. Lee, 2020: Compounding impact of severe weather events fuels marine heatwave in the coastal ocean. Nature Comm., 11, 4623. https://doi.org/10.1038/s41467-020-18339-2.

@@ -2,7 +2,8 @@
 ## Scripps Institution of Oceanography, UCSD
 La Jolla CA 92093-0230
 ph: (858) 822 4425 fax: (858) 534 9820
-email: sgille@ucsd.edu http://www-pord.ucsd.edu/~sgille
+email: sgille@ucsd.edu; http://www-pord.ucsd.edu/~sgille
+github.com/sgille
 
 ## Role in Investigation:
 Co-Investigator:  SO2 Lead.  Coordinate Butterfly observational analyses to assess global impacts, with a focus on high-latitude and Southern Ocean processes.  Provide guidance and mentoring for early-career scientists in Butterfly.  

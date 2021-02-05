@@ -1,10 +1,17 @@
 # Carol Anne Clayson
 ## Senior Scientist
-## Woods Hole Oceanographic Institution • Woods Hole, MA 02543
-## Phone: (508) 289-3626  • Email: cclayson@whoi.edu  
+## Woods Hole Oceanographic Institution
+Woods Hole, MA 02543
+Phone: (508) 289-3626  • Email: cclayson@whoi.edu  
 
 ## Research interests:
 Exchanges of heat, moisture, and momentum between the ocean and the atmosphere. Turbulent boundary layers. Air-sea interaction. Remote sensing of the ocean and the near-surface atmosphere. Ocean and atmosphere modeling. Water cycle variability. Role of small-scale variability on climate scales. 
+
+## Role in Investigation:
+Co-Investigator: Lead on turbulent heat flux algorithms and product quality. Coordination with existing satellite product flux teams. Coordinate science team research and publications. PI SeaFlux product. Will continue mentoring one graduate student and one post-doc, teaching air-sea interaction course, and public talks on oceans and climate. Will provide updated modules for rural high school Ocean Capstone course and continue leadership for StreamWorks, a K-12 program that provides STEM opportunities. 
+
+## Experience Related to the Investigation:
+Dr. Clayson is a Senior Scientist in the Department of Physical Oceanography at the Woods Hole Oceanographic Institution, and the current Director of the Center on Air-Sea Interaction and Marine Atmospheric Sciences. Her areas of research include understanding upper ocean mixing processes, how air-sea interactions affect the climate scale, and variations in the global water cycle. She has served on numerous national and international science panels, including service as the co-chair of the Climate Panel for the recent NASA Decadal Survey for Earth Science and Applications from Space. She has served on the Board on Atmospheric Sciences and Climate and was a lead reviewer of the US Climate Change Science Programme Synthesis and Assessment Product. In 2020 she chaired the US CLIVAR Scientific Steering Committee, and is currently serving on the NASA Planetary Boundary Layer (PBL) Study Team. Dr. Clayson is the recipient of an NSF CAREER award, the Office of Naval Research Young Investigator Award, and a Presidential Early Career Award for Scientists and Engineers from President W. Clinton. She currently leads the World Climate Research Programme (WCRP) Global Energy and Water cycle EXperiment (GEWEX) Data and Assessment Panel (GDAP) SeaFlux product.
 
 ## Experience:
 - 2018 - present: Center for Air-Sea Interaction and Marine Atmospheric Sciences, Woods Hole Oceanographic Institution, Director
@@ -70,6 +77,9 @@ Exchanges of heat, moisture, and momentum between the ocean and the atmosphere. 
 - Program chair: 12th AMS Conference on Air-Sea Interactions. Science Steering Committee upcoming 2013  EUMETSAT/AMS Satellite Meteorology and Oceanography Conference.  Multiple session chairs at AMS, AGU meetings.
 - Scientific Steering Committees: Earth Observations for Water Cycle Science Conference 2015, SOOS Air-Sea Fluxes for the Southern Ocean: Strategies and Requirements for Detecting Physical and Biogeochemical Exchanges Workshop, 2015. SOOS Working Group on Enhancing Air-Sea Flux Observations in the Southern Ocean, Steering Committee, 2016 - .
 - Acting Department Chair, Department of Meteorology, FSU, 2006.
+
+## Mentoring Experience:
+Dr. Clayson has won several awards for mentoring (FSU and Purdue) and directly mentored 20 graduate students and 4 post-docs. She has given numerous talks to K-12 girls and professional women’s organizations, and helped develop an Ocean Capstone course at a rural high school. 
 
 ## Refereed Publications:
 1. Emery, W. J., C. Fowler, and C. A. Clayson, 1992. Satellite image-derived Gulf Stream currents  compared with numerical model results.  J. Atmos. Ocean. Tech., 9, 286-304. 

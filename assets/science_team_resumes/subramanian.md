@@ -1,6 +1,8 @@
 # Aneesh Subramanian
-## University of Colorado Boulder, 311 UCB, Boulder, CO 80309
- Phone: 1-303-7358657, aneeshcs@colorado.edu, http://www.aneeshcs.com
+## University of Colorado Boulder
+311 UCB, Boulder, CO 80309
+Ph: 1-303-7358657, aneeshcs@colorado.edu, http://www.aneeshcs.com
+github.com/aneeshcs
 
 ## Role in Investigation:
 Co-Investigator:  Dr. Subramanian is the co-lead on modeling and prediction experiments for this proposal. Will design the data assimilation and initialized prediction experiments for the project. He will also serve as the deputy lead to engage with operational forecasting centers. Work with Dr. Lee and operational partners for forecast verification and ingestion of the data in operational systems. Will serve as lead for the model/assimilation application of the project. He will also mentor graduate students and post-doctoral scientists from diverse background in his research group to become next-generation leaders in satellite data assimilation. 

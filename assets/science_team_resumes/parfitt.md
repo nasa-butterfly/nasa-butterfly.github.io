@@ -1,8 +1,9 @@
 # RHYS PARFITT 
 ## Department of Earth, Ocean and Atmospheric Science 
 ## Florida State University 
-## Tallahassee, FL, USA 
-## rparfitt@fsu.edu 
+Tallahassee, FL, USA 
+rparfitt@fsu.edu 
+github.com/air-sea
 
 ## Role in Investigation:
 Co-Investigator: SO1A Deputy Lead. Responsible for the observational analysis of small-scale Butterfly fluxes and flux gradients, including their relationship with storm variability. Comparison of Butterfly flux variability with WRF model fluxes to determine sources of model bias. Development of relevant atmospheric (to isolate storm-region) and oceanic (to isolate modes of sea-surface temperature) diagnostic masks for application in both observational and modelling analyses. Serving as advisor to graduate students and early career scientists, to provide both scientific and career mentorship. Promoting accessibility in STEM through dissemination of Butterfly results at outreach events. 

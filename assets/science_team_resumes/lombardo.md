@@ -1,8 +1,8 @@
 # KELLY LOMBARDO
-## Associate Professor		             tel: (814) 863-0791
-## Department of Meteorology and Atmospheric Science 	             e-mail: kelly.lombardo@psu.edu
+## Associate Professor, Department of Meteorology and Atmospheric Science 	             
 ## The Pennsylvania State University 			
-University Park, PA  16802				
+University Park, PA  16802
+tel: (814) 863-0791, e-mail: kelly.lombardo@psu.edu				
 
 ## Role in Investigation
 Co-Investigator: Responsible for the success of S01A. Numerical modeling of atmospheric mid-latitude cyclones using retrieved observations. Analysis of observation-based fluxes near cyclones. Dr. Lombardo will mentor 1 graduate student and 1 postdoc (targeting women and URMs), engage her science communication course students and public participants in the project, inspire new students through social media.

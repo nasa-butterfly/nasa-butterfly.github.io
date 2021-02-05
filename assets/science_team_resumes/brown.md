@@ -1,11 +1,8 @@
 # Shannon Thomas Brown
 ## NASA Jet Propulsion Laboratory
-## Principal Technologist
-## Microwave Instrument Science Group
-
-## (V) 818-393-0773/(F) 818-393-4683
-
-## Shannon.T.Brown@jpl.nasa.gov
+## Principal Technologist, Microwave Instrument Science Group
+(V) 818-393-0773/(F) 818-393-4683
+Shannon.T.Brown@jpl.nasa.gov
 
 ## Role in Investigation:
 Deputy Project Scientist:  Responsibility for mission science requirements, mission science trades, and instrument level 0 to level 1B processing algorithms.  Interfaces with the JPL Inst. Scientist, also serving as mentor for Inst Scientist.

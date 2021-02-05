@@ -1,8 +1,9 @@
 # J. Thomas Farrar | Curriculum Vitae Woods Hole Oceanographic Institution 
 ## Associate Scientist - Physical Oceanography Department 
-� +1 (508) 524 0501 • � +1 (508) 289 2691 • � jfarrar@whoi.edu 
-� www2.whoi.edu/staff/jfarrar/ 
-Mail Stop #29, Clark 212A, Woods Hole, MA 02534 USA 
+Mail Stop #29, Clark 212A, Woods Hole, MA 02534 USA
++1 (508) 524 0501 • +1 (508) 289 2691 
+jfarrar@whoi.edu; www2.whoi.edu/staff/jfarrar/ 
+github.com/jtomfarrar 
 
 ## Research Interests:
 Atmosphere-ocean exchange of heat and freshwater; dynamics and thermodynamics of the upper ocean; tropical dynamics and equatorial waves; oceanic internal waves and eddies; satellite oceanography; ocean observing and instrumentation. 
