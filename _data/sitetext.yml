@@ -13,10 +13,10 @@ services:
         desc: "To reveal the impact of small-scale ocean features on large-scale weather and climate."
         icon: fas fa-cloud-rain #find more at https://fontawesome.com/icons
       - title: "Science Objective 1"
-        desc: "Do small-scale spatial variations in air–sea fluxes near warm ocean currents affect large-scale storm evolution and improve prediction of long-term weather?"
+        desc: "Determine the degree to which 25-km resolution turbulent heat and moisture fluxes influence midlatitude storm evolution and long-term weather."
         icon: fas fa-wind      
       - title: "Science Objective 2"
-        desc: "Do small-scale variations in the air–sea boundary layers contribute significantly to the large-scale air–sea exchange of heat and moisture?"
+        desc: "Balance the global ocean turbulent heat and moisture flux contributions to the energy and water cycles to within 5%."
         icon: fab fa-confluence
 
 portfolio:
@@ -32,7 +32,7 @@ timeline:
     events:
       - title: "Our Humble Beginnings"
         year: "2016"
-        desc: "Engineer cold emails scientist...want to meet at AGU and talk about science?"
+        desc: "JPL Engineer emails scientist...want to meet at AGU and talk about new frontiers?"
         image: assets/img/timeline/agu.png
         alt: 
         align: left
@@ -92,6 +92,33 @@ clients:
       - title: "University of Colorado"
         url: https://www.colorado.edu/
         logo: assets/img/clients/ucolorado.png     
+      - title: "SpaceX"
+        url: https://www.spacex.com/
+        logo: assets/img/clients/spaceX.png     
+      - title: "NRL"
+        url: https://www.nrlssc.navy.mil/
+        logo: assets/img/clients/nrl_logo.jpg     
+      - title: "JAXA"
+        url: https://global.jaxa.jp/
+        logo: assets/img/clients/jaxa.png     
+      - title: "KSAT"
+        url: https://www.ksat.no/
+        logo: assets/img/clients/KSAT.jpg     
+      - title: "IFREMER"
+        url: https://wwz.ifremer.fr/en/
+        logo: assets/img/clients/ifremer.png     
+      - title: "University of Nagoya"
+        url: http://en.nagoya-u.ac.jp/
+        logo: assets/img/clients/nagoya.jpg     
+      - title: "ECMWF"
+        url: https://www.ecmwf.int/
+        logo: assets/img/clients/ecmwf.png     
+      - title: "UK Met Office"
+        url: https://www.metoffice.gov.uk/
+        logo: assets/img/clients/met.png     
+      - title: "NOAA"
+        url: https://www.noaa.gov/
+        logo: assets/img/clients/noaa.png     
 team:
     title: "OUR AMAZING TEAM"
     text: "Introducing...."
