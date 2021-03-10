@@ -94,7 +94,8 @@ clients:
         logo: assets/img/clients/ucolorado.png     
       - title: "NOAA"
         url: https://www.noaa.gov/
-        logo: assets/img/clients/noaa.png     
+        logo: assets/img/clients/noaa.png  
+   
 team:
     title: "OUR AMAZING TEAM"
     text: "Introducing...."
