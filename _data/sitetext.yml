@@ -13,15 +13,15 @@ services:
         desc: "To reveal the impact of small-scale ocean features on large-scale weather and climate."
         icon: fas fa-cloud-rain #find more at https://fontawesome.com/icons
       - title: "Science Objective 1"
-        desc: "Do small-scale spatial variations in air–sea fluxes near warm ocean currents affect large-scale storm evolution and improve prediction of long-term weather?"
+        desc: "Determine the degree to which 25-km resolution turbulent heat and moisture fluxes influence midlatitude storm evolution and long-term weather."
         icon: fas fa-wind      
       - title: "Science Objective 2"
-        desc: "Do small-scale variations in the air–sea boundary layers contribute significantly to the large-scale air–sea exchange of heat and moisture?"
+        desc: "Balance the global ocean turbulent heat and moisture flux contributions to the energy and water cycles to within 5%."
         icon: fab fa-confluence
 
 portfolio:
     title: "Mission Concept"
-    text: "A combined fully polarimetric passive microwave imager and near-surface sounder"
+    text: "A passive microwave radiometer measuring from 7-175 GHz"
     section: portfolio
     
 
