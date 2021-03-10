@@ -92,10 +92,13 @@ clients:
       - title: "University of Colorado"
         url: https://www.colorado.edu/
         logo: assets/img/clients/ucolorado.png     
+      - title: "NOAA"
+        url: https://www.noaa.gov/
+        logo: assets/img/clients/noaa.png     
 team:
     title: "OUR AMAZING TEAM"
     text: "Introducing...."
-    subtext: Specialists in Oceanography, Meteorology, Satellites, Weather, open science, open code, and open source software! 
+    subtext: Experts in Oceanography, Meteorology, Satellites, Weather, and Open science! 
     section: team
     people:
       - name: "Chelle Gentemann"
