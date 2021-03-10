@@ -9,14 +9,7 @@
 [<img src="./../img/github.png" width="2%" height="2%">](https://github.com/cgentemann)
 ## Senior Scientist, [Farallon Institute](https://faralloninstitute.org)
 
-## Research Interests:
 Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud computing, open source software development, air-sea interactions, and upper ocean physical processes.  For over 20 years she has worked on the calibration, radiative transfer modelling, algorithm development, validation, and operational near-real-time distribution of multiple satellite passive microwave sensors data. She also led 3 in situ field campaigns, 4 large academic, governmental, commercial partnerships, and has served on and chaired international and national science teams, working groups, and committees.    
-
-## Role in Investigation:
-Principal Investigator. Science leadership. Responsible for all aspects of the mission and project success. Developing a passive microwave L1B collocation database with in situ data and physical parameter retrievals. Implementation of flux algorithm software. Open science project design and implementation.  PI will use social media, hackathons, and science team meetings to mentor Early Career Scientists. The PI is ultimately responsible to NASA for mission success. 
-
-## Experience Related to the Investigation:
-Dr. Gentemann is currently a senior scientist at Farallon Institute, leading research on open science, cloud computing, biophysical interactions, validation of satellite ocean temperature and salinity retrievals.  She has coordinated plans and project success for several large, international groups, leading the US component of the international Group for High Resolution Sea Surface Temperature (GHRSST) science team since 2003, and leading 3 large field campaigns.  For over 20 years, she has worked on every aspect of passive microwave satellite missions, both domestically and internationally, from launch through decommission, including calibration, algorithm development, validation, data distribution, and science applications. She initiated a project to create one of the first cloud-optimized NASA datasets on AWS, a global 1-km 18 year record of SST and sits on the open-science Pangeo project’s steering committee.  She was co-chair of the National Academy of Sciences and Engineering (NASEM) Committee on Best Practices for a Future Open Code Policy for NASA Space Science, co-chair of the NASEM Standing Committee on Earth Science and Applications from Space (CESAS), and testified to the House Subcommittee on Space and Aeronautics, “Discovery on the Frontiers of Space: Exploring NASA’s Science Mission.”
 
 ## Experience:
 - 2/2020 - present: Farallon Institute, Senior Scientist.  
@@ -116,9 +109,6 @@ Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov
 - Institute of Electrical and Electronics Engineers (IEEE)
 - IEEE Geoscience and Remote Sensing Society
 - The Oceanography Society (TOS)
-
-## Mentoring Experience:
-Dr. Gentemann has mentored over 20 students, sat on 6 Ph.D. committees, mentored to groups in several hackathons, and mentored several Summer interns. She uses social media to encourage and communicate with Early Career Scientists.
 
 ## Publications (55 published, 8 in process):
 1. "ATOMIC: Salty Seas from Satellites and Saildrones", A. Daley, S. Sandiford. K. Hall, C.Gentemann, in prep.
