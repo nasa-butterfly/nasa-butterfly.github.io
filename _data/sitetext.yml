@@ -83,42 +83,42 @@ clients:
       - title: "Florida State University"
         url: https://www.fsu.edu/
         logo: assets/img/clients/FSU.png
+      - title: "University of Colorado"
+        url: https://www.colorado.edu/
+        logo: assets/img/clients/ucolorado.png     
       - title: "Penn State University"
         url: https://www.psu.edu
         logo: assets/img/clients/penn.png
       - title: "Scripps Institute of Oceanography"
         url: https://scripps.ucsd.edu/
         logo: assets/img/clients/sio.png
-      - title: "University of Colorado"
-        url: https://www.colorado.edu/
-        logo: assets/img/clients/ucolorado.png     
       - title: "NOAA"
         url: https://www.noaa.gov/
         logo: assets/img/clients/noaa.png
-      - title: "SpaceX"
-        url: https://www.spacex.com/
-        logo: assets/img/clients/spaceX.png     
       - title: "NRL"
         url: https://www.nrlssc.navy.mil/
         logo: assets/img/clients/nrl_logo.jpg     
       - title: "JAXA"
         url: https://global.jaxa.jp/
         logo: assets/img/clients/jaxa.png     
-      - title: "KSAT"
-        url: https://www.ksat.no/
-        logo: assets/img/clients/KSAT.jpg     
-      - title: "IFREMER"
-        url: https://wwz.ifremer.fr/en/
-        logo: assets/img/clients/ifremer.png     
-      - title: "University of Nagoya"
-        url: http://en.nagoya-u.ac.jp/
-        logo: assets/img/clients/nagoya.jpg     
       - title: "ECMWF"
         url: https://www.ecmwf.int/
         logo: assets/img/clients/ecmwf.png     
       - title: "UK Met Office"
         url: https://www.metoffice.gov.uk/
         logo: assets/img/clients/met.png     
+      - title: "IFREMER"
+        url: https://wwz.ifremer.fr/en/
+        logo: assets/img/clients/ifremer.png     
+      - title: "University of Nagoya"
+        url: http://en.nagoya-u.ac.jp/
+        logo: assets/img/clients/nagoya.jpg     
+      - title: "SpaceX"
+        url: https://www.spacex.com/
+        logo: assets/img/clients/spaceX.png     
+      - title: "KSAT"
+        url: https://www.ksat.no/
+        logo: assets/img/clients/KSAT.jpg     
   
    
 team:
