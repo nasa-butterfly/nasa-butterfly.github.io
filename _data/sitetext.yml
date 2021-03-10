@@ -94,7 +94,14 @@ clients:
         logo: assets/img/clients/ucolorado.png     
       - title: "NOAA"
         url: https://www.noaa.gov/
-        logo: assets/img/clients/noaa.png  
+        logo: assets/img/clients/noaa.png
+      - title: "SpaceX"
+        url: https://www.spacex.com/
+        logo: assets/img/clients/spaceX.png     
+      - title: "NRL"
+        url: https://www.nrlssc.navy.mil/
+        logo: assets/img/clients/nrl_logo.jpg     
+  
    
 team:
     title: "OUR AMAZING TEAM"
