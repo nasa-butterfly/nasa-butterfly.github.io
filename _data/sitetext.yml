@@ -103,7 +103,7 @@ clients:
         logo: assets/img/clients/jaxa.png     
       - title: "ECMWF"
         url: https://www.ecmwf.int/
-        logo: assets/img/clients/ecmwf.png     
+        logo: assets/img/clients/ECMWF.png     
       - title: "UK Met Office"
         url: https://www.metoffice.gov.uk/
         logo: assets/img/clients/met.png     
