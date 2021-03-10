@@ -52,7 +52,6 @@ Dr. Gentemann is currently a senior scientist at Farallon Institute, leading res
 - NASA Satellite Ocean Atlas Team (1998-2001)
 
 ## Awards:
-- 2021 Radiant Earth Foundation's [15 Leading Women in Machine Learning for Earth Observation (ML4EO)] (https://medium.com/radiant-earth-insights/15-leading-women-in-ml4eo-86ce9f660626).  
 - American Geophysical Union 2013 [Charles S. Falkenberg Award](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2014EO020009).  The award is for a "scientist under 45 years of age who has contributed to the quality of life, economic opportunities, and stewardship of the planet through the use of Earth science information and to the public awareness of the importance of understanding our planet".
 - National Oceanographic Partnership Program [2008 Excellence in Partnering Award](https://www.nopp.org/portfolio/excellence-in-partnering/misst/).  C.Gentemann was the PI on this project.  The award is "presented annually to research teams that best demonstrate the partnerships objectives of NOPP, recognizing the project's commitment to partnering, the success of the partnership effort, and the impact of the partnership on oceanography".
 - NASA Group Achievement Award 2001 to the Satellite Ocean Atlas Team, for outstanding achievement in utilization of multiple observations from space for the study of the global oceans.  C. Gentemann was a member of the team.
@@ -84,7 +83,6 @@ Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov
 - 2009 10TH International GHRSST Science Team Meeting [website](https://www.ghrsst.org/meetings/10th-international-ghrsst-science-team-meeting-ghrsst-x/)
 
 ## Partial list of invited talks/panels:
-- 2021 International Ocean Vector Wind Science Team meeting invited talk: [Butterfly](https://youtu.be/AhkGZYbW_24)
 - 2020 AGU Fall meeting invited talk: Session: Atmospheric and Oceanic Processes Governing the Trade-wind Regions, "Emerging technologies for air-sea interaction research: saildrones during EUREC4A/ATOMIC".
 - 2020 ESIP Summer Meeting, plenary speaker, ["Empowering Transformational Science"](https://www.youtube.com/watch?v=HAh7Xy9ReJo&ab_channel=ESIP) 
 - 2020 The Consortium for Ocean Leadership's Workshop to Support Implementation of NOAA's UxS Strategy, invited speaker and panelist on ["Building a community of practice"](https://oceanleadership.org/unmanned-systems-workshop/) panel. [slides[(https://www2.slideshare.net/ChelleGentemann/building-a-community-of-practise?qid=9d28f1cf-adde-4c6a-92c8-af65da7efd1f&v=&b=&from_search=1)
@@ -122,15 +120,15 @@ Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov
 ## Mentoring Experience:
 Dr. Gentemann has mentored over 20 students, sat on 6 Ph.D. committees, mentored to groups in several hackathons, and mentored several Summer interns. She uses social media to encourage and communicate with Early Career Scientists.
 
-## Publications (58 published, 5 in process):
+## Publications (55 published, 8 in process):
 1. "ATOMIC: Salty Seas from Satellites and Saildrones", A. Daley, S. Sandiford. K. Hall, C.Gentemann, in prep.
 1. Stevens, B., et al. "EUREC4A", submitted AGU Advances.
 1. Chiodi, A. M., C. Zhang, E. D. Cokelet, Q. Yang, C. W. Mordy, C. Gentemann, J. Cross, N. Lawrence-Slavas, C. Meinig, M. Steele, D. E. Harrison, P. Stabeno, H. Tabisola, D. Zhang, E. Burger, and K. O'Brien, Exploring the Alaskan Arctic Seasonal Ice Zone with Saildrones, submitted Frontiers in Marine Science.
+1. Gentemann, C.L., C. Holdgraf, R. Abernathey, D. Crichton, J. Colliander, E. J. Kearns, Y. Panda, R. P. Signell "Science Storms the Cloud", submitted AGU Advances.
 1. Zhang., C., A. F. Levine, M. Wang, C. L. Gentemann, C. W. Mordy, E. D. Cokelet, P. A. Browne, Q. Yang, N. Lawrence-Slavas, C. Meinig, G. Smith, A. Chiodi, D. Zhang, P. Stabeno, W. Wang, H. Ren, K. A. Peterson, S. N. Figueroa, M. Steele, N. P. Barton, "Evaluation of Operational Forecasts at Alaskan Arctic Sea Surface Using in situ Observations from Saildrones", submitted MWR.
+1. Vazquez-Cuervo, J., C.L. Gentemann, et al. "Validation of Sea Surface Salinity in the Bering Straits using Saildrone, SMAP, and Models," submitted Remote Sensing.
 1. Ashlock, L., M. GarcÃ­a-Reyes, S. Batten, C. Gentemann, W. Sydeman, "Temperature driven patterns of copepod presence and abundance in the Northeast Pacific", submitted.
-1. Gentemann, C.L., C. Holdgraf, R. Abernathey, D. Crichton, J. Colliander, E. J. Kearns, Y. Panda, R. P. Signell "Science Storms the Cloud", in press AGU Advances.
-1. Vazquez-Cuervo, J., C.L. Gentemann, et al. [Validation of Sea Surface Salinity in the Bering Straits using Saildrone, SMAP, and Models](https://www.mdpi.com/2072-4292/13/5/831), Remote Sens. 2021, 13(5), 831; https://doi.org/10.3390/rs13050831.
-1. Abernathey, R.P., T. Augspurger, A. Banihirwe, C.C. Blackmon-Luca, T.J. Crone, C.L. Gentemann, J. J. Hamman, N. Henderson, C. Lepore, T. A. McCaie, N.H. Robinson, R.P. Signell, [Cloud-Native Repositories for Big Scientific Data](https://www.computer.org/csdl/magazine/cs/5555/01/09354557/1reXu4gJjri), in Computing in Science & Engineering, vol. , no. 01, pp. 1-1, 5555. doi: 10.1109/MCSE.2021.3059437
+1. Abernathey, R.P., T. Augspurger, A. Banihirwe, C.C. Blackmon-Luca, T.J. Crone, C.L. Gentemann, J. J. Hamman, N. Henderson, C. Lepore, T. A. McCaie, N.H. Robinson, R.P. Signell, "Cloud-Native Repositories for Big Scientific Data", in press IEEE.
 1. Hoover BA, García-Reyes M, Batten SD, Gentemann CL, Sydeman WJ (2021) [Spatio-temporal persistence of zooplankton communities in the Gulf of Alaska]((https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244960)). PLoS ONE 16(1): e0244960. https://doi.org/10.1371/journal.pone.02449601. Gentemann, C.L.; et al. FluxSat: Measuring the Ocean-Atmosphere Turbulent Exchange of Heat and Moisture from Space. Remote Sensing 2020, 12, 1796, [doi:10.3390/rs12111796](https://www.mdpi.com/2072-4292/12/11/1796).
 1. Gentemann, C.L., et al., ["Saildrone: adaptively sampling the marine environment"](https://doi.org/10.1175/BAMS-D-19-0015.1), 2020, Bull. Amer. Meteor. Soc., 101, E744-E762, https://doi.org/10.1175/BAMS-D-19-0015.1.
 1. Alerskans, E., J. L. HÃ¸yer, C. L. Gentemann, et al. (2020), Construction of a climate data record of sea surface temperature from passive microwave measurements, Remote Sensing of Environment, 236, 111485, doi:https://doi.org/10.1016/j.rse.2019.111485. 
@@ -235,4 +233,4 @@ Edgar Orozco, June Jordan High School, 2020
 - Yang Lui, University of Miami, 2013-2016.
 
 ## Contributions to open-source software:
-[image](https://github.com/cgentemann)
+Image
