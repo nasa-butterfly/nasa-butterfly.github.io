@@ -107,6 +107,18 @@ clients:
       - title: "KSAT"
         url: https://www.ksat.no/
         logo: assets/img/clients/KSAT.jpg     
+      - title: "IFREMER"
+        url: https://wwz.ifremer.fr/en/
+        logo: assets/img/clients/ifremer.png     
+      - title: "University of Nagoya"
+        url: http://en.nagoya-u.ac.jp/
+        logo: assets/img/clients/nagoya.jpg     
+      - title: "ECMWF"
+        url: https://www.ecmwf.int/
+        logo: assets/img/clients/ecmwf.png     
+      - title: "UK Met Office"
+        url: https://www.metoffice.gov.uk/
+        logo: assets/img/clients/met.png     
   
    
 team:
