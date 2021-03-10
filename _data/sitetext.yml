@@ -101,6 +101,12 @@ clients:
       - title: "NRL"
         url: https://www.nrlssc.navy.mil/
         logo: assets/img/clients/nrl_logo.jpg     
+      - title: "JAXA"
+        url: https://global.jaxa.jp/
+        logo: assets/img/clients/jaxa.png     
+      - title: "KSAT"
+        url: https://www.ksat.no/
+        logo: assets/img/clients/KSAT.jpg     
   
    
 team:
