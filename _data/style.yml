@@ -5,4 +5,4 @@
 
 #Image Customization
 header-image: "assets/img/butterfly.png"
-#contact-image: "../assets/img/map-image.png"
+#contact-image: "/assets/img/map-image.png"
