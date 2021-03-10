@@ -4,5 +4,6 @@
 #black: "#000"
 
 #Image Customization
-header-image: "../img/butterfly.png"
+#Image Customization
+header-image: "../img/header-bg.jpg"
 contact-image: "../img/map-image.png"
