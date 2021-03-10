@@ -1,6 +1,6 @@
 header:
-    title: "Welcome to Butterfly"
-    text: "It's Nice to Meet You"
+    title: Welcome to Butterfly
+    text: It's Nice to Meet You
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
