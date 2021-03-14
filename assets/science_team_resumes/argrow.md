@@ -70,7 +70,7 @@ Dr. Argrow has supervised five post-doctoral researchers, 14 doctoral candidates
 - Technical Program Co-Chair, 2nd Unmanned Unlimited Conference Systems Technologies, and Operations Aerospace, Land, and Sea Conference, Workshop, and Exhibit, San Diego (2003)
 - Technical Program Co-Chair, 1st Unmanned Aerospace Vehicles, Systems, Technologies, and Operations Conference and Workshop, Portsmouth, VA (2002)
 
-## Publications (58 published):
+## Publications (58 published)
 1. Roseman, C.A., Argrow, B.M., “Low-Speed DSMC Simulations of Hotwire nemometers at High-Altitude Conditions,” Fluids, Vol. 6, 20. ttps://doi.org/10.3390/fluids6010020 (2021).
 1. Gijs de Boer; Constantin Diehl; Jamey Jacob; Adam Houston; Suzanne W. Smith; hillip Chilson; David G. Schmale, III; Janet Intrieri; James Pinto; Jack Elston David  rus; Osku Kemppinen; Alex Clark; Dale Lawrence; Sean C. C. Bailey; Michael P. ama; Amy Frazier; Christopher Crick; Victoria Natalie; Elizabeth Pillar-Little; Petra lein; Sean Waugh; Julie K. Lundquist; Lindsay Barbieri; Stephan T. Kral; Anders A. ensen; Cory Dixon; Steven Borenstein; Daniel Hesselius; Kathleen Human; Philip all; Brian Argrow; Troy Thornberry; Randy Wright; Jason T. Kelly, “Development of ommunity, Capabilities, and Understanding through Unmanned Aircraft-Based tmospheric Research: The LAPSE-RATE Campaign,” Bull. Amer. Meteor. Soc. Vol. 01 (5), pp. E684–E699, https://doi.org/10.1175/BAMS-D-19-0050.1 (2020).
 1. Roseman, C. A. and Argrow, B. M., “Weather Hazard Risk Quantification for sUAS afety Risk Management,” Journal of Oceanic and Atmospheric Technology, Vol. 37, p. 1251-1268, https://doi.org/10.1175/JTECH-D-20-0009.1 (2020).
@@ -143,47 +143,4 @@ Absorption Spectroscopy of Jet-Cooled Radicals,” Review of Scientific Instrument
 1. Argrow, B., Christiansen, R., Francis, M, “Year in Review: Unmanned Systems,” Aerospace America, 27, No. 11, p. 73 (2009).
 1. Brown, T., Argrow, B., Frew, E., Dixon, C., Hinkle, D., Elston, J., Gates, H., “Experiments Using Small Unmanned Aircraft to Augment a Mobile Ad Hoc Network,” Emerging Technologies in Wireless LANs: Theory, Design, and Deployment, Ed. B. Bing, Cambridge University Press, Chap. 33, pp. 695-717, (2008).
 1. Argrow, B. M., “A Survey of Facilities for High-Temperature, High-Pressure Fluids Experiments,” Special Feature, Measurement Science and Technology, 16 (2005).
-
-## Ph.D. / Masters Committees, Summer Interns, Student collaborators:
-- John Bird (2019-) IRISS
-- Nicholas Campbell (2019-) RECUV
-- Roger Laurence III (2017-2018) CEAS/IRISS
-- Jack Elston (2012-2014) NSF GEO Directorate
-- Craig Turansky (2013-2014) AES/RECUV
-- Alberto Roper Pol (2020) Generation of Gravitational Waves due to Magnetohydrodynamic
-Turbulence in the Early Universe
-- Nicholas Campbell (2019) Analysis Methods for Reusable Spacecraft Undergoing Aeroassist
-Maneuvers
-- Tevis Nichols (2017) Particle Streak Anemometry: A New Method for Proximal Flow Sensing
-from Aircraft
-- Roger Laurence (2017) sUAS Wind Sensing with Computational Fluid Dynamics and a
-Distributed Flush Airdata System
-- Craig Turansky (2012) High-fidelity dynamic modeling of spacecraft in the continuum–rarefied
-transition regime
-- Marcin Pilinski (2011) Dynamic gas-surface interaction modeling for satellite aerodynamic
-computations
-- Vivek Kaila (2010) A study of meshless and finite element approaches for aeroelastic analysis
-on interacting surfaces
-- Stephen Fergason (2001) Dense gas shock tube : Design and analysis
-- Rick Graves (1999) Aerodynamic performance of osculating-cones waveriders at high altitudes
-- Brady Brown (1997) Two-dimensional dense gas dynamics
-- Christopher Roseman
-- Sara Swenson
-- Joseph Pointer
-- Emily Ranquist
-- Pol Mesalles Ripoll (2020) Assessment of Spacecraft Aerodynamics Under Uncertainty Toward
-the Optimization of Atmospheric Entry Trajectories
-- Anubhav Gupta (2020) Analytical Theory of Aero-Optical and Atmospheric Effects in
-Supersonic and Hypersonic Flows
-- Rolf Miller (1998) Experimental aerodynamics of osculating cones waveriders
-- Brady Brown (1994) Design and analysis of a minimum length nozzle with equilibrium flow
-- Charles Aldo (1993) Supersonic flow in minimum length nozzles for dense van der Waals gases
-- Alok Gautam (1992) A computational analysis of the viscous transonic flow field of
-axisymmetric minimum length nozzles
-- Cynthia Borth (1991) Evaluation of Numerical Entropy Production in Flowfield Solutions.
-
-# Memberships
-- Fellow, American Institute of Aeronautics and Astronautics
-- American Physical Society
-- American Society for Engineering Education
 
