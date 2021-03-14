@@ -73,15 +73,20 @@ Dr. Gentemann is currently a senior scientist at Farallon Institute, leading res
 - Cover image 2001 IEEE Transactions on Geoscience and Remote Sensing
 - King, M.D., C.L. Parkinson, K.C. Partington, R.G. Williams (2007), Our changing planet, the view from space, Cambridge University Press, 400p.
 
-## Organization Committees and Hackathons:
+## Hackathons:
 - 2020 AGU Ocean Sciences, Pangeo Tutorial [website](https://tinyurl.com/pangeo-osm20)
 - 2020 OceanHackWeek, [website](https://oceanhackweek.github.io/)
-- 2020 Symposium on Earth Science and Applications from
-Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov/sites/default/files/eo_pdfs/March%20April%202020%20Earth%20Observer%20Color%20508.pdf)
 - 2019 PICES Ecosystem tool [website](https://github.com/python4oceanography/PICES-tools)
-- 2019 OceanObs Session ["Open Source Software Revolution"](http://www.oceanobs19.net/living-action-plan/open-source-software/) 
 - 2019 OceanObs Python Tutorial, Python for Oceanography [website](https://github.com/python4oceanography/ocean_python_tutorial)
-- 2009 10TH International GHRSST Science Team Meeting [website](https://www.ghrsst.org/meetings/10th-international-ghrsst-science-team-meeting-ghrsst-x/)
+- 2019 GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](https://github.com/python4oceanography/ocean_python_tutorial)
+
+## Meeting Organzation
+- Symposium on Earth Science and Applications from Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov/sites/default/files/eo_pdfs/March%20April%202020%20Earth%20Observer%20Color%20508.pdf) (2020)
+- OceanObs Session ["Open Source Software Revolution"](http://www.oceanobs19.net/living-action-plan/open-source-software/) (2019)
+- Annual MISST science team meetings held at AGU/Ocean Sciences (2003-present)
+- 10TH International GHRSST Science Team Meeting (2009) [website](https://www.ghrsst.org/meetings/10th-international-ghrsst-science-team-meeting-ghrsst-x/)
+- Biannual NASEM CESAS committee meetings (2018-2020)
+- 3 NASEM Committee on Best Practices for a Future Open Code Policy for NASA Space Studies meetings (2017-2018)
 
 ## Partial list of invited talks/panels:
 - 2021 International Ocean Vector Wind Science Team meeting invited talk: [Butterfly](https://youtu.be/AhkGZYbW_24)
