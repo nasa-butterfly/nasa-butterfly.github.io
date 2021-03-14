@@ -59,5 +59,15 @@ Dr. Argrow has supervised five post-doctoral researchers, 14 doctoral candidates
 - Panel Organizer, Creating an Developing the Market for UAS, AIAA AVIATION 2013 Conf., Los Angeles, CA (Aug 2013)
 - Technical Events Chair, 2012 AIAA Infotech at Aerospace Conf., St. Louis, Missouri (Jun 2012)
 - Technical Events Chair, 2011 AIAA Infotech at Aerospace Conf., St. Louis, Missouri (Mar 2011)
+- Moderator, Unmanned Air Systems: The Next Generations, 48th AIAA Aerospace Sciences Meeting New Horizons Forum, Orlando, FL, Jan 2010.
+- Chair IDGA UAV Workshop, Vienna, VA., (Apr 2010)
+- Co-Chair, AUVSI-FAA Workshop on Best Practices for UAS Integration into the National Air Space, AUVSI North America Conference, Washington, D.C. (Aug 2009)
+- Co-Chair, UAS Research Directions for the National Airspace System, Unmanned Unlimited Conference and Exhibit, Seattle, WA (Apr 2009)
+- Co-Chair, NSF-AUVSI-FAA-DHS Workshop on UAS Research Directions for the National Air Space, AUVSI North America Conference, San Diego, CA (Jun 2008)
+- Conference Co-Chair, Civilian Applications of Unmanned Aircraft Systems, Boulder, CO (Oct 2007)
+- Technical Program Committee Infotech at Aerospace Conference, Washington, DC (2005)
+- Technical Program Committee, Unmanned Unlimited Conference, Workshop, and Exhibit, Chicago (2004)
+- Technical Program Co-Chair, 2nd Unmanned Unlimited Conference Systems Technologies, and Operations Aerospace, Land, and Sea Conference, Workshop, and Exhibit, San Diego (2003)
+- Technical Program Co-Chair, 1st Unmanned Aerospace Vehicles, Systems, Technologies, and Operations Conference and Workshop, Portsmouth, VA (2002)
 
 
