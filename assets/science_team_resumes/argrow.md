@@ -57,4 +57,7 @@ Dr. Argrow has supervised five post-doctoral researchers, 14 doctoral candidates
 - AUVSI Unmanned Systems 2014 Technical Committee (May 2014)
 - Executive Steering Committee, AIAA AVIATION 2013 Conf., Los Angeles, CA (Aug 2013)
 - Panel Organizer, Creating an Developing the Market for UAS, AIAA AVIATION 2013 Conf., Los Angeles, CA (Aug 2013)
+- Technical Events Chair, 2012 AIAA Infotech at Aerospace Conf., St. Louis, Missouri (Jun 2012)
+- Technical Events Chair, 2011 AIAA Infotech at Aerospace Conf., St. Louis, Missouri (Mar 2011)
+
 
