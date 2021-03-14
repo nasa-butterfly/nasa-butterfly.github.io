@@ -54,25 +54,5 @@ Dr. Argrow has supervised five post-doctoral researchers, 14 doctoral candidates
 - Session Chair, Autonomous UAS Operations in High-Density Low-Altitude Urban Environments, AIAA Science and Technology Forum (SciTech), San Diego (Jan 7-11 2019).
 - Chair, 3rd AUVSI-AIAA Workshop on Civilian Applications of Unmanned Aircraft Systems, AUVSIXPONENTIAL, Dallas, TX (May 2017).
 - Organizing Committee and presenter for the NCAR-EOL Community Workshop on Unmanned Aircraft Systems for Atmospheric Research, 21-24 Feb 2017.
-- Panel Organizer-Moderator, Integrated Remote & In Situ Sensing (IRISS) Initiative, CU’s “Our Space. Our Future.” Grand Challenges Event, Denver Museum of Nature and Science, Denver, CO (Sep 2015)
-- Panel Organizer-Moderator, Small UAS in the Academic Setting, NASA UAS Traffic Management (UTM) Convention, NASA Ames Research Center, Moffett Field, CA (July 2015)
-- Panel Organizer-Moderator, UAS Policy Issues, International Society for Atmospheric Research Using Remotely Piloted Aircraft (ISARRA), University of Oklahoma, Norman, K, 2015 (May 2015)
-- ISARRA 2015 Organizing Committee (May 2015)
-- Chair and Panel Moderator, AUVSI-AIAA Second Workshop on Civilian Applications of Unmanned Aircraft Systems, Orlando, FL (May 2014)
-- AUVSI Unmanned Systems 2014 Technical Committee (May 2014)
-- Executive Steering Committee, AIAA AVIATION 2013 Conf., Los Angeles, CA (Aug 2013)
-- Panel Organizer, Creating an Developing the Market for UAS, AIAA AVIATION 2013 Conf., Los Angeles, CA (Aug 2013)
-- Technical Events Chair, 2012 AIAA Infotech at Aerospace Conf., St. Louis, Missouri (Jun 2012)
-- Technical Events Chair, 2011 AIAA Infotech at Aerospace Conf., St. Louis, Missouri (Mar 2011)
-- Moderator, Unmanned Air Systems: The Next Generations,” 48th AIAA Aerospace Sciences Meeting New Horizons Forum, Orlando, FL, Jan 2010.
-- Chair IDGA UAV Workshop, Vienna, VA., (Apr 2010)
-- Co-Chair, AUVSI-FAA Workshop on Best Practices for UAS Integration into the National Air Space, AUVSI North America Conference, Washington, D.C. (Aug 2009)
-- Co-Chair, UAS Research Directions for the National Airspace System, Unmanned Unlimited Conference and Exhibit, Seattle, WA (Apr 2009)
-- Co-Chair, NSF-AUVSI-FAA-DHS Workshop on UAS Research Directions for the National Air Space, AUVSI North America Conference, San Diego, CA (Jun 2008)
-- Conference Co-Chair, Civilian Applications of Unmanned Aircraft Systems, Boulder, CO (Oct 2007)
-- Technical Program Committee Infotech at Aerospace Conference, Washington, DC (2005)
-- Technical Program Committee, Unmanned Unlimited Conference, Workshop, and Exhibit, Chicago (2004)
-- Technical Program Co-Chair, 2nd Unmanned Unlimited Conference Systems Technologies, and Operations Aerospace, Land, and Sea Conference, Workshop, and Exhibit, San Diego (2003)
-- Technical Program Co-Chair, 1st Unmanned Aerospace Vehicles, Systems, Technologies, and Operations Conference and Workshop, Portsmouth, VA (2002)
 
 
