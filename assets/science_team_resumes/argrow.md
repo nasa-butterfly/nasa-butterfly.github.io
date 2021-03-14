@@ -80,6 +80,6 @@ Dr. Argrow has supervised five post-doctoral researchers, 14 doctoral candidates
 1. Roger Laurence and Brian M. Argrow, [Numerical Calibration of a Low-Speed UAS Flush Air Data System](https://doi.org/10.1175/JTECH-D-18-0208.1), Journal of Oceanic and Atmospheric Technology, Vol. 6, No. 8, pp. 1577-1590, 2019.
 1. Sara Swenson, Brian Argrow, Eric Frew, Steve Borenstein, and Jason Keeler, [Development and Deployment of Air-Launched Drifters from Small UAS](https://doi.org/10.3390/s19092149), Sensors, vol. 19, No. 9, p. 2149, 2019.
 1. Steven E. Koch, et al., [On the Use of Unmanned Aircraft for ampling Mesoscale Phenomena in the Preconvective Boundary Layer](https://doi.org/10.1175/JTECH-D-18-0101.1), J. of Oceanic and Atmos. Tech., Vol. 35, No. 11, pp. 2265-2288, 2018.
-1. Gijs de Boer, et al., [A Bird’s-Eye View:Development of an Operational ARM Unmanned Aerial Capability...](https://doi.org/10.1175/BAMS-D-17-156.1), BAMS, 99,6, pp. 1197-1212, 2018.
+1. Gijs de Boer, et al., 
 
 
