@@ -112,11 +112,11 @@ Dr. Argrow has supervised five post-doctoral researchers, 14 doctoral candidates
 1. Guardone, A., Argrow, B., [Nonclassical gasdynamic region of selected fluorocarbons](), Physics of Fluids, 17, 116102 , 2005.
 1. Farhat, C., Argrow, B., et al., [Shape Optimization with FFunction Balancing for Reducing the Sonic Boom Initial Shock Pressure Rise](), International Journal of Aeroacoustics, 3, 361-378 , 2004.
 1. Guardone, A., Vigevano, L., and Argrow, B., [Assessment of thermodynamic models for dense gas dynamics](), Physics of Fluids, 16, 3878 , 2004.
-1. Fergason, S., Guardone, A., and Argrow, B., [Construction and Validation of a Dense Gas Shock Tube](), J. Thermophysics and Heat Transfer. 17, 326 , 2003.
-1. Fergason, S. H., Ho, T. L., Argrow, B. M., and Emanuel, G., [Theory for Producing a Single Phase Rarefaction Shock Wave in a Shock Tube, Journal Fluid Mechanics, 445, 37 , 2001.
-1. Brown, B. P. and Argrow, B. M., [Application of Bethe Zel’dovich Thompson Fluids in Organic Rankine Cycle Engines](), Journal of Propulsion and Power, 16, 1118 , 2000.
+1. Fergason, S., Guardone, A., and Argrow, B., [Construction and Validation of a Dense Gas Shock Tube](), J. Thermophysics and Heat Transfer. 17, 326, 2003.
+1. Fergason, S. H., Ho, T. L., Argrow, B. M., and Emanuel, G., [Theory for Producing a Single Phase Rarefaction Shock Wave in a Shock Tube, Journal Fluid Mechanics, 445, 37, 2001.
+1. Brown, B. P. and Argrow, B. M., [Application of Bethe Zeldovich Thompson Fluids in Organic Rankine Cycle Engines](), Journal of Propulsion and Power, 16, 1118, 2000.
 1. Graves, R. E. and Argrow, B. M., [Bulk Viscosity, Past to Present](), J. Thermophysics and Heat Transfer, 13, 337 , 1999.
 1. Brown, B. P. and Argrow, B. M., [Characteristic Calculation of Equilibrium Flow in Minimum Length Nozzles](), Inverse Problems in Engineering, 7, 65 , 1999.
 1. Brown, B. P. and Argrow, B. M., [Nonclassical Dense Gas Flows for Simple Geometries](), AIAA Journal, 36, 1842 , 1998.
 1. Brown, B. P. and Argrow, B. M., [Two Dimensional Shock Tube Flow for Dense Gases](), Journal Fluid Mechanics, 349, 95 , 1997.
-1. Argrow, B. M., [Computational Analysis of Shock Tube Flow for Dense Gases](), Shock Waves, 6, 241 , 1996.
+1. Argrow, B. M., [Computational Analysis of Shock Tube Flow for Dense Gases](), Shock Waves, 6, 241 , 1996
