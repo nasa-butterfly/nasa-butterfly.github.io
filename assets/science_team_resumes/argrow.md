@@ -96,4 +96,3 @@ Dr. Argrow has supervised five post-doctoral researchers, 14 doctoral candidates
 1. Roadman, J., Elston, J., Argrow, B., and Frew, E., [Mission Performance of the Tempest Unmanned Aircraft System in Supercell Storms](), Journal of Aircraft, Vol. 49, No. 6, pp. 1821-1830 2012.
 1. Jung, T. P., Starkey, R. P., and Argrow, B., [Methodology for Conducting Scaled Sonic Boom Flight Tests using Unmanned Aircraft Systems](), J. of Aircraft, 49,5, pp. 1234-1244, 2012.
 1. Frew, E. W., et al.,[Sampling Severe Local Storms and Related Phenomena](), IEEE Robotics & Automation Magazine, 19,1, pp. 85-95 2012.
-1. Houston, A.L., Argrow, B., et al.,[The Collaborative Colorado–Nebraska Unmanned Aircraft System Experiment](), BAMS, Vol. 93, No. 1, pp. 39-54 2012.
