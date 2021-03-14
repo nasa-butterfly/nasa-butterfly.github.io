@@ -73,4 +73,12 @@ Dr. Argrow has supervised five post-doctoral researchers, 14 doctoral candidates
 ## Publications (58 published)
 1. Roseman, C.A., Argrow, B.M., [Low-Speed DSMC Simulations of Hotwire nemometers at High-Altitude Conditions](https://doi.org/10.3390/fluids6010020), Fluids, Vol. 6, 20., 2021.
 1. Gijs de Boer, et al., [Development of Community, Capabilities, and Understanding through Unmanned Aircraft Based Atmospheric Research, The LAPSE RATE Campaign](https://doi.org/10.1175/BAMS-D-19-0050.1), Bull. Amer. Meteor. Soc. Vol. 01, 5, pp. E684-E699, 2020.
+1. Roseman, C. A. and Argrow, B. M., [Weather Hazard Risk Quantification for sUAS afety Risk Management](https://doi.org/10.1175/JTECH-D-20-0009.1), Journal of Oceanic and Atmospheric Technology, Vol. 37, p. 1251-1268, 2020.
+1. Eric W. Frew, Brian Argrow, Steve Borenstein, Sara Swenson, C. Alexander Hirst, enno Havenga, Adam Houston, [Field observation of tornadic supercells by multiple utonomous fixed-wing unmanned aircraft](https://doi.org/10.1002/rob.21947), Journal of Field Robotics, Vol. 37, pp. 077-0193 2020.
+1. Nicholas S. Campbell and Brian M. Argrow, [Unsteady Heat Transfer for Pressure essels in Atmospheric Flight at Orbital Velocities](https://doi.org/10.2514/1.T5767), Journal of Thermophysics and Heat Transfer; , 25 Jul 2019.
+1. Gijs de Boer, Brian Argrow, John Cassano, Joseph Cione, Eric Frew, Dale Lawrence, Gary Wick, and Cory Wolff, [Advancing Unmanned Aerial Capabilities for tmospheric Research](https://doi.org/10.1175/BAMS-D-18-0254.1), Bulletin of the American Meteorological Society, Vol. 100, p. S105-ES108; 9 Apr 2019.
+1. Roger Laurence and Brian M. Argrow, [Numerical Calibration of a Low-Speed UAS Flush Air Data System](https://doi.org/10.1175/JTECH-D-18-0208.1), Journal of Oceanic and Atmospheric Technology, Vol. 6, No. 8, pp. 1577-1590, 2019.
+1. Sara Swenson, Brian Argrow, Eric Frew, Steve Borenstein, and Jason Keeler, [Development and Deployment of Air-Launched Drifters from Small UAS](https://doi.org/10.3390/s19092149), Sensors, vol. 19, No. 9, p. 2149, 2019.
+1. Steven E. Koch, Martin Fengler, Phillip B. Chilson, Kimberly L. Elmore, Brian Argrow, David L. Andra Jr., and Todd Lindley, [On the Use of Unmanned Aircraft for ampling Mesoscale Phenomena in the Preconvective Boundary Layer](https://doi.org/10.1175/JTECH-D-18-0101.1), Journal of ceanic and Atmospheric Technology, Vol. 35, No. 11, pp. 2265-2288, 2018.
+
 
