@@ -51,25 +51,33 @@ In 2010, he led the first UAS team to collect thermodynamic data in a tornadic s
 Dr. Argrow has supervised five post-doctoral researchers, 14 doctoral candidates, and seven M.S. students.  He has taught graduate- and undergraduate-level courses at the University of Colorado since 1997, and has been the recipient of numerous teaching awards and recognitions.
 
 ## Science Teams, Working Groups, Organizing Committees:
-- National Academies of Sciences, Engineering, and Medicine
-- Standing Committee on Earth Science & Applications from Space [(CESAS)](https://www.nationalacademies.org/our-work/committee-on-earth-sciences-and-applications-from-space) (2012 - 2018; Co-Chair 2018 - 2020)  
-- Committee on Best Practices for a Future Open Code Policy for NASA Space Studies (10/2017-8/2018; Co-Chair) [report](https://sites.nationalacademies.org/SSB/CurrentProjects/SSB_178892)
-- Intelligence Science and Technology Experts Group [(ISTEG)](https://www.nationalacademies.org/our-work/intelligence-science-and-technology-experts-group) (2015 - present)
-- Committee on a Framework for Analyzing the Needs for Continuity of NASA-Sustained Remote Sensing Observations of the Earth from Space (10/2013 - 6/2015) [report](https://www.nap.edu/catalog/21789/continuity-of-nasa-earth-observations-from-space-a-value-framework)
-- [Pangeo](https://pangeo.io) Steering Council (2020 - present)
-- Associate Editor of AGU's [Earth and Space Science](https://agupubs.onlinelibrary.wiley.com/hub/journal/23335084/editorial-board.html) (2020 - present)
-- US Clivar Working Group: [Uncertainty Quantification](https://usclivar.org/working-groups/ocean-uncertainty-quantification-working-group) (2020 - present)
-- [Group for high resolution SST (GHRSST) Science Team](https://www.ghrsst.org) and Advisory Council (2001 - present; Chair of Advisory Council 2016-2017)
-- NOAA Science Advisory Board (SAB): Data Access and Archiving Requirements Working Group [(DAARWG)](https://sab.noaa.gov/WorkingGroups/StandingWorkingGroups.aspx#1031912-data-archive-and-access-requirements-working-group-daarwg) (2013 - 2018; Chair 2018 - 2020)
-- [AGU Falkenberg Award](https://www.agu.org/Honor-and-Recognize/Honors/Union-Awards/Falkenberg-Award) Committee (2014 - 2019; Chair 2016 - 2019)
-- NASA PO.DAAC Early Cloud Adopters Program (2019 - present)
-- JAXA [AMSR3](https://spie.org/Publications/Proceedings/Paper/10.1117/12.2573914?SSO=1) Science Team (2019 - present)
-- NASA [GHRC User Working Group](https://ghrc.nsstc.nasa.gov/home/meetings/UWG) (2014-2015; Chair 2014-2015)
-- NASA [PO.DAAC User Working Group](https://podaac.jpl.nasa.gov/AboutPodaac#UWG) (2006-2013; Chair 2011-2013)
-- JAXA GCOM-W AMSR2 Science Team (2009 - 2016)
-- NASA Sea Surface Temperature Science Team (2010-present)
-- MIT Educational Council (1998-present)
-- NASA Satellite Ocean Atlas Team (1998-2001)
+- Session Chair, Autonomous UAS Operations in High-Density Low-Altitude Urban Environments, AIAA Science and Technology Forum (SciTech), San Diego (Jan 7-11 2019).
+- Chair, 3rd AUVSI/AIAA Workshop on Civilian Applications of Unmanned Aircraft Systems, AUVSI XPONENTIAL, Dallas, TX (May 2017).
+- Organizing Committee and presenter for the NCAR / EOL Community Workshop on Unmanned Aircraft Systems for Atmospheric Research, 21-24 Feb 2017.
+- Panel Organizer/Moderator, Integrated Remote & In Situ Sensing (IRISS) Initiative, CU’s
+“Our Space. Our Future.” Grand Challenges Event, Denver Museum of Nature and Science, Denver, CO (Sep 2015)
+- Panel Organizer/Moderator, Small UAS in the Academic Setting, NASA UAS Traffic
+Management (UTM) Convention, NASA Ames Research Center, Moffett Field, CA (July 2015)
+- Panel Organizer/Moderator, UAS Policy Issues, International Society for Atmospheric Research Using emotely Piloted Aircraft (ISARRA), University of Oklahoma, Norman, K, 2015 (May 2015)
+- ISARRA 2015 Organizing Committee (May 2015)
+- Chair and Panel Moderator, AUVSI/AIAA Second Workshop on Civilian Applications of Unmanned Aircraft Systems, Orlando, FL (May 2014)
+- AUVSI Unmanned Systems 2014 Technical Committee (May 2014)
+- Executive Steering Committee, AIAA AVIATION 2013 Conf., Los Angeles, CA (Aug 2013)
+- Panel Organizer, Creating an Developing the Market for UAS, AIAA AVIATION 2013 Conf., Los Angeles, CA (Aug 2013)
+- Technical Events Chair, 2012 AIAA Infotech@Aerospace Conf., St. Louis, Missouri (Jun 2012)
+- Technical Events Chair, 2011 AIAA Infotech@Aerospace Conf., St. Louis, Missouri (Mar 2011)
+- Moderator, Unmanned Air Systems: The Next Generations,” 48th AIAA Aerospace Sciences Meeting New Horizons Forum, Orlando, FL, Jan 2010.
+- Chair IDGA UAV Workshop, Vienna, VA., (Apr 2010)
+- Co-Chair, AUVSI/FAA Workshop on Best Practices for UAS Integration into the National Air Space, AUVSI North America Conference, Washington, D.C. (Aug 2009)
+- Co-Chair, UAS Research Directions for the National Airspace System, Unmanned Unlimited Conference and Exhibit, Seattle, WA (Apr 2009)
+- Co-Chair, NSF/AUVSI/FAA/DHS Workshop on UAS Research Directions for the National Air Space, AUVSI North America Conference, San Diego, CA (Jun 2008)
+- Conference Co-Chair, Civilian Applications of Unmanned Aircraft Systems, Boulder, CO (Oct 2007)
+- Technical Program Committee Infotech@Aerospace Conference, Washington, DC (2005)
+- Technical Program Committee, Unmanned Unlimited Conference, Workshop, and Exhibit, Chicago (2004)
+- Technical Program Co-Chair, 2nd Unmanned Unlimited Conference Systems Technologies, and Operations—Aerospace, Land, and Sea Conference, Workshop, and Exhibit, San Diego
+(2003)
+- Technical Program Co-Chair, 1st Unmanned Aerospace Vehicles, Systems, Technologies, and Operations Conference and Workshop, Portsmouth, VA (2002)
+
 
 ## Awards:
 - 2021 Radiant Earth Foundation's [15 Leading Women in Machine Learning for Earth Observation (ML4EO)] (https://medium.com/radiant-earth-insights/15-leading-women-in-ml4eo-86ce9f660626).  
