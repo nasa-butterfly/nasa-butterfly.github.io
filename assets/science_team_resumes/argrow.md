@@ -81,19 +81,8 @@ Dr. Argrow has supervised five post-doctoral researchers, 14 doctoral candidates
 1. Sara Swenson, Brian Argrow, Eric Frew, Steve Borenstein, and Jason Keeler, [Development and Deployment of Air-Launched Drifters from Small UAS](https://doi.org/10.3390/s19092149), Sensors, vol. 19, No. 9, p. 2149, 2019.
 1. Steven E. Koch, et al., [On the Use of Unmanned Aircraft for ampling Mesoscale Phenomena in the Preconvective Boundary Layer](https://doi.org/10.1175/JTECH-D-18-0101.1), Journal of ceanic and Atmospheric Technology, Vol. 35, No. 11, pp. 2265-2288, 2018.
 1. Gijs de Boer, et al., A Bird’s-Eye View: [Development of an Operational ARM Unmanned Aerial apability for Atmospheric Research in Arctic Alaska](https://doi.org/10.1175/BAMS-D-17-156.1) Bulletin of the American eteorological Society, Vol. 99, No. 6, pp. 1197-1212, 2018.
-1. Roger Laurence, and Brian M. Argrow, [Development and Flight Test Results of a mall UAS Distributed Flush Airdata System](https://doi.org/10.1175/JTECH-D-17-0192.1) Journal of Atmospheric and Oceanic Technology, Vol. 35, No. 5, pp. 1127-1120, 2018.
+1. Roger Laurence, and Brian M. Argrow, [Development and Flight Test Results of a small UAS Distributed Flush Airdata System](https://doi.org/10.1175/JTECH-D-17-0192.1) Journal of Atmospheric and Oceanic Technology, Vol. 35, No. 5, pp. 1127-1120, 2018.
 1. Laurence III, R.J., Argrow, B.M., and Frew, E.W., [Wind Tunnel Results for a Distributed Flush Airdata System](https://doi.org/10.1175/JTECH-D-16-0242.1), Journal of Oceanic and Atmospheric Technology, ol. 34, No. 7, pp. 1519-1528, 2017.
 1. Houston, A.L., et al.[Intercomparison of Unmanned Aircraftborne and Mobile Mesonet Atmospheric Sensors](https://doi.org/10.1175/JTECH-D-15-0178.1), J. of Oceanic and Atmos. Tech., Vol. 33, pp. 1569-1582, 2016.
 1. de Boer, G., et al. [The Pilatus Unmanned Aircraft System for Lower Atmospheric Research](https://doi.org/10.5194/amt-9-1845-2016),Atmospheric Measurement Techniques, Vol. 9, 1845-1857, 2016.
-1. Jung, T. P., Starkey, R. P., and Argrow, B., [Modified Linear Theory Sonic Booms Compared to Experimental and Numerical Results](https://doi.org/10.2514/1.C033088 ), J. of Aircraft, Vol. 52, No. 6, pp. 1821-1837, 2015.
-1. Turansky, C. P., and Argrow, B. M., [Volumetric geometry for DSMC and the Voldipar code](https://doi.org/10.1016/j.compfluid.2015.08.009), Computers & Fluids, Vol. 121, No. 8, pp. 114-132, 2015.
-1. Elston, J., Argrow, B., et al.[Overview of Small Fixed-Wing Unmanned Aircraft for Meteorological Sampling](https://doi.org/10.1175/JTECH-D-13-00236.1 ), J. of Oceanic and Atmos. Tech., Vol. 32, 1, pp. 97-115, 2015.
-1. Turansky, C. P. and Argrow, B. M., [Nonlinear Dynamics of Objects in Transition Flow During Atmospheric Entry](https://doi.org/10.2514/1.A32604), Journal of Spacecraft and Rockets, Vol. 51, No. 3, pp. 855-872, 2014.
-1. Turansky, C. P. and Argrow, B. M., [Rigid-Body Dynamics in Free-Molecular and Transition Flow](https://doi.org/10.2514/1.A32441), Journal of Spacecraft and Rockets, Vol. 51, No. 1, pp. 239-252, 2014.
-1. Pilinski, M. D. and Argrow, B. M., [Aerodynamic Analysis Based on Challenging Minisatellite Payload Satellite Lift-to-Drag Measurements](https://doi.org/10.2514/1.A32394), Journal of Spacecraft and Rockets, Vol. 50, No. 6, pp. 1162-1170, 2013.
-1. Pilinski, M. D., Argrow B. M., Palo, S. E., and Bowman, B. R., [Semi-Empirical Satellite Accommodation Model for Spherical and Randomly Tumbling Objects](https://doi.org/10.2514/1.A32348), Journal of Spacecraft and Rockets, Vol. 50, 556-571, 2013.
-1. Jung, T. P., Starkey, R. P., and Argrow, B., [Lobe Balancing Design Method to Create Frozen Sonic Booms Using Aircraft Components](), Journal of Aircraft, Vol. 49, No. 6, pp. 1878-1893 2012.
-1. Roadman, J., Elston, J., Argrow, B., and Frew, E., [Mission Performance of the Tempest Unmanned Aircraft System in Supercell Storms](), Journal of Aircraft, Vol. 49, No. 6, pp. 1821-1830 2012.
-1. Jung, T. P., Starkey, R. P., and Argrow, B., [Methodology for Conducting Scaled Sonic Boom Flight Tests using Unmanned Aircraft Systems](), Journal of Aircraft, Vol. 49, No. 5, pp. 1234-1244 2012.
-
 
