@@ -129,3 +129,19 @@ Dr. Argrow has supervised five post-doctoral researchers, 14 doctoral candidates
 1. Argrow, B. M. and Emanuel, G. [Computational Analysis of the Transonic Flow Field of Two Dimensional Minimum Length Nozzles](), Journal of Fluids Engineering, 113, 479 , 1989.
 1. Argrow, B. M. and Emanuel, G., [Comparison of Minimum Length Nozzles](), Journal of Fluids Engineering, 110, 283 , 1988.
 1. Argrow, B. M., Emanuel, G., and Rasmussen, M. L., [Entropy Production in General Nonsteady Coordinates](), AIAA Journal, 25, 1629 , 1987, (Errata, 27, 986 , 1989).
+
+
+
+## Book Chapter, Encyclopedia, Editorial, and Review Articles
+1. Argrow, B. M., [Opinion, The Hypersonics Workforce Puzzle](https://aviationweek.com/defense/opinion-hypersonicsworkforce-puzzle), Aviation Week and Space Technology, Jan 9, 2019.
+1. Argrow, B., [Chap. 9, Unmanned Aircraft System Design](), in Introduction to Unmanned Aircraft Systems, 2nd Ed., Douglas M. Marshall, Richard K. Barnhart, Stephen B. Hottman, Eric Shappee, and Michael T. Most, Eds. CRC Press , 2016.
+1. Elston, J., Stachura, M., Dixon, C., Argrow, B., and Frew, E.W., [Chap. 34, A Layered Approach to Networked Command and Control of Complex UAS](), in Handbook of Unmanned Aerial Vehicles, Kimon P. Valavanis and George J. Vachtsevanos, Eds. Springer-Verlag, 2013.
+1. Stachura, M., Elston, J., Argrow, B., Frew, E.W., and Dixon, C., [Chap. 90, Certification Strategy for Small Unmanned Aircraft Performing Nomadic Missions in the U.S. National Airspace System](), in Handbook of Unmanned Aerial Vehicles, Kimon P. Valavanis and George J. Vachtsevanos, Eds. Springer-Verlag, 2013.
+1. Argrow, B., [Unmanned Aircraft Systems Operations in US Airspace](https://doi.org/10.1002/9780470686652.eae460), in Encyclopedia of Aerospace Engineering, Eds. R. Blockley and W. Shyy, John Wiley: Chichester. , Dec , 2012.
+1. Argrow, B., and Unmanned Systems Program Committee, [Year in Review, Unmanned Systems](), Aerospace America, 49, No. 11, p. 74 , 2011.
+1. Argrow, B., Christiansen, R., Francis, M, [Year in Review, Unmanned Systems](), Aerospace America, 27, No. 11, p. 73 , 2009.
+1. Brown, T., Argrow, B., et al.[Experiments Using Small Unmanned Aircraft to Augment a Mobile Ad Hoc Network](), Emerging Technologies in Wireless LANs, Theory, Design, and Deployment, Ed. B. Bing, Cambridge University Press, Chap. 33, pp. 695-717, 2008.
+1. Argrow, B. M., [A Survey of Facilities for High Temperature, High Pressure Fluids Experiments](), Special Feature, Measurement Science and Technology, 16 , 2005.
+
+
+
