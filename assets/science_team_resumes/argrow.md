@@ -120,3 +120,12 @@ Dr. Argrow has supervised five post-doctoral researchers, 14 doctoral candidates
 1. Brown, B. P. and Argrow, B. M., [Nonclassical Dense Gas Flows for Simple Geometries](), AIAA Journal, 36, 1842 , 1998.
 1. Brown, B. P. and Argrow, B. M., [Two Dimensional Shock Tube Flow for Dense Gases](), Journal Fluid Mechanics, 349, 95 , 1997.
 1. Argrow, B. M., [Computational Analysis of Shock Tube Flow for Dense Gases](), Shock Waves, 6, 241 , 1996
+1. Aldo, A. C. and Argrow, B. M., [Dense Gas Flow in Minimum Length Nozzles](), Journal of Fluids Engineering, 117, 270 , 1995.
+1. Rohrs, H. W., Wickham-Jones, T., Ellison, G. B., Berry, D., and Argrow, B. M., [FTIR Absorption Spectroscopy of Jet Cooled Radicals](), Review of Scientific Instruments, 66, 2430 , 1995.
+1. Emanuel, G. and Argrow, B. M., [Linear Dependence of Bulk Viscosity on Shock Wave Thickness](), Physics of Fluids, 6, 3203 , 1994.
+1. Argrow, B. M. and Cox, R. A., [A Quantitative, Second Law Based Measure of Numerical Accuracy](), Thermodynamics and the Design, Analysis, and Improvement of Energy Systems, AES-30/HTD-266, ASME, 49 , 1993.
+1. Cox, R. A., and Argrow, B. M., [Entropy Production in Finite Difference Schemes](), AIAA Journal, 31, 210 , 1993.
+1. Borth, C. J. and Argrow, B. M., [Evaluation of Entropy Production and Numerical Entropy Change in Flowfield Solutions](), Second Law Analysis, Industrial and Environmental Applications, AES 25/HTD-191, 101 , 1991.
+1. Argrow, B. M. and Emanuel, G. [Computational Analysis of the Transonic Flow Field of Two Dimensional Minimum Length Nozzles](), Journal of Fluids Engineering, 113, 479 , 1989.
+1. Argrow, B. M. and Emanuel, G., [Comparison of Minimum Length Nozzles](), Journal of Fluids Engineering, 110, 283 , 1988.
+1. Argrow, B. M., Emanuel, G., and Rasmussen, M. L., [Entropy Production in General Nonsteady Coordinates](), AIAA Journal, 25, 1629 , 1987, (Errata, 27, 986 , 1989).
