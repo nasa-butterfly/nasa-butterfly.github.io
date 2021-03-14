@@ -51,4 +51,8 @@ In 2010, he led the first UAS team to collect thermodynamic data in a tornadic s
 Dr. Argrow has supervised five post-doctoral researchers, 14 doctoral candidates, and seven M.S. students.  He has taught graduate- and undergraduate-level courses at the University of Colorado since 1997, and has been the recipient of numerous teaching awards and recognitions.
 
 ## Science Teams, Working Groups, Organizing Committees
+- Session Chair, Autonomous UAS Operations in High-Density Low-Altitude Urban Environments, AIAA Science and Technology Forum (SciTech), San Diego (Jan 7-11 2019).
+- Chair, 3rd AUVSI/AIAA Workshop on Civilian Applications of Unmanned Aircraft Systems, AUVSIXPONENTIAL, Dallas, TX (May 2017).
+- Organizing Committee and presenter for the NCAR / EOL Community Workshop on Unmanned Aircraft Systems for Atmospheric Research, 21-24 Feb 2017.
+- Panel Organizer/Moderator, Integrated Remote & In Situ Sensing (IRISS) Initiative, CU’s “Our Space. Our Future.” Grand Challenges Event, Denver Museum of Nature and Science, Denver, CO (Sep 2015)
 
