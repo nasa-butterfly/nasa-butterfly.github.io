@@ -53,4 +53,4 @@ Dr. Argrow has supervised five post-doctoral researchers, 14 doctoral candidates
 ## Science Teams, Working Groups, Organizing Committees
 - Session Chair, Autonomous UAS Operations in High-Density Low-Altitude Urban Environments, AIAA Science and Technology Forum (SciTech), San Diego (Jan 7-11 2019).
 - Chair, 3rd AUVSI/AIAA Workshop on Civilian Applications of Unmanned Aircraft Systems, AUVSIXPONENTIAL, Dallas, TX (May 2017).
-
+- Organizing Committee and presenter for the NCAR-EOL Community Workshop on Unmanned Aircraft Systems for Atmospheric Research, 21-24 Feb 2017.
