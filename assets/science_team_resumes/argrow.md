@@ -108,26 +108,5 @@ Dr. Argrow has supervised five post-doctoral researchers, 14 doctoral candidates
 1. Argrow, B., Weatherhead, E., and Frew, E. W., [Real-Time Participant Feedback from the Symposium for Civilian Applications of Unmanned Aircraft Systems](), J. Intelligent and Robotic Systems, 54, No. 1-3, pp. 87-103 , 2009.
 1. Maute, K., Farhat, C., Argrow, B., and Nikbay, M., [Sonic boom mitigation via shape optimization using an adjoint method and application to a supersonic jet aircraft](), European J. of Comp. Mech., 17, 1-2, pp.217-243 , 2008.
 1. Frew, E., Dixon, C., Elston, J., Argrow, B., Brown, T., [Networked Communication, Command, and Control of an Unmanned Aircraft System](), Journal of Aerospace Computing, Information, and Communication, 5, No. 4, pp 84-107 , 2008. 
-1. Farhat, C., Maute, K., Argrow, B., and Nikbay, M., [Shape Optimization Methodology for Reducing the Sonic Boom Initial Pressure Rise](), AIAA Journal, 45, No. 5, 1007 , 2007.
-1. Guardone, A., Argrow, B., [Nonclassical gasdynamic region of selected fluorocarbons](), Physics of Fluids, 17, 116102 , 2005.
-1. Farhat, C., Argrow, B., Nikbay, M, and Maute, K., [Shape Optimization with FFunction Balancing for Reducing the Sonic Boom Initial Shock Pressure Rise](), International Journal of Aeroacoustics, 3, 361-378 , 2004.
-1. Guardone, A., Vigevano, L., and Argrow, B., [Assessment of thermodynamic models for dense gas dynamics](), Physics of Fluids, 16, 3878 , 2004.
-1. Fergason, S., Guardone, A., and Argrow, B., [Construction and Validation of a Dense Gas Shock Tube](), J. Thermophysics and Heat Transfer. 17, 326 , 2003.
-1. Fergason, S. H., Ho, T. L., Argrow, B. M., and Emanuel, G., [Theory for Producing a Single-Phase Rarefaction Shock Wave in a Shock Tube, Journal Fluid Mechanics, 445, 37 , 2001.
-1. Brown, B. P. and Argrow, B. M., [Application of Bethe-Zel’dovich-Thompson Fluids in Organic Rankine Cycle Engines](), Journal of Propulsion and Power, 16, 1118 , 2000.
-1. Graves, R. E. and Argrow, B. M., [Bulk Viscosity, Past to Present](), J. Thermophysics and Heat Transfer, 13, 337 , 1999.
-1. Brown, B. P. and Argrow, B. M., [Characteristic Calculation of Equilibrium Flow in Minimum Length Nozzles](), Inverse Problems in Engineering, 7, 65 , 1999.
-1. Brown, B. P. and Argrow, B. M., [Nonclassical Dense Gas Flows for Simple Geometries](), AIAA Journal, 36, 1842 , 1998.
-1. Brown, B. P. and Argrow, B. M., [Two-Dimensional Shock Tube Flow for Dense Gases](), Journal Fluid Mechanics, 349, 95 , 1997.
-1. Argrow, B. M., [Computational Analysis of Shock Tube Flow for Dense Gases](), Shock Waves, 6, 241 , 1996.
-1. Aldo, A. C. and Argrow, B. M., [Dense Gas Flow in Minimum Length Nozzles](), Journal of Fluids Engineering, 117, 270 , 1995.
-1. Rohrs, H. W., Wickham-Jones, T., Ellison, G. B., Berry, D., and Argrow, B. M., [FTIR Absorption Spectroscopy of Jet-Cooled Radicals](), Review of Scientific Instruments, 66, 2430 , 1995.
-1. Emanuel, G. and Argrow, B. M., [Linear Dependence of Bulk Viscosity on Shock Wave Thickness](), Physics of Fluids, 6, 3203 , 1994.
-1. Argrow, B. M. and Cox, R. A., [A Quantitative, Second-Law Based Measure of Numerical Accuracy](), Thermodynamics and the Design, Analysis, and Improvement of Energy Systems, AES-30/HTD-266, ASME, 49 , 1993.
-1. Cox, R. A., and Argrow, B. M., [Entropy Production in Finite-Difference Schemes](), AIAA Journal, 31, 210 , 1993.
-1. Borth, C. J. and Argrow, B. M., [Evaluation of Entropy Production and Numerical Entropy Change in Flowfield Solutions](), Second Law Analysis, Industrial and Environmental Applications, AES-25/HTD-191, 101 , 1991.
-1. Argrow, B. M. and Emanuel, G. [Computational Analysis of the Transonic Flow Field of Two-Dimensional Minimum Length Nozzles](), Journal of Fluids Engineering, 113, 479 , 1989.
-1. Argrow, B. M. and Emanuel, G., [Comparison of Minimum Length Nozzles](), Journal of Fluids Engineering, 110, 283 , 1988.
-1. Argrow, B. M., Emanuel, G., and Rasmussen, M. L., [Entropy Production in General Nonsteady Coordinates](), AIAA Journal, 25, 1629 , 1987, (Errata, 27, 986 , 1989).
 
 
