@@ -1,5 +1,5 @@
-![image](./../img/team/gentemann.jpg)
-# Dr. Chelle L. Gentemann (she/her)
+![image](./../img/team/argrow.jpg)
+# Dr. Brian Argrow (he/him)
 
 <i class="fab fa-github"></i>
 <i class="fab fa-twitter"></i>
