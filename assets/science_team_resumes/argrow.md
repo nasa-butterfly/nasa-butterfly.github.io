@@ -4,10 +4,10 @@
 <i class="fab fa-github"></i>
 <i class="fab fa-twitter"></i>
 
-[<img src="./../img/gmail.png" width="2%" height="2%">](mailto:cgentemann@faralloninstitute.org)
-[<img src="./../img/twitter.png" width="2%" height="2%">](https://twitter.com/chellegentemann)
-[<img src="./../img/github.png" width="2%" height="2%">](https://github.com/cgentemann)
-## Senior Scientist, [Farallon Institute](https://faralloninstitute.org)
+[<img src="./../img/gmail.png" width="2%" height="2%">](mailto:brian.argrow@colorado.edu)
+[<img src="./../img/github.png" width="2%" height="2%">](https://github.com/bargrow)
+
+## Schaden Leadership Endowed Professor & Dept. Chair Ann and H.J. Smead Dept. of Aerospace Engineering Sciences, [University of Colorado](https://www.colorado.edu/aerospace/brian-argrow)
 
 ## Research Interests:
 Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud computing, open source software development, air-sea interactions, and upper ocean physical processes.  For over 20 years she has worked on the calibration, radiative transfer modelling, algorithm development, validation, and operational near-real-time distribution of multiple satellite passive microwave sensors data. She also led 3 in situ field campaigns, 4 large academic, governmental, commercial partnerships, and has served on and chaired international and national science teams, working groups, and committees.    
