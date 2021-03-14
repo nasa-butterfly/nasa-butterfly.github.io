@@ -97,3 +97,11 @@ Dr. Argrow has supervised five post-doctoral researchers, 14 doctoral candidates
 1. Jung, T. P., Starkey, R. P., and Argrow, B., [Methodology for Conducting Scaled Sonic Boom Flight Tests using Unmanned Aircraft Systems](), J. of Aircraft, 49,5, pp. 1234-1244, 2012.
 1. Frew, E. W., et al.,[Sampling Severe Local Storms and Related Phenomena](), IEEE Robotics & Automation Magazine, 19,1, pp. 85-95 2012.
 1. Houston, A.L., Argrow, B., et al.,[The Collaborative Colorado Nebraska Unmanned Aircraft System Experiment](), BAMS, Vol. 93, No. 1, pp. 39-54 2012.
+1. Elston, J., Argrow, B., et al. [Evaluation of Unmanned Aircraft Systems for Severe Storm Sampling using Hardware in the Loop Simulations](), J. Aero. Comp., Info., and Comm., 8, No. 9, pp. 269-294, 2011.
+1. Elston, J., et al. [The Tempest Unmanned Aircraft System for In Situ Observations of Tornadic Supercells, Design and VORTEX2 Flight Results](), Journal of Field Robotics, Vol. 28, No. 4, pp. 461-483, 2011.
+1. Pilinski, M. D., et al.,[Measuring Absolute Thermospheric Densities and Accommodation Coefficients using Paddlewheel Satellites Past Findings, Present Uses, and Future Mission Concepts], Adv. in the Astro. Sci., Vol. 58, No. 3, Jul-Sep, pp.531-549, 2011.
+1. Pilinski, M., Argrow, B., and Palo, S., [Drag Coefficients of Satellites with Concave Geometries, Comparing Models and Observations](), Journal of Spacecraft and Rockets, 48, No. 2, pp. 312-325,2011.
+1. Pilinski, M., Argrow, B., and Palo, S., [A Semi Empirical Model for Satellite Energy Accommodation Coefficients](), Journal of Spacecraft and Rockets, 47, No. 6, pp. 266- 272, 2010.
+1. Argrow, B., Maute, K., Farhat, C., Nikbay, M., [F function lobe balancing for sonic boom minimization](), Computational Fluid Dynamics Journal, 17, No. 4, pp. 221-234, 2009.
+1. Murphy, R. and Argrow, B., [UAS in the National Airspace System, Research Directions](), Unmanned Systems, 27, No. 6, pp. 23-28 , 2009.
+1. Elston, J., Frew, E., Lawrence, D., Gray, P., and Argrow, B., [Net Centric Communication and Control for a Heterogeneous Unmanned Aircraft System](), Journal of Intelligent and Robotic Systems, 56, No. 1-2, pp. 199-232 , 2009.
