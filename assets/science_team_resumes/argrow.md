@@ -19,16 +19,36 @@ Student collaboration lead.  Integrated Remote & In-Situ Sensing Program (IRISS)
 In 2010, he led the first UAS team to collect thermodynamic data in a tornadic supercell thunderstorm during the second Verification of the Origin of Rotation in Tornadoes Experiment (VORTEX-2). In 2020, his UAS team collected thermodynamic, wind, and turbulence measurements for the NOAA Atlantic Tradewind Ocean-Atmosphere Mesoscale Interaction Campaign (ATOMIC) in the tropical North Atlantic east of Barbados. His UAS teams have also made multiple deployments to Oliktok Point, AK to collect sea, air, and cloud measurements. He is principle investigator of an AFOSR Multidisciplinary University Research Initiative (MURI) that is using balloon-borne payloads to routinely measure turbulence and particulate distributions in the middle stratosphere. He currently serves on the Aeronautics and Space Engineering Board of the National Academies of Science, Engineering, and Medicine, and has served on the USAF Scientific Advisory Board, as well as several NASA and NOAA advisory boards.
 
 ## Experience:
-- 2/2020 - present: Farallon Institute, Senior Scientist.  
-- 3/2016 - present: Earth & Space Research, Senior Scientist-2020, Affiliat-present.  
-- 2017 - present: University of Washington, Applied Physics Laboratory, Affiliate
-- 2017 - 2018: NASA Jet Propulsion Laboratory, Visiting Scholar
-- 2/1998 - 10/2015: Remote Sensing Systems, Scientist - 2012, -Senior Principal Scientist -2015.  
+- 2019 - Present, Schaden Leadership Chair, University of Colorado
+- 2017 - Present, Chair, Aerospace Engineering Sciences, University of Colorado
+- 2014 - Present, Director, Integrated Remote and In Situ Sensing, University of Colorado
+- 2006 - Present, Professor, Aerospace Engineering Sciences, University of Colorado
+- 2004 - 2012, Director, Research and Engineering Center for Unmanned Vehicles, University of Colorado
+- 2002 - 2004, Associate Chair, Aerospace Engineering Sciences, University of Colorado
+- 1999 - 2005, Associate Professor, Aerospace Engineering Sciences, University of Colorado
+- 1992 - 1999, Assistant Professor, Aerospace Engineering Sciences, University of Colorado
+- 1989 - 1992, Assistant Professor, School of Aerospace and Mechanical Engineering, University of Oklahoma
+- 1986 - 1988, Instructor, School of Aerospace and Mechanical Engineering, University of Oklahoma
 
 ## Education:
-- 2003 - 2007: Ph.D. Meteorology and Physical Oceanography, University of Miami (Advisor: Peter Minnett)
-- 1995 - 1997: M.S. Physical Oceanography, Scripps Institution of Oceanography, UCSD
-- 1991 - 1995: B.S. Massachusetts Institute of Technology
+- 1986 - 1989: Ph.D., Aerospace Engineering, University of Oklahoma
+- 1983 - 1986: M.S., Mechanical Engineering, University of Oklahoma
+- 1979 - 1983: B.S., Aerospace Engineering, University of Oklahoma
+
+## Honors/Awards/Activities
+- 2016:	 American Institute of Aeronautics and Astronautics (AIAA) Fellow
+- 2014:	 Center for STEM Learning Fellow
+- 2011-12:   University of Colorado Boulder Faculty Assembly Excellence in Service Award
+- 2009: 	Department of the Air Force Exemplary Civilian Service Award
+- 2007 UCB Gold Best Should Teach Award
+- 2003 Marinus Smith Award
+- 2000 President's Teaching Scholar
+- 1996-1997 BFA Award for Excellence in Teaching 
+- 1996 The Charles A. Hutchinson Memorial Teaching Award
+- 1995 Engineering Teaching Excellence Award, W.M. Keck Foundation
+
+## Mentoring Experience
+Dr. Argrow has supervised five post-doctoral researchers, 14 doctoral candidates, and seven M.S. students.  He has taught graduate- and undergraduate-level courses at the University of Colorado since 1997, and has been the recipient of numerous teaching awards and recognitions.
 
 ## Science Teams, Working Groups, Organizing Committees:
 - National Academies of Sciences, Engineering, and Medicine
