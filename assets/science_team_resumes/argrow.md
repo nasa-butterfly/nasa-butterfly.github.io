@@ -52,13 +52,11 @@ Dr. Argrow has supervised five post-doctoral researchers, 14 doctoral candidates
 
 ## Science Teams, Working Groups, Organizing Committees:
 - Session Chair, Autonomous UAS Operations in High-Density Low-Altitude Urban Environments, AIAA Science and Technology Forum (SciTech), San Diego (Jan 7-11 2019).
-- Chair, 3rd AUVSI/AIAA Workshop on Civilian Applications of Unmanned Aircraft Systems, AUVSI XPONENTIAL, Dallas, TX (May 2017).
+- Chair, 3rd AUVSI/AIAA Workshop on Civilian Applications of Unmanned Aircraft Systems, AUVSIXPONENTIAL, Dallas, TX (May 2017).
 - Organizing Committee and presenter for the NCAR / EOL Community Workshop on Unmanned Aircraft Systems for Atmospheric Research, 21-24 Feb 2017.
-- Panel Organizer/Moderator, Integrated Remote & In Situ Sensing (IRISS) Initiative, CU’s
-“Our Space. Our Future.” Grand Challenges Event, Denver Museum of Nature and Science, Denver, CO (Sep 2015)
-- Panel Organizer/Moderator, Small UAS in the Academic Setting, NASA UAS Traffic
-Management (UTM) Convention, NASA Ames Research Center, Moffett Field, CA (July 2015)
-- Panel Organizer/Moderator, UAS Policy Issues, International Society for Atmospheric Research Using emotely Piloted Aircraft (ISARRA), University of Oklahoma, Norman, K, 2015 (May 2015)
+- Panel Organizer/Moderator, Integrated Remote & In Situ Sensing (IRISS) Initiative, CU’s “Our Space. Our Future.” Grand Challenges Event, Denver Museum of Nature and Science, Denver, CO (Sep 2015)
+- Panel Organizer/Moderator, Small UAS in the Academic Setting, NASA UAS Traffic Management (UTM) Convention, NASA Ames Research Center, Moffett Field, CA (July 2015)
+- Panel Organizer/Moderator, UAS Policy Issues, International Society for Atmospheric Research Using Remotely Piloted Aircraft (ISARRA), University of Oklahoma, Norman, K, 2015 (May 2015)
 - ISARRA 2015 Organizing Committee (May 2015)
 - Chair and Panel Moderator, AUVSI/AIAA Second Workshop on Civilian Applications of Unmanned Aircraft Systems, Orlando, FL (May 2014)
 - AUVSI Unmanned Systems 2014 Technical Committee (May 2014)
@@ -74,8 +72,7 @@ Management (UTM) Convention, NASA Ames Research Center, Moffett Field, CA (July 
 - Conference Co-Chair, Civilian Applications of Unmanned Aircraft Systems, Boulder, CO (Oct 2007)
 - Technical Program Committee Infotech@Aerospace Conference, Washington, DC (2005)
 - Technical Program Committee, Unmanned Unlimited Conference, Workshop, and Exhibit, Chicago (2004)
-- Technical Program Co-Chair, 2nd Unmanned Unlimited Conference Systems Technologies, and Operations—Aerospace, Land, and Sea Conference, Workshop, and Exhibit, San Diego
-(2003)
+- Technical Program Co-Chair, 2nd Unmanned Unlimited Conference Systems Technologies, and Operations Aerospace, Land, and Sea Conference, Workshop, and Exhibit, San Diego (2003)
 - Technical Program Co-Chair, 1st Unmanned Aerospace Vehicles, Systems, Technologies, and Operations Conference and Workshop, Portsmouth, VA (2002)
 
 
