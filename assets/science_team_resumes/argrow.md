@@ -35,7 +35,7 @@ In 2010, he led the first UAS team to collect thermodynamic data in a tornadic s
 - 1983 - 1986: M.S., Mechanical Engineering, University of Oklahoma
 - 1979 - 1983: B.S., Aerospace Engineering, University of Oklahoma
 
-## Honors, Awards, and Activities
+## Honors, Awards, and Activities:
 - 2016:	 American Institute of Aeronautics and Astronautics (AIAA) Fellow
 - 2014:	 Center for STEM Learning Fellow
 - 2011-12:   University of Colorado Boulder Faculty Assembly Excellence in Service Award
@@ -70,7 +70,7 @@ Dr. Argrow has supervised five post-doctoral researchers, 14 doctoral candidates
 - Technical Program Co-Chair, 2nd Unmanned Unlimited Conference Systems Technologies, and Operations Aerospace, Land, and Sea Conference, Workshop, and Exhibit, San Diego (2003)
 - Technical Program Co-Chair, 1st Unmanned Aerospace Vehicles, Systems, Technologies, and Operations Conference and Workshop, Portsmouth, VA (2002)
 
-## Publications (58 published)
+## Publications (58 published):
 1. Roseman, C.A., Argrow, B.M., [Low-Speed DSMC Simulations of Hotwire nemometers at High-Altitude Conditions](https://doi.org/10.3390/fluids6010020), Fluids, Vol. 6, 20., 2021.
 1. Gijs de Boer, et al., [Development of Community, Capabilities, and Understanding through Unmanned Aircraft Based Atmospheric Research, The LAPSE RATE Campaign](https://doi.org/10.1175/BAMS-D-19-0050.1), Bull. Amer. Meteor. Soc. Vol. 01, 5, pp. E684-E699, 2020.
 1. Roseman, C. A. and Argrow, B. M., [Weather Hazard Risk Quantification for sUAS afety Risk Management](https://doi.org/10.1175/JTECH-D-20-0009.1), Journal of Oceanic and Atmospheric Technology, Vol. 37, p. 1251-1268, 2020.
@@ -98,12 +98,12 @@ Dr. Argrow has supervised five post-doctoral researchers, 14 doctoral candidates
 1. Frew, E. W., Elston, J., Argrow, B., Houston, A, and Rasmussen, E., [Sampling Severe Local Storms and Related Phenomena](), IEEE Robotics & Automation Magazine, Vol. 19, 1, pp. 85-95 2012.
 1. Houston, A.L., Argrow, B., Elston, J., Lahowetz, J., Frew, E.W., and Kennedy, P. C., [The Collaborative Colorado–Nebraska Unmanned Aircraft System Experiment](), Bulletin of the American Meteorological Society, Vol. 93, No. 1, pp. 39-54 2012. (cover article)
 1. Elston, J., Argrow, B., Frew, E., Houston, A., and Straka, J., [Evaluation of Unmanned Aircraft Systems for Severe Storm Sampling using Hardware-in-the-Loop Simulations](), Journal of Aerospace Computing, Information, and Communication, 8, No. 9, pp. 269-294, 2011.
-1. Elston, J., Roadman, J., Stachura, M., Argrow, B., Houston, A., and Frew, E., [The Tempest Unmanned Aircraft System for In Situ Observations of Tornadic Supercells: Design and VORTEX2 Flight Results](), Journal of Field Robotics, Vol. 28, No. 4, pp. 461-483, 2011.
-1. Pilinski, M. D., K. Moe, Argrow B., Palo, S. E., [Measuring Absolute Thermospheric Densities and Accommodation Coefficients using Paddlewheel Satellites: Past Findings, Present Uses, and Future Mission Concepts](), Advances in the Astronautical Sciences, Vol. 58, No. 3, Jul-Sep, pp.531-549, 2011.
-1. Pilinski, M., Argrow, B., and Palo, S., [Drag Coefficients of Satellites with Concave Geometries: Comparing Models and Observations](), Journal of Spacecraft and Rockets, 48, No. 2, pp. 312-325 (2011.
+1. Elston, J., Roadman, J., Stachura, M., Argrow, B., Houston, A., and Frew, E., [The Tempest Unmanned Aircraft System for In Situ Observations of Tornadic Supercells- Design and VORTEX2 Flight Results](), Journal of Field Robotics, Vol. 28, No. 4, pp. 461-483, 2011.
+1. Pilinski, M. D., K. Moe, Argrow B., Palo, S. E., [Measuring Absolute Thermospheric Densities and Accommodation Coefficients using Paddlewheel Satellites Past Findings, Present Uses, and Future Mission Concepts](), Advances in the Astronautical Sciences, Vol. 58, No. 3, Jul-Sep, pp.531-549, 2011.
+1. Pilinski, M., Argrow, B., and Palo, S., [Drag Coefficients of Satellites with Concave Geometries, Comparing Models and Observations](), Journal of Spacecraft and Rockets, 48, No. 2, pp. 312-325 (2011.
 1. Pilinski, M., Argrow, B., and Palo, S., [A Semi-Empirical Model for Satellite EnergyAccommodation Coefficients](), Journal of Spacecraft and Rockets, 47, No. 6, pp. 266- 272 , 2010.
 1. Argrow, B., Maute, K., Farhat, C., Nikbay, M., [F-function lobe balancing for sonic boom minimization](), Computational Fluid Dynamics Journal, 17, No. 4, pp. 221-234 , 2009.
-1. Murphy, R. and Argrow, B., [UAS in the National Airspace System: Research Directions](), Unmanned Systems, 27, No. 6, pp. 23-28 , 2009.
+1. Murphy, R. and Argrow, B., [UAS in the National Airspace System, Research Directions](), Unmanned Systems, 27, No. 6, pp. 23-28 , 2009.
 1. Elston, J., Frew, E., Lawrence, D., Gray, P., and Argrow, B., [Net-Centric Communication and Control for a Heterogeneous Unmanned Aircraft System](), Journal of Intelligent and Robotic Systems, 56, No. 1-2, pp. 199-232 , 2009.
 1. Argrow, B., Weatherhead, E., and Frew, E. W., [Real-Time Participant Feedback from the Symposium for Civilian Applications of Unmanned Aircraft Systems](), Journal of Intelligent and Robotic Systems, 54, No. 1-3, pp. 87-103 , 2009.
 1. Maute, K., Farhat, C., Argrow, B., and Nikbay, M., [Sonic boom mitigation via shape optimization using an adjoint method and application to a supersonic jet aircraft](), European Journal of Computational Mechanics, 17, 1-2, pp.217-243 , 2008.
@@ -115,7 +115,7 @@ Dr. Argrow has supervised five post-doctoral researchers, 14 doctoral candidates
 1. Fergason, S., Guardone, A., and Argrow, B., [Construction and Validation of a Dense Gas Shock Tube](), J. Thermophysics and Heat Transfer. 17, 326 , 2003.
 1. Fergason, S. H., Ho, T. L., Argrow, B. M., and Emanuel, G., [Theory for Producing a Single-Phase Rarefaction Shock Wave in a Shock Tube, Journal Fluid Mechanics, 445, 37 , 2001.
 1. Brown, B. P. and Argrow, B. M., [Application of Bethe-Zel’dovich-Thompson Fluids in Organic Rankine Cycle Engines](), Journal of Propulsion and Power, 16, 1118 , 2000.
-1. Graves, R. E. and Argrow, B. M., [Bulk Viscosity: Past to Present](), J. Thermophysics and Heat Transfer, 13, 337 , 1999.
+1. Graves, R. E. and Argrow, B. M., [Bulk Viscosity, Past to Present](), J. Thermophysics and Heat Transfer, 13, 337 , 1999.
 1. Brown, B. P. and Argrow, B. M., [Characteristic Calculation of Equilibrium Flow in Minimum Length Nozzles](), Inverse Problems in Engineering, 7, 65 , 1999.
 1. Brown, B. P. and Argrow, B. M., [Nonclassical Dense Gas Flows for Simple Geometries](), AIAA Journal, 36, 1842 , 1998.
 1. Brown, B. P. and Argrow, B. M., [Two-Dimensional Shock Tube Flow for Dense Gases](), Journal Fluid Mechanics, 349, 95 , 1997.
@@ -125,21 +125,9 @@ Dr. Argrow has supervised five post-doctoral researchers, 14 doctoral candidates
 1. Emanuel, G. and Argrow, B. M., [Linear Dependence of Bulk Viscosity on Shock Wave Thickness](), Physics of Fluids, 6, 3203 , 1994.
 1. Argrow, B. M. and Cox, R. A., [A Quantitative, Second-Law Based Measure of Numerical Accuracy](), Thermodynamics and the Design, Analysis, and Improvement of Energy Systems, AES-30/HTD-266, ASME, 49 , 1993.
 1. Cox, R. A., and Argrow, B. M., [Entropy Production in Finite-Difference Schemes](), AIAA Journal, 31, 210 , 1993.
-1. Borth, C. J. and Argrow, B. M., [Evaluation of Entropy Production and Numerical Entropy Change in Flowfield Solutions](), Second Law Analysis: Industrial and Environmental Applications, AES-25/HTD-191, 101 , 1991.
+1. Borth, C. J. and Argrow, B. M., [Evaluation of Entropy Production and Numerical Entropy Change in Flowfield Solutions](), Second Law Analysis, Industrial and Environmental Applications, AES-25/HTD-191, 101 , 1991.
 1. Argrow, B. M. and Emanuel, G. [Computational Analysis of the Transonic Flow Field of Two-Dimensional Minimum Length Nozzles](), Journal of Fluids Engineering, 113, 479 , 1989.
 1. Argrow, B. M. and Emanuel, G., [Comparison of Minimum Length Nozzles](), Journal of Fluids Engineering, 110, 283 , 1988.
 1. Argrow, B. M., Emanuel, G., and Rasmussen, M. L., [Entropy Production in General Nonsteady Coordinates](), AIAA Journal, 25, 1629 , 1987, (Errata, 27, 986 , 1989).
-
-## Book Chapter, Encyclopedia, Editorial, and Review Articles
-1. Argrow, B. M., [Opinion: The Hypersonics Workforce Puzzle](https://aviationweek.com/defense/opinion-hypersonicsworkforce-puzzle), Aviation Week and Space Technology, Jan 9, 2019.
-1. Argrow, B., [Chap. 9: Unmanned Aircraft System Design](), in Introduction to Unmanned Aircraft Systems, 2nd Ed., Douglas M. Marshall, Richard K. Barnhart, Stephen B. Hottman, Eric Shappee, and Michael T. Most, Eds. CRC Press , 2016.
-1. Elston, J., Stachura, M., Dixon, C., Argrow, B., and Frew, E.W., [Chap. 34: A Layered Approach to Networked Command and Control of Complex UAS](), in Handbook of Unmanned Aerial Vehicles, Kimon P. Valavanis and George J. Vachtsevanos, Eds. Springer-Verlag, 2013.
-1. Stachura, M., Elston, J., Argrow, B., Frew, E.W., and Dixon, C., [Chap. 90: Certification Strategy for Small Unmanned Aircraft Performing Nomadic Missions in the U.S. National Airspace System](), in Handbook of Unmanned Aerial Vehicles, Kimon P. Valavanis and George J. Vachtsevanos, Eds. Springer-Verlag, 2013.
-1. Argrow, B., [Unmanned Aircraft Systems Operations in US Airspace](https://doi.org/10.1002/9780470686652.eae460), in Encyclopedia of Aerospace Engineering, Eds. R. Blockley and W. Shyy, John Wiley: Chichester. , Dec , 2012.
-1. Argrow, B., and Unmanned Systems Program Committee, [Year in Review: Unmanned Systems](), Aerospace America, 49, No. 11, p. 74 , 2011.
-1. Argrow, B., Christiansen, R., Francis, M, [Year in Review: Unmanned Systems](), Aerospace America, 27, No. 11, p. 73 , 2009.
-1. Brown, T., Argrow, B., Frew, E., Dixon, C., Hinkle, D., Elston, J., Gates, H., [Experiments Using Small Unmanned Aircraft to Augment a Mobile Ad Hoc Network](), Emerging Technologies in Wireless LANs: Theory, Design, and Deployment, Ed. B. Bing, Cambridge University Press, Chap. 33, pp. 695-717, 2008.
-1. Argrow, B. M., [A Survey of Facilities for High-Temperature, High-Pressure Fluids Experiments](), Special Feature, Measurement Science and Technology, 16 , 2005.
-
 
 
