@@ -71,4 +71,4 @@ Dr. Argrow has supervised five post-doctoral researchers, 14 doctoral candidates
 - Technical Program Co-Chair, 1st Unmanned Aerospace Vehicles, Systems, Technologies, and Operations Conference and Workshop, Portsmouth, VA (2002)
 
 ## Publications (58 published)
-1. Roseman, C.A., Argrow, B.M., “Low-Speed DSMC Simulations of Hotwire nemometers at High-Altitude Conditions,” Fluids, Vol. 6, 20. [](https://doi.org/10.3390/fluids6010020), 2021.
+1. Roseman, C.A., Argrow, B.M., [Low-Speed DSMC Simulations of Hotwire nemometers at High-Altitude Conditions](https://doi.org/10.3390/fluids6010020), Fluids, Vol. 6, 20., 2021.
