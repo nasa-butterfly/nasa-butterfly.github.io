@@ -5,7 +5,7 @@
 
 #Image Customization
 header-image: "../img/butterfly.png"
-#contact-image: "../img/contact.png"
+contact-image: "../img/butterfly.png"
 
 #Image Customization
 #header-image: "assets/img/header-bg.jpg"
