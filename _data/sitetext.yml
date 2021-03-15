@@ -1,6 +1,6 @@
 header:
     title: 
-    text: 
+    text: a satellite mission to reveal the oceans' impact on our weather and climate
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
