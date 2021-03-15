@@ -54,6 +54,12 @@ timeline:
         image: assets/img/timeline/firehose.jpg
         alt: 
         align: right
+      - title: "Earth Venture Mission - 3 - NASA competition - extended COVID version"
+        year: "2021"
+        desc: "the competition just kept going and going because of COVID.... a millon details to keep track of... so so many zoom calls.... I can remember MEV Wet Mass and Power but sometimes forget my name."
+        image: assets/img/timeline/cat.jpg
+        alt: 
+        align: left
     end: "Be Part <br> of Our <br> Story!"
 
 about:
