@@ -8,6 +8,8 @@
 [<img src="./../img/twitter.png" width="2%" height="2%">](https://twitter.com/chellegentemann)
 [<img src="./../img/github.png" width="2%" height="2%">](https://github.com/cgentemann)
 ## Senior Scientist, [Farallon Institute](https://faralloninstitute.org)
+- Affiliate [Earth and Sapace Research](https://www.esr.org/)
+- Affiliate [University of Washington, Applied Physics Laboratory](https://www.apl.washington.edu/)
 
 ## Research Interests:
 Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud computing, open source software development, air-sea interactions, and upper ocean physical processes.  For over 20 years she has worked on the calibration, radiative transfer modelling, algorithm development, validation, and operational near-real-time distribution of multiple satellite passive microwave sensors data. She also led 3 in situ field campaigns, 4 large academic, governmental, commercial partnerships, and has served on and chaired international and national science teams, working groups, and committees.    
