@@ -8,7 +8,7 @@
 [<img src="./../img/twitter.png" width="2%" height="2%">](https://twitter.com/chellegentemann)
 [<img src="./../img/github.png" width="2%" height="2%">](https://github.com/cgentemann)
 ## Senior Scientist, [Farallon Institute](https://faralloninstitute.org)
-- Affiliate [Earth and Sapace Research](https://www.esr.org/)
+- Affiliate [Earth and Space Research](https://www.esr.org/)
 - Affiliate [University of Washington, Applied Physics Laboratory](https://www.apl.washington.edu/)
 
 ## Research Interests:
