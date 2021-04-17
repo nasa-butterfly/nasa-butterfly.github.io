@@ -132,11 +132,11 @@ Dr. Gentemann is currently a senior scientist at Farallon Institute, leading res
 ## Mentoring Experience:
 Dr. Gentemann has mentored over 20 students, sat on 6 Ph.D. committees, mentored to groups in several hackathons, and mentored several Summer interns. She uses social media to encourage and communicate with Early Career Scientists.
 
-## Publications (59 published, 4 in process):
+## Publications (58 published, 5 in process):
 1. Daley, A., S. Sandiford. K. Hall, C. Gentemann, "ATOMIC: Salty Seas from Satellites and Saildrones", in prep
 4. Stevens, B., et al. "EUREC4A", submitted Earth System Science Data.
 6. Zhang., C., A. F. Levine, M. Wang, C. L. Gentemann, C. W. Mordy, E. D. Cokelet, P. A. Browne, Q. Yang, N. Lawrence-Slavas, C. Meinig, G. Smith, A. Chiodi, D. Zhang, P. Stabeno, W. Wang, H. Ren, K. A. Peterson, S. N. Figueroa, M. Steele, N. P. Barton, "Evaluation of Operational Forecasts at Alaskan Arctic Sea Surface Using in situ Observations from Saildrones", submitted MWR.
-7. Ashlock, L., M. Garcia-Reyes, S. Batten, C. Gentemann, W. Sydeman, "Temperature driven patterns of copepod presence and abundance in the Northeast Pacific", submitted Frontiers.
+7. Ashlock, L., M. GarcÃ­a-Reyes, S. Batten, C. Gentemann, W. Sydeman, "Temperature driven patterns of copepod presence and abundance in the Northeast Pacific", submitted Frontiers.
 8. Gentemann, C.L., C. Holdgraf, R. Abernathey, D. Crichton, J. Colliander, E. J. Kearns, Y. Panda, R. P. Signell "Science Storms the Cloud", in press AGU Advances.
 5. Chiodi, A. M., C. Zhang, E. D. Cokelet, Q. Yang, C. W. Mordy, C. Gentemann, J. Cross, N. Lawrence-Slavas, C. Meinig, M. Steele, D. E. Harrison, P. Stabeno, H. Tabisola, D. Zhang, E. Burger, and K. O'Brien, Exploring the Alaskan Arctic Seasonal Ice Zone with Saildrones, in press Frontiers in Marine Science.
 9. Vazquez-Cuervo, J., C.L. Gentemann, et al. [Validation of Sea Surface Salinity in the Bering Straits using Saildrone, SMAP, and Models](https://www.mdpi.com/2072-4292/13/5/831), Remote Sens. 2021, 13(5), 831; https://doi.org/10.3390/rs13050831.
