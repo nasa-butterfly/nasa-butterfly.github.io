@@ -1,18 +1,46 @@
-nav:
-  - title: "Science"
-    section: services
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  nav:
+    - title: "Science"
+      section: services
+    - title: "Mission Concept"
+      section: portfolio
+    - title: "About"
+      section: timeline
+    - title: "Team"
+      section: team
+    - title: "Contact"
+      section: contact
+    - title: "Source Code"
+      url: https://github.com/nasa-butterfly/nasa-butterfly.github.io
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
 
-  - title: "Mission Concept"
-    section: portfolio
-    
-  - title: "About"
-    section: timeline
 
-  - title: "Team"
-    section: team
-
-  - title: "Contact"
-    section: contact
-
-  - title: "Source Code"
-    url: https://github.com/nasa-butterfly/nasa-butterfly.github.io
+# Spanish
+# -------
+es: &DEFAULT_ES
+  nav:
+    - title: "Ciencias"
+      section: servicios
+    - title: "Concepto de Misión"
+      section: portafolio
+    - title: "Cronología"
+      section: cronologia
+    - title: "Equipo"
+      section: equipo
+    - title: "Contáctenos"
+      section: contacto
+    - title: "Fuente de la plantilla"
+      url: https://github.com/nasa-butterfly/nasa-butterfly.github.io
+es-ES:
+  <<: *DEFAULT_ES
+es-CO:
+  <<: *DEFAULT_ES
