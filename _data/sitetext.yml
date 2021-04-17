@@ -1,10 +1,22 @@
-header:
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  header:
     title: a satellite mission to reveal the oceans' impact on our weather and climate 
     text: 
     button: Tell Me More
-    buttonlink: "#services" # "#{section}" or "URL/page link"
+    buttonlink: "#services"
 
-services:
+  services:
     title: "Science"
     text: "Science Goals & Objectives"
     section: services
@@ -19,13 +31,13 @@ services:
         desc: "Balance the global ocean turbulent heat and moisture flux contributions to the energy and water cycles to within 5%."
         icon: fab fa-confluence
 
-portfolio:
+  portfolio:
     title: "Mission Concept"
     text: "A passive microwave radiometer measuring from 7-175 GHz"
     section: portfolio
-    
+    closebutton: "Close Project"
 
-timeline:
+  timeline:
     title: "About" 
     text: "Butterfly timeline"
     section: timeline
@@ -62,12 +74,12 @@ timeline:
         align: left
     end: "Be Part <br> of Our <br> Story!"
 
-about:
+  about:
     title: "About Us"
     text: "Our science team is open source, open data, and open science. We are cloud-based and looking for community solutions to advance air-sea interactions research. We want to work with *you*!"
     section: about
 
-clients:
+  clients:
     title: "Partners" 
     text: "Institutional Partners"
     section: clients
@@ -125,9 +137,8 @@ clients:
       - title: "KSAT"
         url: https://www.ksat.no/
         logo: assets/img/clients/KSAT.jpg     
-  
-   
-team:
+
+  team:
     title: "OUR AMAZING TEAM"
     text: "Introducing...."
     subtext: Experts in Oceanography, Meteorology, Satellites, Weather, and Open science! 
@@ -214,22 +225,33 @@ team:
       - name: "Mr. Bouncy"
         role: "Space Dog"
         image: assets/img/team/dog.jpg
-         
-contact:
+
+  contact:
     title: "Contact Us"
     text: "nasa-butterfly@faralloninstitute.org"
     section: contact
-    
-footer:
+    name: "Name*"
+    name-validation: "Please enter your name."
+    email: "Email*"
+    email-validation: "Please enter your email address."
+    phone: "Phone Number"
+    phone-validation: "Please enter your phone number."
+    message: "Message*"
+    message-validation: "Please enter a message."
+    subject: "Contact Form Submission"
+    submit: "Send Message"
+
+  footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"  
       - url: https://github.com/nasa-butterfly/nasa-butterfly.github.io
         icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
-
-
-# {{ site.data.sitetext.ex.ex | markdownify | default: example }}
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
 
