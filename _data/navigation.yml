@@ -34,21 +34,21 @@ en-AU:
 
 # Spanish
 # -------
-es: &DEFAULT_ES
-  nav:
-    - title: "Ciencias"
-      section: servicios
-    - title: "Concepto de Misión"
-      section: portafolio
-    - title: "Cronología"
-      section: cronologia
-    - title: "Equipo"
-      section: equipo
-    - title: "Contáctenos"
-      section: contacto
-    - title: "Fuente de la plantilla"
-      url: https://github.com/nasa-butterfly/nasa-butterfly.github.io
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
+#es: &DEFAULT_ES
+#  nav:
+#    - title: "Ciencias"
+#      section: servicios
+#    - title: "Concepto de Misión"
+#      section: portafolio
+#    - title: "Cronología"
+#      section: cronologia
+#    - title: "Equipo"
+#      section: equipo
+#    - title: "Contáctenos"
+#      section: contacto
+#    - title: "Fuente de la plantilla"
+#      url: https://github.com/nasa-butterfly/nasa-butterfly.github.io
+#es-ES:
+#  <<: *DEFAULT_ES
+#es-CO:
+#  <<: *DEFAULT_ES
