@@ -216,14 +216,11 @@ en: &DEFAULT_EN
           - url: https://github.com/nasa-butterfly/nasa-butterfly.github.io/blob/master/assets/science_team_resumes/farrar.md
             icon: fas fa-file-alt
       - name: "Brian Argrow"
-        role: "Co-Investigator - Lead Student Collaboration"
+        role: "Co-Investigator - Lead Chrysalis Project (Student Collaboration)"
         image: assets/img/team/argrow.jpg
         social:
           - url: https://github.com/nasa-butterfly/nasa-butterfly.github.io/blob/master/assets/science_team_resumes/argrow.md
             icon: fas fa-file-alt
-      - name: "Mr. Bouncy"
-        role: "Space Dog"
-        image: assets/img/team/dog.jpg
 
   contact:
     title: "Contact Us"
