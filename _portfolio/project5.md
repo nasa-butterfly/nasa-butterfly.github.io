@@ -9,7 +9,7 @@ caption:
   subtitle: sampling
   thumbnail: assets/img/portfolio/coverage.png
 ---
-Butterfly will have 91% global coverage in 2 days.
+Butterfly achieves 91% global coverage in 2 days.
 
 {:.list-inline}
 - Date: January 2017
