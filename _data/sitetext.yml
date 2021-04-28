@@ -255,6 +255,6 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 es-ES:
-  <<: *DEFAULT_ES
+  <<: *DEFAULT_EN
 es-CO:
-  <<: *DEFAULT_ES
+  <<: *DEFAULT_EN
