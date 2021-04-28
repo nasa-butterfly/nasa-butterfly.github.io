@@ -241,19 +241,19 @@ en: &DEFAULT_EN
             icon: fas fa-file-alt          
       - name: "Philip Browne"
         role: "Collaborator - Lead ECMWF coupled modeling assimilation"
-        image: assets/img/team/may.jpg
+        image: assets/img/team/browne.jpg
         social:
           - url: https://www.linkedin.com/in/philip-browne-24b459108/?originalSubdomain=uk
             icon: fas fa-file-alt          
       - name: "Chris Harris"
         role: "Collaborator - Lead UK Met Office modeling assimilation"
-        image: assets/img/team/harris.jpeg
+        image: assets/img/team/Harris.jpeg
         social:
           - url: https://www.metoffice.gov.uk/research/people/christopher-harris
             icon: fas fa-file-alt          
       - name: "Misako Kachi"
         role: "Collaborator - Lead AMSR3 inter-cal/dev"
-        image: assets/img/team/kachi.jpg
+        image: assets/img/team/Kachi.jpg
         social:
           - url: https://www.researchgate.net/profile/Jackie-May-2
             icon: fas fa-file-alt          
@@ -265,7 +265,7 @@ en: &DEFAULT_EN
             icon: fas fa-file-alt          
       - name: "Abderrahim Bentamy"
         role: "Collaborator - Lead IFREMER flux product"
-        image: assets/img/team/may.jpg
+        image: assets/img/team/bentamy.jpg
         social:
           - url: https://annuaire.ifremer.fr/cv/15771/
             icon: fas fa-file-alt          
