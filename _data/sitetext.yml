@@ -67,7 +67,7 @@ en: &DEFAULT_EN
         align: right
       - title: "Earth Venture Mission - 3 - NASA competition - extended COVID version"
         year: "2021"
-        desc: "the competition just kept going and going because of COVID.... a millon details to keep track of... so so many zoom calls.... I can remember MEV Wet Mass and Power but sometimes forget my name."
+        desc: "The competition just kept going and going because of COVID.... a millon details to keep track of... so so many zoom calls.... I think most of us can remember MEV Wet Mass and Power but sometimes forget our names."
         image: assets/img/timeline/cat.jpg
         alt: 
         align: left
@@ -221,6 +221,55 @@ en: &DEFAULT_EN
         social:
           - url: https://github.com/nasa-butterfly/nasa-butterfly.github.io/blob/master/assets/science_team_resumes/argrow.md
             icon: fas fa-file-alt
+      - name: "Jeff Whitaker"
+        role: "Collaborator - Lead impact assessment in UFS"
+        image: assets/img/team/whitaker.jpg
+        social:
+          - url: https://psl.noaa.gov/people/jeffrey.s.whitaker
+            icon: fas fa-file-alt
+      - name: "Daryl Kleist"
+        role: "Collaborator - Lead UFS assimilation"
+        image: assets/img/team/kleist.jpg
+        social:
+          - url: https://www2.atmos.umd.edu/~dkleist/
+            icon: fas fa-file-alt
+      - name: "Jackie May"
+        role: "Collaborator - Lead NRL coupled modeling assimilation"
+        image: assets/img/team/may.jpg
+        social:
+          - url: https://www.researchgate.net/profile/Jackie-May-2
+            icon: fas fa-file-alt          
+      - name: "Philip Browne"
+        role: "Collaborator - Lead ECMWF coupled modeling assimilation"
+        image: assets/img/team/may.jpg
+        social:
+          - url: https://www.linkedin.com/in/philip-browne-24b459108/?originalSubdomain=uk
+            icon: fas fa-file-alt          
+      - name: "Chris Harris"
+        role: "Collaborator - Lead UK Met Office modeling assimilation"
+        image: assets/img/team/harris.jpeg
+        social:
+          - url: https://www.metoffice.gov.uk/research/people/christopher-harris
+            icon: fas fa-file-alt          
+      - name: "Misako Kachi"
+        role: "Collaborator - Lead AMSR3 inter-cal/dev"
+        image: assets/img/team/kachi.jpg
+        social:
+          - url: https://www.researchgate.net/profile/Jackie-May-2
+            icon: fas fa-file-alt          
+      - name: "Hiroyuki Tomita"
+        role: "Collaborator - Lead J-OFURO flux product"
+        image: assets/img/team/tomita.png
+        social:
+          - url: https://profs.provost.nagoya-u.ac.jp/html/100009172_en.html
+            icon: fas fa-file-alt          
+      - name: "Abderrahim Bentamy"
+        role: "Collaborator - Lead IFREMER flux product"
+        image: assets/img/team/may.jpg
+        social:
+          - url: https://annuaire.ifremer.fr/cv/15771/
+            icon: fas fa-file-alt          
+          
 
   contact:
     title: "Contact Us"
