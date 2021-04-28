@@ -1,18 +1,18 @@
 ---
-title: Global Coverage
-subtitle: sampling
-image: assets/img/portfolio/coverage.png
-alt: 
+title: Butterfly Concept
+subtitle: Paper
+image: assets/img/portfolio/paper.png
+alt: butterfly
 
 caption:
-  title: Coverage
-  subtitle: sampling
-  thumbnail: assets/img/portfolio/coverage.png
+  title: Butterfly
+  subtitle: Paper
+  thumbnail: assets/img/portfolio/fluxes.png
 ---
-Butterfly will have 91% global coverage in 2 days.
+Leveraging recent advances in sensor technology, we describe a satellite mission concept, FluxSAT (AKA BUTTERFLY). [Full paper](https://www.mdpi.com/2072-4292/12/11/1796)
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- Date: Jun 2020
+- Client: Butterfly
+- Category: EVM3
 

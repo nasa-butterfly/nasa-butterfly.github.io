@@ -1,21 +1,19 @@
 ---
-title: Open Science
-subtitle: accelerate science
-image: assets/img/portfolio/open2.jpg
-alt: Keep Exploring
+title: Butterfly Mission
+subtitle: Fact Sheet
+image: assets/img/portfolio/factsheet_mission.png
+alt: science
 
 caption:
-  title: Open Science
-  subtitle: Open source, Open data, Open access
-  thumbnail: assets/img/portfolio/open.jpg
+  title: Butterfly Mission
+  subtitle: Fact Sheet
+  thumbnail: assets/img/portfolio/small_factsheet_mission.png
 ---
-The Butterfly mission is open by design from inception.  The fastest way to accelerate science for big societal impact. 
-Open data
-Open access
-Open source software
+This fact sheet summarizes the mission science. 
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: Apr 2021
+- Client: Butterfly
+- Category: EVM3
+
 
