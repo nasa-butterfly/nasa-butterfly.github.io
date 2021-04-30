@@ -243,7 +243,9 @@ en: &DEFAULT_EN
         role: "Collaborator - Lead ECMWF coupled modeling assimilation"
         image: assets/img/team/browne.jpg
         social:
-          - url: https://www.linkedin.com/in/philip-browne-24b459108/?originalSubdomain=uk
+          - url: https://twitter.com/philip_browne
+            icon: fab fa-twitter
+          - url: https://www.ecmwf.int/en/about/who-we-are/staff-profiles/philip-browne
             icon: fas fa-file-alt          
       - name: "Chris Harris"
         role: "Collaborator - Lead UK Met Office modeling assimilation"
