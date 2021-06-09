@@ -10,7 +10,7 @@ Atmosphere-ocean exchange of heat and freshwater; dynamics and thermodynamics of
 These interests are pursued using in situ observations, satellite observations, and numerical models to test hypotheses and test or formulate simplified physical models to help us understand ocean dynamics, air-sea interaction, and the earth system. 
 
 ## Role in Investigation:
-Co-Investigator; SO2 Deputy Lead. Analysis of Butterfly observations to examine effects of oceanic mesoscale (~50-500-km) variations of SST, wind, air temperature, and humidity on global and regional air-sea fluxes. 
+Co-Investigator; Science Objective 2 Deputy Lead. Analysis of Butterfly observations to examine effects of oceanic mesoscale (~50-500-km) variations of SST, wind, air temperature, and humidity on global and regional air-sea fluxes. 
 
 ## Experience Related to the Investigation:
 Specialist in upper-ocean physics, air-sea fluxes, and air-sea interaction, and co-author of more than 75 peer-reviewed journal publications on these topics. Principal investigator on numerous projects to make in situ measurements of air-sea fluxes from oceanographic buoys.  Principal Investigator of the Sub-Mesoscale Ocean Dynamics Experiment (S-MODE), a NASA Earth Venture Suborbital Mission that focuses in part on air-sea interaction at 10-100-km scales.
