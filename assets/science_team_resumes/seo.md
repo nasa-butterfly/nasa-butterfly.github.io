@@ -32,7 +32,7 @@ Dr. Seo has mentored a total of 11 undergraduate students through WHOI REU and U
 
 ## Publications:
 Submitted
-1. Bartusek, S., H. Seo, C. C. Ummenhofer, and J. D. Steffen, The role of nearshore air-sea interactions for landfalling atmospheric rivers on the U.S. West Coast. Geophys. Res. Lett., Submitted.
+1. Bartusek, S., H. Seo, C. C. Ummenhofer, and J. D. Steffen, The role of nearshore air-sea interactions for landfalling atmospheric rivers on the U.S. West Coast. Geophys. Res. Lett., 48, e2020GL091388.
 1. Sun, R., A. C. Subramanian, B. D. Cornuelle, M. R. Mazloff, A. J. Miller, I. Hoteit, and H. Seo, The role of air–sea interactions in atmospheric river events: Case studies using the SKRIPS regional coupled model. J. Geophys. Res. –Atmosphere, Revised.
 2020
 1. Liang, Y.-C., M.-H. Lo, C.-W. Lan, H. Seo, C. C. Ummenhofer, S. Yeager, R.-J. Wu, and J. D. Steffen, 2020: Amplified Seasonal Cycle in Hydroclimate over the Amazon River Basin and its Plume Region in the Atlantic. Nat. Commun., 11, 4390.
