@@ -151,7 +151,7 @@ en: &DEFAULT_EN
             icon: fab fa-twitter
           - url: https://github.com/cgentemann
             icon: "fab fa-github"
-          - url: https://github.com/nasa-butterfly/nasa-butterfly.github.io/blob/master/assets/science_team_resumes/gentemann.md
+          - url: https://cgentemann.github.io/
             icon: fas fa-file-alt
       - name: "Carol Anne Clayson"
         role: "Deputy Principal Investigator"
