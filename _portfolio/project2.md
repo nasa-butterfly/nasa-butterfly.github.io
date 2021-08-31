@@ -1,13 +1,13 @@
 ---
-title: Butterfly Mission
+title: Butterfly Science
 subtitle: Fact Sheet
-image: assets/img/portfolio/factsheet_mission.png
+image: assets/img/portfolio/factsheet_science.png
 alt: science
 
 caption:
-  title: Butterfly Mission
+  title: Butterfly Science
   subtitle: Fact Sheet
-  thumbnail: assets/img/portfolio/small_factsheet_mission.png
+  thumbnail: assets/img/portfolio/small_factsheet_science.png
 ---
 This fact sheet summarizes the mission science. 
 
@@ -15,5 +15,4 @@ This fact sheet summarizes the mission science.
 - Date: Apr 2021
 - Client: Butterfly
 - Category: EVM3
-
 

@@ -1,21 +1,18 @@
 ---
-title: Open Science
-subtitle: accelerate science
-image: assets/img/portfolio/open2.jpg
-alt: Keep Exploring
+title: Butterfly Concept
+subtitle: Paper
+image: assets/img/portfolio/paper.png
+alt: butterfly
 
 caption:
-  title: Open Science
-  subtitle: Open source, Open data, Open access
-  thumbnail: assets/img/portfolio/open.jpg
+  title: Butterfly
+  subtitle: Paper
+  thumbnail: assets/img/portfolio/fluxes.png
 ---
-The Butterfly mission is open by design from inception.  Open Science is the fastest way to accelerate science for big societal impact. 
-Open data
-Open access
-Open source software
+Leveraging recent advances in sensor technology, we describe a satellite mission concept, FluxSAT (AKA BUTTERFLY). [Full paper](https://www.mdpi.com/2072-4292/12/11/1796)
 
 {:.list-inline}
-- Date: January 2021
+- Date: Jun 2020
 - Client: Butterfly
-- Category: Open
+- Category: EVM3
 
