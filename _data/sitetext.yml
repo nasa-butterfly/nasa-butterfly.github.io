@@ -85,9 +85,6 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "no" #"yes/no"
     list:
-      - title: "Farallon Institute"
-        url: https://faralloninstitute.org
-        logo: assets/img/clients/FI.png
       - title: "Jet Propulsion Laboratory"
         url: https://www.jpl.nasa.gov/
         logo: assets/img/clients/JPL.jpg
@@ -143,16 +140,6 @@ en: &DEFAULT_EN
     subtext: Experts in Oceanography, Meteorology, Satellites, Weather, and Open science! 
     section: team
     people:
-      - name: "Chelle Gentemann"
-        role: "Principal Investigator"
-        image: assets/img/team/gentemann.jpg
-        social:
-          - url: https://twitter.com/chellegentemann
-            icon: fab fa-twitter
-          - url: https://github.com/cgentemann
-            icon: "fab fa-github"
-          - url: https://cgentemann.github.io/
-            icon: fas fa-file-alt
       - name: "Carol Anne Clayson"
         role: "Deputy Principal Investigator"
         image: assets/img/team/clayson.jpg
