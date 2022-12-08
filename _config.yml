@@ -18,9 +18,9 @@ url    : "https://nasa-butterfly.github.io/" # the base hostname & protocol for 
 baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : Butterfly
-email      : cgentemann@faralloninstitute.org #this is also the email contact forms will go to
-description: "NASA Earth Venture Mission - 3 Proposal"
-author     : Chelle Gentemann
+email      : aneeshcs@colorado.edu #this is also the email contact forms will go to
+description: "NASA Earth Venture Mission Proposal"
+author     : Aneesh Subramanian
   #logo:     #optional, defaults to site title
   # path: ./assets/img/butterfly_logo.png
   # height: 60 #height in px, defaults to 52px
