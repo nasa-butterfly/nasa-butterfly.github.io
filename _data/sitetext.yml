@@ -141,10 +141,20 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Carol Anne Clayson"
-        role: "Deputy Principal Investigator"
+        role: "Principal Investigator"
         image: assets/img/team/clayson.jpg
         social:
           - url: https://github.com/nasa-butterfly/nasa-butterfly.github.io/blob/master/assets/science_team_resumes/clayson.md
+            icon: fas fa-file-alt
+      - name: "Aneesh Subramanian"
+        role: "Deputy Principal Investigator"
+        image: assets/img/team/subramanian.jpg
+        social:
+          - url: https://twitter.com/aneeshcs
+            icon: fab fa-twitter
+          - url: https://github.com/aneeshcs
+            icon: "fab fa-github"       
+          - url: https://github.com/nasa-butterfly/nasa-butterfly.github.io/blob/master/assets/science_team_resumes/subramanian.md
             icon: fas fa-file-alt
       - name: "Tony Lee"
         role: "Project Scientist"
@@ -157,16 +167,6 @@ en: &DEFAULT_EN
         image: assets/img/team/brown.jpg
         social:
           - url: https://github.com/nasa-butterfly/nasa-butterfly.github.io/blob/master/assets/science_team_resumes/brown.md
-            icon: fas fa-file-alt
-      - name: "Aneesh Subramanian"
-        role: "Co-Investigator - Model Applications Lead, Lead S2S verification"
-        image: assets/img/team/subramanian.jpg
-        social:
-          - url: https://twitter.com/aneeshcs
-            icon: fab fa-twitter
-          - url: https://github.com/aneeshcs
-            icon: "fab fa-github"       
-          - url: https://github.com/nasa-butterfly/nasa-butterfly.github.io/blob/master/assets/science_team_resumes/subramanian.md
             icon: fas fa-file-alt
       - name: "Mark Bourassa"
         role: "Co-Investigator - Lead Validation"
